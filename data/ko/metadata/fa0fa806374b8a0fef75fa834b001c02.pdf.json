@@ -1,0 +1,28 @@
+{
+  "title": "Remote sensing for grassland monitoring",
+  "subtitle": "",
+  "description": "This guide reviews methods of acquiring and processing spectral and non-spectral remote sensing data from platforms such as satellites, UAVs, and terrestrial scanners to assess grassland condition and support management decisions. It discusses sensor characteristics, data resolution, practical considerations, and the potential benefits and limitations of implementing remote sensing for farm-scale grassland monitoring.",
+  "locations": [
+    "European Union",
+    "Western Australia"
+  ],
+  "topic": "environment",
+  "theme": "Grassland remote sensing",
+  "keywords": [
+    "remote sensing",
+    "grassland monitoring",
+    "spectral sensing",
+    "LiDAR",
+    "UAV",
+    "multispectral",
+    "hyperspectral",
+    "vegetation indices",
+    "Sentinel-2",
+    "sward height"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 734521
+  },
+  "valid_structure": true
+}

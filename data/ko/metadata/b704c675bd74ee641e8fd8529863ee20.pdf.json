@@ -1,0 +1,27 @@
+{
+  "title": "Performance data of the partial automation trial period on demonstrator 1",
+  "subtitle": "Thermochemical fluids in greenhouse farming",
+  "description": "This deliverable presents performance data collected from the partial automation trial of the TheGreefa thermochemical fluid greenhouse air-conditioning system on demonstrator 1. It details both single-function tests and long-term operation, highlighting the system’s temperature and humidity control performance and associated energy consumption.",
+  "locations": [
+    "Switzerland"
+  ],
+  "topic": "crop farming",
+  "theme": "Greenhouse climate control",
+  "keywords": [
+    "thermochemical fluid",
+    "greenhouse",
+    "automation",
+    "climate control",
+    "absorption system",
+    "humidity control",
+    "temperature control",
+    "energy consumption",
+    "partial automation",
+    "demonstrator"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 2546383
+  },
+  "valid_structure": true
+}

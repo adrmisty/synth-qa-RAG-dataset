@@ -1,0 +1,30 @@
+{
+  "title": "CPO model for tan spot in wheat",
+  "subtitle": "",
+  "description": "A guide for using the CPO decision support model to manage tan spot disease in wheat. It details monitoring protocols, risk thresholds, and fungicide recommendations to protect leaves and minimize yield losses.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Tan spot decision support",
+  "keywords": [
+    "tan spot",
+    "wheat",
+    "fungal disease",
+    "decision support system",
+    "CPO model",
+    "fungicide treatment",
+    "crop monitoring",
+    "growth stages",
+    "risk assessment",
+    "yield loss"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1007775
+  },
+  "valid_structure": true
+}

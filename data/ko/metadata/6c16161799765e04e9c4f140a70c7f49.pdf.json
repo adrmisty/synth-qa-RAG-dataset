@@ -1,0 +1,32 @@
+{
+  "title": "Alcarràs Composting Plant",
+  "subtitle": "",
+  "description": "A composting facility in Alcarràs, Spain, was established by local livestock farmers to transform manure and slurry mixed with park and garden biomass into high-quality organic fertilizer, supporting the circular bioeconomy. The plant processes around 27,000 tonnes of manure annually and plans to expand with a biogas unit to generate electricity and denitrified water for irrigation.",
+  "locations": [
+    "Spain",
+    "Alcarràs",
+    "Segrià",
+    "Lleida",
+    "Pyrenees",
+    "Aran"
+  ],
+  "topic": "livestock",
+  "theme": "Manure composting plant",
+  "keywords": [
+    "composting",
+    "organic fertilizer",
+    "manure management",
+    "slurry",
+    "circular bioeconomy",
+    "biomass",
+    "biogas",
+    "renewable energy",
+    "farm waste",
+    "fertiliser"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 602960
+  },
+  "valid_structure": true
+}

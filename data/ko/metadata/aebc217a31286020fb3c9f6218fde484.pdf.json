@@ -1,0 +1,25 @@
+{
+  "title": "ASSISTANCE DU VETERINAIRE SUR SITE",
+  "subtitle": "",
+  "description": "A guide for on-site veterinarians to support poultry farmers in implementing and maintaining biosecurity measures. It outlines the veterinarian’s role during official audits, pathogen entry events, and routine inspections to advise corrective actions and preventive practices.",
+  "locations": [
+    "Spain"
+  ],
+  "topic": "livestock",
+  "theme": "Veterinary biosecurity guidance",
+  "keywords": [
+    "veterinarian",
+    "biosecurity",
+    "poultry farming",
+    "audit",
+    "pathogen control",
+    "routine inspection",
+    "corrective measures",
+    "disease prevention"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 260835
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Decision support systems for pest and disease management in brassica cultivation",
+  "subtitle": "",
+  "description": "A guide for growers and agronomists on using decision support systems to predict and manage pests and diseases in brassica cultivation. It outlines tools such as Dacom and FuturCrop that utilize weather and sensor data to optimize crop protection strategies and reduce treatment applications.",
+  "locations": [
+    "Europe",
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "Brassica pest management",
+  "keywords": [
+    "integrated pest management",
+    "decision support system",
+    "brassica cultivation",
+    "pest management",
+    "disease management",
+    "monitoring",
+    "weather data",
+    "predictive modelling",
+    "Dacom",
+    "FuturCrop"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 345392
+  },
+  "valid_structure": true
+}

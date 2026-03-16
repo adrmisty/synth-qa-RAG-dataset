@@ -1,0 +1,30 @@
+{
+  "title": "GOI Gas Loop",
+  "subtitle": "Cattura delle emissioni per un ciclo virtuoso dell’azoto nell’allevamento suino",
+  "description": "A factsheet describing the implementation of an innovative ammonia washing system in pig farming to reduce ammonia and greenhouse gas emissions by capturing and converting ammonia into ammonium sulfate fertilizer. It details the technology’s development, on-farm monitoring results, nutrient recovery, and assessment of environmental and economic sustainability.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna",
+    "Reggio Emilia",
+    "Modena"
+  ],
+  "topic": "livestock",
+  "theme": "Ammonia washing system",
+  "keywords": [
+    "ammonia",
+    "greenhouse gas emissions",
+    "pig farming",
+    "ammonium sulfate",
+    "nutrient recovery",
+    "animal welfare",
+    "nitrogen management",
+    "air treatment",
+    "sustainability",
+    "life cycle assessment"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 1697599
+  },
+  "valid_structure": true
+}

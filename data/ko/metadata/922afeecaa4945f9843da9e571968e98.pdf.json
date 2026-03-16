@@ -1,0 +1,28 @@
+{
+  "title": "EIP OPERATIONELE GROEP RENURE",
+  "subtitle": "Infosheet voor producenten van ammoniumzouten",
+  "description": "A technical infosheet detailing the stripping-scrubbing process for recovering ammonium salts from nitrogen-rich waste streams. It provides guidance on process parameters, product properties, storage, economic considerations, and legal frameworks for producers.",
+  "locations": [
+    "Netherlands",
+    "Flanders",
+    "European Union"
+  ],
+  "topic": "crop farming",
+  "theme": "Ammonium salt recovery",
+  "keywords": [
+    "ammonium salts",
+    "stripping-scrubbing",
+    "ammonia recovery",
+    "manure treatment",
+    "fertilizer",
+    "pH adjustment",
+    "nutrient recovery",
+    "economic analysis",
+    "regulatory framework"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 430489
+  },
+  "valid_structure": true
+}

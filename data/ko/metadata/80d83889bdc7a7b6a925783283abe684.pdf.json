@@ -1,0 +1,27 @@
+{
+  "title": "Kokonaisjalostusindeksi",
+  "subtitle": "",
+  "description": "A factsheet on the Nordic Total Merit (NTM) index for dairy cattle breeding, explaining how the index balances production and health traits. It outlines strategies for selecting cows and bulls using trait indices and genomic testing to improve herd productivity and sustainability.",
+  "locations": [
+    "Nordic countries"
+  ],
+  "topic": "livestock",
+  "theme": "Dairy cattle breeding",
+  "keywords": [
+    "NTM index",
+    "dairy cattle",
+    "genomic selection",
+    "breeding strategy",
+    "milk production",
+    "animal health",
+    "feed efficiency",
+    "fertility",
+    "sustainability",
+    "genetic testing"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 225997
+  },
+  "valid_structure": true
+}

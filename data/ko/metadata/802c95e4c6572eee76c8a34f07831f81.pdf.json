@@ -1,0 +1,39 @@
+{
+  "title": "Biodiversiteitsindicatoren voor Europese Landbouwsystemen",
+  "subtitle": "Samenvatting van de Handleiding",
+  "description": "A summary guide presenting a set of 23 complementary biodiversity indicators for European agricultural systems, scientifically tested under the EU FP7 BioBio project. It details methodologies for measuring genetic, species, habitat diversity and management indicators across multiple farming case studies.",
+  "locations": [
+    "Austria",
+    "France",
+    "Netherlands",
+    "Bulgaria",
+    "Switzerland",
+    "Hungary",
+    "Norway",
+    "Wales",
+    "Spain",
+    "Germany",
+    "Italy",
+    "Tunisia",
+    "Ukraine",
+    "Uganda"
+  ],
+  "topic": "environment",
+  "theme": "Agricultural biodiversity indicators",
+  "keywords": [
+    "biodiversity indicators",
+    "agricultural systems",
+    "habitat diversity",
+    "species diversity",
+    "genetic diversity",
+    "farm management",
+    "monitoring methods",
+    "EU FP7 BioBio project",
+    "case studies"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 2568647
+  },
+  "valid_structure": true
+}

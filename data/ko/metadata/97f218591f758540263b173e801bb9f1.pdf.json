@@ -1,0 +1,25 @@
+{
+  "title": "D1.3 Concept for a fully automated control system and operating manual",
+  "subtitle": "Thermochemical fluids in greenhouse farming",
+  "description": "A concept deliverable outlining the design and operating manual for a fully automated control system for greenhouse air conditioning using thermochemical fluids. It describes system components, control strategies, automation integration, and operation procedures for the Horizon 2020 TheGreefa demonstrator.",
+  "locations": [
+    "Wangen near Dübendorf, Switzerland"
+  ],
+  "topic": "crop farming",
+  "theme": "Automated greenhouse climate control",
+  "keywords": [
+    "thermochemical fluid",
+    "greenhouse air conditioning",
+    "automated control system",
+    "sorptive cooling",
+    "humidity control",
+    "absorption process",
+    "desorber",
+    "operating manual"
+  ],
+  "size": {
+    "pages": 29,
+    "bytes": 8153136
+  },
+  "valid_structure": true
+}

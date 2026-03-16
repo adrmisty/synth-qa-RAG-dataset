@@ -1,0 +1,26 @@
+{
+  "title": "UV lamps: watch out for skin and eyes",
+  "subtitle": "UV-lampen: pas op voor huid en ogen",
+  "description": "A fact sheet outlining the hazards of ultraviolet radiation from UV lamps on skin and eyes in agricultural use and integrated pest management. It provides guidance on protective measures and safety standards to prevent acute and chronic health effects.",
+  "locations": [
+    "Europe",
+    "Belgium"
+  ],
+  "topic": "crop farming",
+  "theme": "UV radiation hazards",
+  "keywords": [
+    "UV radiation",
+    "skin protection",
+    "eye protection",
+    "IPM",
+    "UV lamps",
+    "safety glasses",
+    "face shields",
+    "chronic exposure"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 353595
+  },
+  "valid_structure": true
+}

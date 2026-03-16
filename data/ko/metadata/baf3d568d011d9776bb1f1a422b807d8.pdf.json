@@ -1,0 +1,25 @@
+{
+  "title": "The Scoutbox high-efficiency pest management",
+  "subtitle": "La Scoutbox une lutte antiparasitaire très efficace",
+  "description": "The document presents the Scoutbox device, a portable semi-automatic scouting system that uses image recognition and machine learning to monitor pests and beneficial insects in greenhouses. It aims to provide horticultural growers with immediate, accurate online pest counts to support efficient integrated pest management decisions.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "automated pest scouting",
+  "keywords": [
+    "IPM",
+    "Scoutbox",
+    "pest detection",
+    "insect scouting",
+    "greenhouses",
+    "machine learning",
+    "image recognition",
+    "automated monitoring"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 318161
+  },
+  "valid_structure": true
+}

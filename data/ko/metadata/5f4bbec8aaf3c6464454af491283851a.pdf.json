@@ -1,0 +1,26 @@
+{
+  "title": "Decision Support Systems in innovative IPM systems",
+  "subtitle": "Συστήματα υποβοήθησης λήψεως αποφάσεων σε καινοτόμα συστήματα IPM",
+  "description": "A practice abstract describing the use of decision support systems for integrated pest management in vegetable production. It explains how IoT-based forecasts combining meteorological and historical infection data generate risk indices to enable proactive crop protection and reduce chemical inputs.",
+  "locations": [
+    "Greece",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "IPM decision support",
+  "keywords": [
+    "integrated pest management",
+    "decision support systems",
+    "IoT",
+    "forecasting",
+    "prediction",
+    "risk index",
+    "monitoring",
+    "proactive response"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 399658
+  },
+  "valid_structure": true
+}

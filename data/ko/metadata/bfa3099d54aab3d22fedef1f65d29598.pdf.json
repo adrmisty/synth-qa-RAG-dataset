@@ -1,0 +1,39 @@
+{
+  "title": "Codling moth flight model",
+  "subtitle": "",
+  "description": "A fact sheet presenting a decision support system for predicting codling moth flight based on accumulated degree days to enable targeted monitoring and mitigation actions. The model identifies three migration events and informs users of risk levels to reduce damage to apples, pears, and other pome fruits.",
+  "locations": [
+    "Greece",
+    "Albania",
+    "Romania",
+    "Bosnia",
+    "Croatia",
+    "Italy",
+    "Macedonia",
+    "Montenegro",
+    "Portugal",
+    "San Marino",
+    "Slovenia",
+    "Slovakia",
+    "Spain"
+  ],
+  "topic": "crop farming",
+  "theme": "Codling moth flight model",
+  "keywords": [
+    "codling moth",
+    "decision support system",
+    "degree day model",
+    "pome fruit",
+    "pest management",
+    "monitoring",
+    "mitigation",
+    "cumulative captures",
+    "integrated pest management",
+    "temperature data"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 1346664
+  },
+  "valid_structure": true
+}

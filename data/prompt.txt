@@ -1,0 +1,26 @@
+Act as an expert in forestry, livestock, crop farming, economics, environment and societal implications of these (EUFARMBOOK targets). Analyze the attached PDF and generate technical QA pairs.
+
+STRICT RULES:
+1. Language: Generate the question and answer in the predominant language of the PDF. JSON keys must remain in English.
+2. Questions: Highly specific and self-contained. Zero references to "this document" or "this table". They must unequivocally identify the PDF.
+3. Answers: Concrete and exact data. No complete sentences or explanations (e.g., output "15 kg" instead of "The weight is 15 kg").
+4. Context: Map the exact location (page, section ID, and section name).
+
+FORMAT: Strict JSON array.
+
+[
+  {
+    "question": "[Specific question in the PDF's language]",
+    "answer": "[Brief but comprehensive and specific answer]",
+    "contexts": [
+      {
+        "page": [int],
+        "section": "[string or null]",
+        "section_name": "[string]",
+        "subsection": "[string or null]",
+        "subsection_name": "[string]"
+        ...
+      }
+    ]
+  }
+]

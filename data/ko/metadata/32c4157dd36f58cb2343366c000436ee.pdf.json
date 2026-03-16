@@ -1,0 +1,26 @@
+{
+  "title": "Lettuce Fact Sheet",
+  "subtitle": "",
+  "description": "A comprehensive fact sheet for lettuce growers detailing smart IPM technologies and methodologies for open-field and greenhouse systems. It categorizes tools into monitoring, diagnostics and detection, decision support, and application techniques for Integrated Pest Management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Smart IPM technologies",
+  "keywords": [
+    "Lettuce",
+    "Integrated Pest Management",
+    "Smart technology",
+    "Crop monitoring",
+    "Disease diagnostics",
+    "Decision support",
+    "Application tools",
+    "Greenhouse farming",
+    "Open-field farming"
+  ],
+  "size": {
+    "pages": 39,
+    "bytes": 1691955
+  },
+  "valid_structure": true
+}

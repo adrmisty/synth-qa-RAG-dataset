@@ -1,0 +1,29 @@
+{
+  "title": "D2.2.3: Methodology for biophysical-biochemical parameters from new EO",
+  "subtitle": "WP2.2 - EO for monitoring plant status and yield",
+  "description": "A guide for evaluating methods to retrieve crop and vegetation biophysical and biochemical parameters using new Earth Observation data from Sentinel-2 and other high-resolution platforms. It outlines empirical, physically-based and hybrid inversion techniques for parameters such as crop coefficient, fAPAR, chlorophyll content, nitrogen content and leaf area index, and discusses exploiting spectral, spatial and temporal resolutions.",
+  "locations": [
+    "Italy",
+    "Greece",
+    "France"
+  ],
+  "topic": "crop farming",
+  "theme": "Biophysical parameter retrieval",
+  "keywords": [
+    "biophysical parameters",
+    "biochemical parameters",
+    "remote sensing",
+    "Earth Observation",
+    "leaf area index",
+    "FAPAR",
+    "chlorophyll content",
+    "vegetation index",
+    "radiative transfer model",
+    "artificial neural networks"
+  ],
+  "size": {
+    "pages": 39,
+    "bytes": 4175233
+  },
+  "valid_structure": true
+}

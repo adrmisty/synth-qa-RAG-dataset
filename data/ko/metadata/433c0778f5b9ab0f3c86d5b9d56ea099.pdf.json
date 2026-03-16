@@ -1,0 +1,30 @@
+{
+  "title": "D2.2.4 Methodology for EO-assisted maps of nutrient requirements and of yield",
+  "subtitle": "WP2.2 EO for monitoring plant status and yield",
+  "description": "A technical deliverable describing multiple methodologies for creating spatially variable nitrogen fertilization maps and yield potential assessments using Earth observation data. It compares approaches based on sufficiency index, nitrogen nutrition index, EO-based yield potential and crop model inversion, and evaluates their field performance and economic benefits.",
+  "locations": [
+    "Greece",
+    "Italy",
+    "France",
+    "Czech Republic",
+    "Spain"
+  ],
+  "topic": "crop farming",
+  "theme": "Nitrogen fertilization mapping",
+  "keywords": [
+    "Sentinel 2",
+    "satellite",
+    "nitrogen fertilization",
+    "variable rate",
+    "sufficiency index",
+    "nitrogen nutrition index",
+    "yield potential",
+    "remote sensing",
+    "crop modeling"
+  ],
+  "size": {
+    "pages": 70,
+    "bytes": 6743323
+  },
+  "valid_structure": true
+}

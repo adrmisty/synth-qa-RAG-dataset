@@ -1,0 +1,25 @@
+{
+  "title": "LE PROGRAMME BIOPON",
+  "subtitle": "",
+  "description": "The BIOPON program guides poultry advisors through on-site biosecurity audits of laying hen farms, identifying risk factors and providing corrective recommendations. It includes individual training reports and a point-cloud benchmarking tool to compare each farm’s biosecurity score with the regional average.",
+  "locations": [
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity audits",
+  "keywords": [
+    "biosecurity",
+    "poultry farming",
+    "risk factors",
+    "on-site audit",
+    "training report",
+    "benchmarking",
+    "NetPoulSafe",
+    "corrective recommendations"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 893162
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,30 @@
+{
+  "title": "CPO model for Brown rust in wheat",
+  "subtitle": "",
+  "description": "A factsheet describing the CPO dynamic risk model for brown rust in wheat and guiding application of fungicides based on growth stages and disease incidence. It explains how to configure susceptibility, growth stage, and disease observations in the IPM Decisions DSS platform to assess infection risk.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Brown rust risk model",
+  "keywords": [
+    "brown rust",
+    "Puccinia triticina",
+    "wheat",
+    "decision support system",
+    "fungicide",
+    "disease incidence",
+    "growth stage",
+    "risk assessment",
+    "CPO model",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 782294
+  },
+  "valid_structure": true
+}

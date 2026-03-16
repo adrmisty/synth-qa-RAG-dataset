@@ -1,0 +1,27 @@
+{
+  "title": "Cabbage moth model",
+  "subtitle": "",
+  "description": "A factsheet for a decision support system (DSS) designed to predict cabbage moth development based on soil temperature and accumulated degree-days. It provides warnings on egg laying and optimal treatment timing to guide effective pest control.",
+  "locations": [
+    "Norway"
+  ],
+  "topic": "crop farming",
+  "theme": "Cabbage moth model",
+  "keywords": [
+    "cabbage moth",
+    "pest management",
+    "decision support system",
+    "DSS",
+    "degree-day model",
+    "soil temperature",
+    "pest forecasting",
+    "treatment timing",
+    "IPM Decisions",
+    "NIBIO"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 430694
+  },
+  "valid_structure": true
+}

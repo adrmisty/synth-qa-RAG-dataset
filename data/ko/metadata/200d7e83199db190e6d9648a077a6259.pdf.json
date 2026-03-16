@@ -1,0 +1,38 @@
+{
+  "title": "From Space to Farm: Characterization of Small Farms Using Remote Sensing Data",
+  "subtitle": "",
+  "description": "A guide demonstrating the use of Sentinel-1 and Sentinel-2 remote sensing data to map the geographic distribution of small farms and assess crop types, crop area, and production in diverse regions. It details field data collection, image classification using Random Forest algorithms, and validation against official agricultural statistics to support informed decision-making for small-scale farming systems.",
+  "locations": [
+    "Europe",
+    "Bulgaria",
+    "Czech Republic",
+    "France",
+    "Greece",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Spain",
+    "Tunisia"
+  ],
+  "topic": "crop farming",
+  "theme": "Small farms remote sensing",
+  "keywords": [
+    "remote sensing",
+    "small farms",
+    "crop mapping",
+    "Sentinel satellites",
+    "crop area estimation",
+    "agricultural monitoring",
+    "crop production",
+    "land cover classification",
+    "random forest"
+  ],
+  "size": {
+    "pages": 44,
+    "bytes": 3326761
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Biomass hybrid dryer",
+  "subtitle": "",
+  "description": "A guide for a pilot-scale hybrid dryer combining solar collectors and a heat pump to economically dry solid biomass and store intermittent solar energy in the dried fuel. It outlines flexible operating modes that follow electricity prices, modular scalability for rural farms, and the benefits of reduced moisture content and transportation costs.",
+  "locations": [
+    "Finland"
+  ],
+  "topic": "environment",
+  "theme": "Hybrid biomass drying",
+  "keywords": [
+    "drying",
+    "solar energy",
+    "biomass",
+    "heat pump",
+    "moisture reduction",
+    "energy storage",
+    "hybrid dryer",
+    "rural bioeconomy"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 793717
+  },
+  "valid_structure": true
+}

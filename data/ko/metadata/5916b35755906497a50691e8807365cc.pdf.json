@@ -1,0 +1,26 @@
+{
+  "title": "Biomass accounting for Sustainable Forest Management Plans using UAV data",
+  "subtitle": "",
+  "description": "A guide to using UAV photogrammetric data to estimate forest biomass and support sustainable forest management planning. It explains methods to generate high-resolution biomass maps through canopy height modeling and predictive modeling, validated through ground surveys and integrated into a decision support platform.",
+  "locations": [
+    "Italy"
+  ],
+  "topic": "forestry",
+  "theme": "forest biomass estimation",
+  "keywords": [
+    "UAV",
+    "biomass estimation",
+    "forest management",
+    "carbon sequestration",
+    "Canopy Height Model",
+    "3D point cloud",
+    "photogrammetry",
+    "random forest",
+    "decision support system"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 241043
+  },
+  "valid_structure": true
+}

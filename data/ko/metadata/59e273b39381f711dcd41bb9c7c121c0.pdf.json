@@ -1,0 +1,26 @@
+{
+  "title": "Les champignons de Borgotaro IGP",
+  "subtitle": "",
+  "description": "This case study presents the development of an online and mobile application to improve the marketing and user experience of recreational wild mushroom picking permits in Borgo Val di Taro, Italy. It evaluates the transition from paper-based permits to a digital platform, its implementation, outcomes and potential for geographic and service scaling.",
+  "locations": [
+    "Borgo Val di Taro",
+    "Italy"
+  ],
+  "topic": "forestry",
+  "theme": "Mushroom picking permits",
+  "keywords": [
+    "online platform",
+    "mobile application",
+    "recreational mushroom picking",
+    "forest ecosystem services",
+    "permit commercialization",
+    "user experience",
+    "geographic allocation",
+    "scaling potential"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 428537
+  },
+  "valid_structure": true
+}

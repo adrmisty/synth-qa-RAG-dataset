@@ -1,0 +1,25 @@
+{
+  "title": "SYSTÈMES D'ALIMENTATION AUTOMATIQUE - SAA",
+  "subtitle": "",
+  "description": "A guide to the automation of preparation and distribution of total mixed ration in dairy cattle systems. It explains system components, implementation considerations, and highlights improvements in animal welfare, energy efficiency, and farm productivity.",
+  "locations": [],
+  "topic": "livestock",
+  "theme": "Automated feeding systems",
+  "keywords": [
+    "automatic feeding",
+    "total mixed ration",
+    "dairy farming",
+    "animal welfare",
+    "energy efficiency",
+    "productivity",
+    "NIR sensor",
+    "automation",
+    "maintenance program",
+    "data monitoring"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 691321
+  },
+  "valid_structure": true
+}

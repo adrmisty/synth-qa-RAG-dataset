@@ -1,0 +1,26 @@
+{
+  "title": "Diagnostic and detection techniques – Agrobase application",
+  "subtitle": "Techniques de diagnostic et de détection - Application Agrobase",
+  "description": "A guide for using the Agrobase application to accurately identify weeds, pests, insects, and diseases in vegetable crops. It details how the app’s continually updated agronomic knowledge database and registered plant protection product information support integrated pest management decision-making under changing climatic conditions.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Disease and pest identification",
+  "keywords": [
+    "IPM",
+    "diagnosis",
+    "detection",
+    "Agrobase",
+    "identification",
+    "weeds",
+    "pests",
+    "insects",
+    "diseases"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 342603
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Agrivi Farm Management Software",
+  "subtitle": "Gestion agricole Agrivi Software",
+  "description": "A guide to the Agrivi farm management software that enables producers to digitalize agriculture by planning, monitoring, and analyzing all farm activities for efficient and sustainable food production. It facilitates data-driven decision making, complete traceability, and provides pest and disease risk alerts with advanced detection algorithms.",
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Digital farm management",
+  "keywords": [
+    "farm management software",
+    "digital agriculture",
+    "data-driven decisions",
+    "traceability",
+    "integrated pest management",
+    "pest detection",
+    "crop protection",
+    "sustainable production",
+    "weather forecasting"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 354232
+  },
+  "valid_structure": true
+}

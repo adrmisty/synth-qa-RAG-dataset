@@ -1,0 +1,34 @@
+{
+  "title": "Desenvolupament d'eines per a l'optimització de la gestió conjunta de les dejeccions ramaderes i per a la millora de la fertilització agrària, de la qualitat del cultiu i de la protecció del medi",
+  "subtitle": "",
+  "description": "A project developing innovative tools to optimize the joint management of livestock manure and improve agricultural fertilization from economic and environmental perspectives within a coordinated Catalan sector framework. It implements soil and nutrient analysis systems, conductivity-based nutrient content estimators, precision application technologies, transport optimisation software, and a traceability system for sustainable fertiliser use and enhanced crop quality.",
+  "locations": [
+    "Catalonia",
+    "Lleida",
+    "Girona",
+    "Barcelona",
+    "Pla d'Urgell",
+    "Osona",
+    "Noguera",
+    "Bages"
+  ],
+  "topic": "crop farming",
+  "theme": "Manure management tools",
+  "keywords": [
+    "livestock manure",
+    "fertilisation",
+    "nutrient management",
+    "traceability",
+    "conductivity meters",
+    "precision application",
+    "software tools",
+    "soil analysis",
+    "environmental sustainability",
+    "cooperatives"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 97632
+  },
+  "valid_structure": true
+}

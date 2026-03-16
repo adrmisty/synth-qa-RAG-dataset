@@ -1,0 +1,30 @@
+{
+  "title": "D6.4 – First set of practice abstracts",
+  "subtitle": "",
+  "description": "A report presenting the first eight practice abstracts developed by the Horizon 2020 DECIDE project, summarizing data-driven tools and recommendations for controlling non-EU-regulated contagious animal diseases across cattle, pigs, poultry, and salmon. It aims to facilitate dissemination and uptake of DECIDE innovations by practitioners through concise, user-friendly summaries following the EIP-AGRI common format.",
+  "locations": [
+    "Belgium",
+    "Netherlands",
+    "Ireland",
+    "Sweden",
+    "Norway",
+    "Scotland"
+  ],
+  "topic": "livestock",
+  "theme": "Animal health decision support",
+  "keywords": [
+    "practice abstracts",
+    "decision support",
+    "contagious animal diseases",
+    "livestock health",
+    "data-driven tools",
+    "disease monitoring",
+    "dissemination",
+    "EIP-AGRI format"
+  ],
+  "size": {
+    "pages": 21,
+    "bytes": 2156015
+  },
+  "valid_structure": true
+}

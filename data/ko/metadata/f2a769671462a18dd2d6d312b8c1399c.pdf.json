@@ -1,0 +1,27 @@
+{
+  "title": "Wingbeat signals for insect monitoring",
+  "subtitle": "Identificeren van insecten aan de hand van hun vleugelslag signatuur",
+  "description": "A guide for using wingbeat signals captured by acoustic and optical sensors to differentiate insect species through AI-based analysis for integrated pest management in vegetable production. It details convolutional neural network approaches, such as InceptionFly, achieving over 90% accuracy in distinguishing pests like Drosophila suzukii, supporting early automated detection.",
+  "locations": [
+    "Belgium",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Insect wingbeat identification",
+  "keywords": [
+    "IPM",
+    "insect monitoring",
+    "wingbeat signals",
+    "acoustic sensors",
+    "optical sensors",
+    "artificial intelligence",
+    "convolutional neural networks",
+    "Drosophila suzukii",
+    "pest detection"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 382146
+  },
+  "valid_structure": true
+}

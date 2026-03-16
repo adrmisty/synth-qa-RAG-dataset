@@ -1,0 +1,25 @@
+{
+  "title": "Decision support systems for pest and disease management in carrot cultivation",
+  "subtitle": "",
+  "description": "The document reviews decision support systems used for monitoring and predicting pest and disease outbreaks in carrot cultivation, highlighting models like iMETOS, Dacom, OPTIMA IPM, and FuturCrop. It explains how these systems leverage weather and sensor data to optimize the timing of crop protection, reduce yield losses, and support sustainable pest and disease management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Carrot pest and disease management",
+  "keywords": [
+    "Integrated Pest Management",
+    "decision support systems",
+    "crop protection",
+    "disease prediction",
+    "pest monitoring",
+    "iMETOS",
+    "Dacom",
+    "FuturCrop"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 345249
+  },
+  "valid_structure": true
+}

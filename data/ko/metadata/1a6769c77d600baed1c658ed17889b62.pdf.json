@@ -1,0 +1,29 @@
+{
+  "title": "Glume blotch winter wheat",
+  "subtitle": "",
+  "description": "A factsheet on using the IPM Decisions platform's decision support system to manage septoria tritici and stagonospora nodorum leaf blotch diseases in winter wheat by monitoring key growth stages, humidity-based risk, and timing fungicide applications. It outlines DSS parameters, model assumptions, and guidance on updating growth stage dates and spray records throughout the season.",
+  "locations": [
+    "Denmark",
+    "Lithuania",
+    "Norway",
+    "Sweden",
+    "Finland"
+  ],
+  "topic": "crop farming",
+  "theme": "Wheat leaf blotch management",
+  "keywords": [
+    "winter wheat",
+    "leaf blotch",
+    "decision support system",
+    "humidity model",
+    "fungicide application",
+    "growth stages",
+    "risk assessment",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 2545446
+  },
+  "valid_structure": true
+}

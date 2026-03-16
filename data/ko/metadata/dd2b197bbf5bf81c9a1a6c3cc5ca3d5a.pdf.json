@@ -1,0 +1,32 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "A comprehensive introduction to an Atlas of European permanent grasslands that presents a management‐based typology of 18 grassland types and their potential to deliver ecosystem services. It outlines the methodology, including spatial mapping and a two‐step expert‐elicitation process for scoring ecosystem service indicators, and previews the structure of individual type portraits and case studies.",
+  "locations": [
+    "Mediterranean region",
+    "Scandinavia",
+    "British Isles",
+    "Alps",
+    "Spain",
+    "Greece"
+  ],
+  "topic": "environment",
+  "theme": "grassland management typology",
+  "keywords": [
+    "permanent grasslands",
+    "ecosystem services",
+    "grassland typology",
+    "grassland management",
+    "biodiversity",
+    "spatial mapping",
+    "expert elicitation",
+    "case studies",
+    "Mediterranean",
+    "Europe"
+  ],
+  "size": {
+    "pages": 23,
+    "bytes": 9958352
+  },
+  "valid_structure": true
+}

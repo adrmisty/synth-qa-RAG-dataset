@@ -1,0 +1,30 @@
+{
+  "title": "DUD FOOD",
+  "subtitle": "",
+  "description": "A project aimed at identifying commercially viable mulberry cultivations and diversifying mulberry production through innovative propagation techniques including micropropagation, aquaponics, hydroponics, aeroponics, and conventional methods. It focuses on establishing mulberry nurseries, developing ecological feed formulations from mulberry leaves and fruits, and creating a mulberry-based dietary supplement.",
+  "locations": [
+    "Romania",
+    "Satu-Mare",
+    "Cluj",
+    "Tulcea",
+    "Salaj"
+  ],
+  "topic": "crop farming",
+  "theme": "Mulberry propagation systems",
+  "keywords": [
+    "mulberry",
+    "micropropagation",
+    "hydroponics",
+    "aquaponics",
+    "aeroponics",
+    "feed recipe",
+    "dietary supplement",
+    "nursery establishment",
+    "bioactive compounds"
+  ],
+  "size": {
+    "pages": 25,
+    "bytes": 4709584
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,33 @@
+{
+  "title": "An overview of farmers‘ interests regarding smart farming technologies throughout Europe",
+  "subtitle": "",
+  "description": "A summary of a European research project assessing farmers' interests and perceptions of smart farming technologies across multiple countries and cropping systems. It examines key agricultural challenges, adoption levels, and how farm characteristics and farmer values influence technology relevance and information sources.",
+  "locations": [
+    "France",
+    "Germany",
+    "Greece",
+    "Sweden",
+    "Spain",
+    "Netherlands",
+    "Serbia"
+  ],
+  "topic": "crop farming",
+  "theme": "Smart farming technology adoption",
+  "keywords": [
+    "smart farming",
+    "precision agriculture",
+    "technology adoption",
+    "agricultural challenges",
+    "farmer perceptions",
+    "cropping systems",
+    "information sources",
+    "European agriculture",
+    "farm size",
+    "farmer values"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 1727345
+  },
+  "valid_structure": true
+}

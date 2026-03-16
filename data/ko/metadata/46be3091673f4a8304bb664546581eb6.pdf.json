@@ -1,0 +1,27 @@
+{
+  "title": "Mobile pest and disease diagnosis in tomato cultivation",
+  "subtitle": "",
+  "description": "A guide to smartphone applications that leverage AI and high-resolution cameras to diagnose pests and diseases in tomato crops. It reviews apps like Xarvio Scouting, Plantix, Agrio, and CropDiagnosis, outlining their detection methods, diagnosis processes, and alert functionalities.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Mobile pest diagnosis",
+  "keywords": [
+    "IPM",
+    "smartphone apps",
+    "AI diagnosis",
+    "tomato",
+    "pest detection",
+    "disease detection",
+    "Xarvio Scouting",
+    "Plantix",
+    "Agrio",
+    "CropDiagnosis"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 353746
+  },
+  "valid_structure": true
+}

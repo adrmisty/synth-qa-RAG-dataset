@@ -1,0 +1,32 @@
+{
+  "title": "Grassland use in Europe",
+  "subtitle": "A syllabus for young farmers",
+  "description": "A syllabus providing young farmers and advisors with comprehensive practical and technical knowledge for sustainable grassland management across diverse European environments. It presents guidance on grass growth, grazing systems, forage conservation, soil and nutrient management, and the environmental benefits of grasslands.",
+  "locations": [
+    "Sweden",
+    "Ireland",
+    "The Netherlands",
+    "Belgium",
+    "Germany",
+    "Poland",
+    "France",
+    "Italy"
+  ],
+  "topic": "livestock",
+  "theme": "Sustainable grassland management",
+  "keywords": [
+    "grassland",
+    "grazing management",
+    "forage conservation",
+    "soil fertility",
+    "nitrogen management",
+    "biodiversity",
+    "carbon sequestration",
+    "silage"
+  ],
+  "size": {
+    "pages": 267,
+    "bytes": 9269717
+  },
+  "valid_structure": true
+}

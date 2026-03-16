@@ -1,0 +1,33 @@
+{
+  "title": "Report on evaluation of supporting measures to improve the compliance of biosecurity measures",
+  "subtitle": "",
+  "description": "A report evaluating the implementation and effectiveness of various supporting measures aimed at enhancing biosecurity compliance on poultry farms across seven European countries. It analyzes cost-effectiveness, farmer attitudes (via ADKAR and Biocheck scoring), technical performance, and stakeholder perceptions to identify best practices for on-farm biosecurity improvement.",
+  "locations": [
+    "Belgium",
+    "Poland",
+    "France",
+    "Italy",
+    "Spain",
+    "Netherlands",
+    "Hungary"
+  ],
+  "topic": "livestock",
+  "theme": "Biosecurity compliance",
+  "keywords": [
+    "biosecurity",
+    "poultry farming",
+    "supporting measures",
+    "cost-effectiveness",
+    "ADKAR",
+    "Biocheck",
+    "farmer attitudes",
+    "training",
+    "pilot farms",
+    "compliance"
+  ],
+  "size": {
+    "pages": 46,
+    "bytes": 1907916
+  },
+  "valid_structure": true
+}

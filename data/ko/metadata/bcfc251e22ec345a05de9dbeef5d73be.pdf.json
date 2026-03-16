@@ -1,0 +1,26 @@
+{
+  "title": "Carrot Fact Sheet",
+  "subtitle": "",
+  "description": "A guide for carrot farmers and agronomists in Europe on smart technologies and methodologies for Integrated Pest Management (IPM) in open-field systems. It divides IPM solutions into Monitoring, Diagnostics and Detection, Decision Support, and Application techniques for effective pest management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Carrot IPM technologies",
+  "keywords": [
+    "Carrot farming",
+    "Integrated Pest Management",
+    "Smart agriculture",
+    "Precision agriculture",
+    "Crop monitoring",
+    "Pest monitoring",
+    "Diagnostics and detection",
+    "Decision support systems",
+    "Application technologies"
+  ],
+  "size": {
+    "pages": 31,
+    "bytes": 1846755
+  },
+  "valid_structure": true
+}

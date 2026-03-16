@@ -1,0 +1,27 @@
+{
+  "title": "SISTEMI AUTOMATICI DI ALIMENTAZIONE - AFS",
+  "subtitle": "",
+  "description": "A guide to automated feeding systems (AFS) for dairy cattle fed using Total Mixed Ration (TMR), detailing the automation of storage, mixing, and distribution processes. It outlines benefits for animal welfare, energy efficiency, productivity, and labor management, and addresses investment considerations, technological requirements, and maintenance needs.",
+  "locations": [
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Automated dairy feeding",
+  "keywords": [
+    "Automatic feeding system",
+    "dairy cattle",
+    "Total Mixed Ration",
+    "animal welfare",
+    "energy efficiency",
+    "productivity",
+    "labor management",
+    "NIR sensor",
+    "maintenance",
+    "decision support"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 419455
+  },
+  "valid_structure": true
+}

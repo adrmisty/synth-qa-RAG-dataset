@@ -1,0 +1,32 @@
+{
+  "title": "Saddle gall midge winter wheat",
+  "subtitle": "",
+  "description": "A factsheet presenting an IPM decision support system (DSS) for monitoring and managing the saddle gall midge (Haplodiplosis marginata) in winter wheat. It outlines pest biology, DSS parameters based on temperature and rainfall, risk prediction, and recommended timing for monitoring and treatment.",
+  "locations": [
+    "United Kingdom",
+    "Belgium",
+    "Luxembourg",
+    "Netherlands",
+    "France",
+    "Germany",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Saddle gall midge management",
+  "keywords": [
+    "saddle gall midge",
+    "Haplodiplosis marginata",
+    "winter wheat",
+    "decision support system",
+    "emergence model",
+    "integrated pest management",
+    "degree days",
+    "risk assessment",
+    "crop monitoring"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 966347
+  },
+  "valid_structure": true
+}

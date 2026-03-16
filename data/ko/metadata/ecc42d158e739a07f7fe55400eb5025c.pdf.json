@@ -1,0 +1,29 @@
+{
+  "title": "CAP'2ER gereedschap details",
+  "subtitle": "",
+  "description": "CAP'2ER is a farm-level tool based on life cycle assessment to evaluate environmental impacts and support innovation in agricultural practices. It guides farmers through data collection, carbon footprint diagnosis, action planning, and implementation support to improve sustainability and farm resilience.",
+  "locations": [
+    "France",
+    "Switzerland",
+    "Romania"
+  ],
+  "topic": "environment",
+  "theme": "Carbon footprint analysis",
+  "keywords": [
+    "life cycle assessment",
+    "carbon footprint",
+    "greenhouse gas emissions",
+    "biodiversity conservation",
+    "farm benchmarking",
+    "action plan",
+    "data collection",
+    "technical measures",
+    "dairy farming",
+    "renewable energy"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 519426
+  },
+  "valid_structure": true
+}

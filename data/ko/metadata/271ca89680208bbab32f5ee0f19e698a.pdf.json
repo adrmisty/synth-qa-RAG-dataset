@@ -1,0 +1,26 @@
+{
+  "title": "COMPOST QUALITY TEST",
+  "subtitle": "",
+  "description": "A factsheet providing complementary guidance to video tutorials on assessing compost quality. It presents simple chemical and biological tests to determine compost characteristics such as pH, salinity, mineral nitrogen forms, and moisture content.",
+  "locations": [
+    "Switzerland"
+  ],
+  "topic": "environment",
+  "theme": "Compost quality tests",
+  "keywords": [
+    "compost",
+    "quality testing",
+    "pH",
+    "salinity",
+    "mineral nitrogen",
+    "cress test",
+    "moisture content",
+    "compost maturity",
+    "compost stability"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 827655
+  },
+  "valid_structure": true
+}

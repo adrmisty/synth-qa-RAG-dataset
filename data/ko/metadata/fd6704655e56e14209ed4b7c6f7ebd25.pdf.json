@@ -1,0 +1,28 @@
+{
+  "title": "Permanent Grassland (PG) types Atlas",
+  "subtitle": "",
+  "description": "A typology-based atlas presenting 18 management-based European permanent grassland types, describing their distribution, agricultural practices, vegetation, and threats. It includes expert-elicited ecosystem service delivery scores, maps, diagrams, and case studies to guide sustainable grassland management.",
+  "locations": [
+    "Europe",
+    "Northern Ireland",
+    "United Kingdom",
+    "County Down"
+  ],
+  "topic": "environment",
+  "theme": "grassland typology atlas",
+  "keywords": [
+    "permanent grassland",
+    "ecosystem services",
+    "grassland typology",
+    "agricultural management",
+    "expert elicitation",
+    "case study",
+    "biodiversity",
+    "soil properties"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 9963938
+  },
+  "valid_structure": true
+}

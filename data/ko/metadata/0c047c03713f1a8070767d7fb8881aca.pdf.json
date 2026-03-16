@@ -1,0 +1,41 @@
+{
+  "title": "Biodiversity Indicators for European Farming Systems",
+  "subtitle": "Guidebook Summary",
+  "description": "A summary guidebook of farmland biodiversity indicators developed under the EU FP7 BioBio project for organic and low-input farming systems across Europe. It presents a validated set of 23 complementary indicators covering genetic, species, habitat, and farm management diversity, along with protocols for implementation and recommendations for policy monitoring.",
+  "locations": [
+    "Europe",
+    "Austria",
+    "France",
+    "Netherlands",
+    "Bulgaria",
+    "Switzerland",
+    "Hungary",
+    "Norway",
+    "Wales",
+    "Spain",
+    "Germany",
+    "Italy",
+    "Tunisia",
+    "Ukraine",
+    "Uganda"
+  ],
+  "topic": "environment",
+  "theme": "biodiversity indicators",
+  "keywords": [
+    "biodiversity",
+    "farming systems",
+    "indicators",
+    "habitat diversity",
+    "species diversity",
+    "genetic diversity",
+    "farm management",
+    "monitoring",
+    "EU FP7",
+    "BioBio"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 2639149
+  },
+  "valid_structure": true
+}

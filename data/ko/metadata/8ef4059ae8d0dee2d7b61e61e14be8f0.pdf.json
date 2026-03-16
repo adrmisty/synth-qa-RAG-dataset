@@ -1,0 +1,25 @@
+{
+  "title": "Atskirų ūkio KPI / ekonominiai rodikliai, įskaitant sektorių rodiklius, skirtus lyginamajai analizei",
+  "subtitle": "",
+  "description": "A guide for monitoring and comparing farm-level KPIs and economic metrics to support decision-making in dairy farming. It presents a web-based management tool funded by the EU Horizon 2020 program that computes production costs, profitability thresholds, and technical indicators in real time through a visual dashboard.",
+  "locations": [],
+  "topic": "economics",
+  "theme": "Farm economic indicators",
+  "keywords": [
+    "dairy",
+    "farm management",
+    "KPI",
+    "economic indicators",
+    "production costs",
+    "profitability",
+    "web-based tool",
+    "benchmarking",
+    "real-time monitoring",
+    "resilience"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 260434
+  },
+  "valid_structure": true
+}

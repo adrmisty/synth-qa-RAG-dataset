@@ -1,0 +1,33 @@
+{
+  "title": "Forecasting damage by root-feeding fly pests of brassica and onion",
+  "subtitle": "",
+  "description": "A review of forecasting systems developed to manage root-feeding fly pests in brassica and onion crops. It summarizes degree-day and simulation models for Delia species across Europe and North America to support integrated pest management decision-making.",
+  "locations": [
+    "Europe",
+    "Western Europe",
+    "North America",
+    "UK",
+    "Germany",
+    "Norway",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "fly pest forecasting",
+  "keywords": [
+    "IPM",
+    "forecasting",
+    "root-feeding fly pests",
+    "brassica",
+    "onion",
+    "degree-day models",
+    "simulation models",
+    "Delia",
+    "decision support",
+    "vegetable crops"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 336305
+  },
+  "valid_structure": true
+}

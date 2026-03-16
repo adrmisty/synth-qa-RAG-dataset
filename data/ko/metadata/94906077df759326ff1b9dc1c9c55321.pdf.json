@@ -1,0 +1,28 @@
+{
+  "title": "Decision support systems for pest and disease management in pepper cultivation",
+  "subtitle": "",
+  "description": "A practice abstract presenting decision support systems that provide timely alerts for pest and disease threats in pepper cultivation. It outlines available tools—such as iMETOS, Dacom, EVJA and FuturCrop—utilizing climate data and models to optimize integrated pest management and reduce crop losses.",
+  "locations": [
+    "Europe",
+    "UK"
+  ],
+  "topic": "crop farming",
+  "theme": "pepper pest management",
+  "keywords": [
+    "IPM",
+    "decision support systems",
+    "monitoring",
+    "pest management",
+    "disease prediction",
+    "pepper",
+    "iMETOS",
+    "Dacom",
+    "EVJA",
+    "FuturCrop"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 345889
+  },
+  "valid_structure": true
+}

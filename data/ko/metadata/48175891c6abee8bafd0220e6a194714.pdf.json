@@ -1,0 +1,28 @@
+{
+  "title": "Hutton Criteria Late Blight Model",
+  "subtitle": "",
+  "description": "A factsheet presenting a decision support system (DSS) using the Hutton Criteria to predict potato late blight risk and guide fungicide timing during the growing season. It describes model parameters based on daily temperature and humidity thresholds and illustrates how the DSS output can inform targeted treatments.",
+  "locations": [
+    "United Kingdom",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Potato late blight DSS",
+  "keywords": [
+    "decision support system",
+    "potato late blight",
+    "Hutton Criteria",
+    "fungicide timing",
+    "Phytophthora infestans",
+    "humidity",
+    "temperature",
+    "disease risk modeling",
+    "IPM Decisions",
+    "Euroblight"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 1055878
+  },
+  "valid_structure": true
+}

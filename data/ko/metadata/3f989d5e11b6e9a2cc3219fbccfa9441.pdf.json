@@ -1,0 +1,27 @@
+{
+  "title": "Pallet valorisation system for energy purposes",
+  "subtitle": "",
+  "description": "A guide to a containerized system developed by Heizomat for converting single-use pallets into process heat using a chipper, storage silo and boiler. The document outlines energy cost savings, reduced pallet disposal logistics and GHG emissions avoidance, with annual heat output of 250,000 kWh and a payback period of around five years.",
+  "locations": [
+    "Spain"
+  ],
+  "topic": "environment",
+  "theme": "Pallet-to-energy conversion",
+  "keywords": [
+    "pallet valorisation",
+    "heat production",
+    "biomass boiler",
+    "energy cost savings",
+    "circular economy",
+    "GHG emissions reduction",
+    "payback period",
+    "storage silo",
+    "chipper",
+    "containerized system"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 675832
+  },
+  "valid_structure": true
+}

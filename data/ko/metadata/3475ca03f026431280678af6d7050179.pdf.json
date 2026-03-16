@@ -1,0 +1,27 @@
+{
+  "title": "Pepper Fact Sheet",
+  "subtitle": "",
+  "description": "A guide for pepper growers and agronomists in Europe on smart technologies and methodologies for integrated pest management in open-field and greenhouse systems. It categorizes solutions into monitoring, diagnostics and detection, decision support, and application techniques to optimize pest and disease management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Integrated pest management",
+  "keywords": [
+    "pepper",
+    "integrated pest management",
+    "precision agriculture",
+    "greenhouse",
+    "open-field",
+    "sensor technology",
+    "diagnostics",
+    "decision support",
+    "monitoring",
+    "sprayers"
+  ],
+  "size": {
+    "pages": 44,
+    "bytes": 1916893
+  },
+  "valid_structure": true
+}

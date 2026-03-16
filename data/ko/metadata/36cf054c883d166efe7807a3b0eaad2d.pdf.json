@@ -1,0 +1,31 @@
+{
+  "title": "The NetPoulSafe project",
+  "subtitle": "",
+  "description": "The NetPoulSafe project establishes a multi‐actor EU network to enhance biosecurity compliance in poultry farming by collecting data on current practices, testing supporting measures, and validating them on pilot farms. It produces and disseminates tailored materials, tools, and trainings to stakeholders across Spain, Netherlands, Poland, Hungary, Italy, France, and Belgium to improve animal health and production safety.",
+  "locations": [
+    "Spain",
+    "Netherlands",
+    "Poland",
+    "Hungary",
+    "Italy",
+    "France",
+    "Belgium"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity compliance",
+  "keywords": [
+    "poultry",
+    "biosecurity",
+    "compliance",
+    "supporting measures",
+    "AKIS network",
+    "disease prevention",
+    "pilot farms",
+    "EU Horizon 2020"
+  ],
+  "size": {
+    "pages": 118,
+    "bytes": 8138475
+  },
+  "valid_structure": true
+}

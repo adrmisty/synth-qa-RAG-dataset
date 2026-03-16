@@ -1,0 +1,27 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "A technical introduction to the SUPER-G Atlas of European permanent grasslands, detailing a management-based typology of 18 grassland types and the methodology for mapping their distribution and assessing their ecosystem service delivery. It outlines data sources, expert elicitation procedures across multiple biogeographic regions, and the structure of the Atlas, including case studies and appendices.",
+  "locations": [
+    "Europe",
+    "Sweden"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grasslands",
+    "grassland typology",
+    "ecosystem services",
+    "grassland management",
+    "expert elicitation",
+    "biogeographic regions",
+    "mapping",
+    "shrub vegetation",
+    "grazing intensity"
+  ],
+  "size": {
+    "pages": 23,
+    "bytes": 10231881
+  },
+  "valid_structure": true
+}

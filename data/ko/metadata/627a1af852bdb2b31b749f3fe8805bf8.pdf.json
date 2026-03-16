@@ -1,0 +1,27 @@
+{
+  "title": "Concept for a partial automation for greenhouse air conditioning in dry-hot summer climate zone",
+  "subtitle": "",
+  "description": "A technical concept for partial automation of greenhouse climate control in dry-hot summer zones using a thermo-chemical carrier fluid system for air conditioning, dehumidification, and heat recovery. The document outlines design principles, calculation models, greenhouse prototype planning, and component testing from a lab-scale facility in Tunis to a field demonstrator in Ariana, Tunisia.",
+  "locations": [
+    "Tunisia",
+    "Ariana"
+  ],
+  "topic": "crop farming",
+  "theme": "Greenhouse air conditioning",
+  "keywords": [
+    "greenhouse air conditioning",
+    "thermochemical fluid",
+    "dry-hot climate",
+    "heat recovery",
+    "dehumidification",
+    "automation",
+    "sorptive cooling",
+    "MgCl2 solution",
+    "greenhouse prototype"
+  ],
+  "size": {
+    "pages": 24,
+    "bytes": 43967944
+  },
+  "valid_structure": true
+}

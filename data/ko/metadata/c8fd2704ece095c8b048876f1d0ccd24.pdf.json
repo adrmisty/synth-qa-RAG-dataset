@@ -1,0 +1,33 @@
+{
+  "title": "Schnittwurm",
+  "subtitle": "",
+  "description": "A factsheet presenting a decision support system (DSS) for managing cutworm (Agrotis spp.) infestations in root crops by predicting larval stages based on temperature and rainfall data. It explains model parameters, outputs, and treatment recommendations, and notes its adaptation to UK conditions with pending validation in several European countries.",
+  "locations": [
+    "United Kingdom",
+    "Belgium",
+    "Luxembourg",
+    "Netherlands",
+    "France",
+    "Germany",
+    "Ireland",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Cutworm pest management",
+  "keywords": [
+    "cutworms",
+    "decision support system",
+    "integrated pest management",
+    "larval stages",
+    "Agrotis species",
+    "root crops",
+    "temperature model",
+    "rainfall mortality",
+    "treatment threshold"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 767718
+  },
+  "valid_structure": true
+}

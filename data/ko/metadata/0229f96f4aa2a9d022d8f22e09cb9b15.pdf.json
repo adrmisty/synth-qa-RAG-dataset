@@ -1,0 +1,28 @@
+{
+  "title": "Decision support systems for pest and disease management in lettuce cultivation",
+  "subtitle": "",
+  "description": "The guide describes how decision support systems leverage monitored and forecasted weather data to provide timely alerts for potential pest and disease outbreaks in lettuce crops. It reviews the iMETOS, Dacom and FuturCrop platforms and their demonstrated role in reducing yield losses and treatment applications to promote more sustainable lettuce cultivation.",
+  "locations": [
+    "Europe",
+    "UK"
+  ],
+  "topic": "crop farming",
+  "theme": "Lettuce pest and disease DSS",
+  "keywords": [
+    "Integrated Pest Management",
+    "Decision Support Systems",
+    "Lettuce cultivation",
+    "Pest management",
+    "Disease management",
+    "iMETOS",
+    "Dacom",
+    "FuturCrop",
+    "Weather data",
+    "Sustainable agriculture"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 346334
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A heat storage device",
+  "subtitle": "",
+  "description": "A laboratory-scale device was developed at the University of Warmia and Mazury in Olsztyn to store heat using paraffin-based phase change materials for thermal energy storage. The system can capture surplus energy from renewable sources and release it on demand, making it suitable for small household installations as well as larger thermal stabilization applications.",
+  "locations": [
+    "Poland"
+  ],
+  "topic": "environment",
+  "theme": "Thermal energy storage",
+  "keywords": [
+    "thermal energy storage",
+    "phase change materials",
+    "paraffin",
+    "renewable energy",
+    "heat capacity",
+    "electric heaters",
+    "laboratory device",
+    "energy storage systems"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 780061
+  },
+  "valid_structure": true
+}

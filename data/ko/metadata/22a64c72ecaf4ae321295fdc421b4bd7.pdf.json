@@ -1,0 +1,25 @@
+{
+  "title": "Downy mildew of grapevine",
+  "subtitle": "FACTSHEET",
+  "description": "A factsheet presenting a decision support system (DSS) for estimating and managing downy mildew risk in grapevines. It outlines the infection model parameters, risk index outputs, and recommendations for pesticide application based on weather data.",
+  "locations": [
+    "Greece"
+  ],
+  "topic": "crop farming",
+  "theme": "downy mildew risk modeling",
+  "keywords": [
+    "downy mildew",
+    "grapevine",
+    "decision support system",
+    "infection model",
+    "leaf wetness",
+    "risk index",
+    "pesticide application",
+    "gaiasense"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 509545
+  },
+  "valid_structure": true
+}

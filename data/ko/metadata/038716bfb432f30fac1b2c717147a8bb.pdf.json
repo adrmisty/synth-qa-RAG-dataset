@@ -1,0 +1,26 @@
+{
+  "title": "BIOPON PROGRAMME",
+  "subtitle": "",
+  "description": "The BIOPON programme provides on-site biosecurity audits to identify and score risk factors for the entry of pathogenic microorganisms in layer poultry farms. Trained veterinarians deliver individual training reports and scatter plot comparisons against regional averages to guide farmers in implementing corrective measures.",
+  "locations": [
+    "Spain"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry farm biosecurity",
+  "keywords": [
+    "biosecurity",
+    "poultry farming",
+    "on-site audit",
+    "pathogenic microorganisms",
+    "risk factors",
+    "training report",
+    "scatter plot",
+    "corrective measures",
+    "veterinarian"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 863391
+  },
+  "valid_structure": true
+}

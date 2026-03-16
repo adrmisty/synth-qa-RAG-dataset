@@ -1,0 +1,35 @@
+{
+  "title": "Introduction",
+  "subtitle": "",
+  "description": "A guide to the SUPER-G Atlas of European Permanent Grasslands, presenting a typology of 18 grassland types defined by management practices, woody plant cover, and climate regions. It explains the expert-elicitation methodology, data sources, and criteria used to evaluate ecosystem service delivery and to structure the grassland portraits and case studies.",
+  "locations": [
+    "Europe",
+    "Iberian Peninsula",
+    "Fennoscandia",
+    "Baltic states",
+    "Spain",
+    "Atlantic region",
+    "Alpine region",
+    "Boreal region",
+    "Continental region",
+    "Mediterranean region"
+  ],
+  "topic": "environment",
+  "theme": "Grassland typology atlas",
+  "keywords": [
+    "permanent grasslands",
+    "ecosystem services",
+    "grassland typology",
+    "grassland management",
+    "expert elicitation",
+    "woody plant cover",
+    "biogeographic regions",
+    "case studies",
+    "European Atlas"
+  ],
+  "size": {
+    "pages": 23,
+    "bytes": 10049092
+  },
+  "valid_structure": true
+}

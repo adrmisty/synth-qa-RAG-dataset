@@ -1,0 +1,33 @@
+{
+  "title": "Decision Support System for Barley Yellow Dwarf Virus",
+  "subtitle": "",
+  "description": "A factsheet presenting an online DSS for predicting the emergence of the second generation of aphids transmitting Barley Yellow Dwarf Virus based on accumulated daily temperatures above 3°C. It provides guidance on parameter settings, risk status interpretation, and geographic applicability across several European countries.",
+  "locations": [
+    "United Kingdom",
+    "Belgium",
+    "Luxembourg",
+    "Netherlands",
+    "France",
+    "Germany",
+    "Republic of Ireland",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Aphid emergence forecasting",
+  "keywords": [
+    "Barley Yellow Dwarf Virus",
+    "aphids",
+    "decision support system",
+    "T-sum calculation",
+    "temperature accumulation",
+    "risk prediction",
+    "cereal crop management",
+    "insecticide timing",
+    "integrated pest management"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 620291
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Decision support systems for pest and disease management in cucumber cultivation",
+  "subtitle": "",
+  "description": "A guide detailing decision support systems that deliver timely pest and disease alerts to optimize management strategies in cucumber cultivation. It summarizes tools like iMETOS, EVJA OPI support, Agrivi Farm Management, and FuturCrop that leverage sensor and weather data to improve IPM, reduce crop losses, and minimize treatments.",
+  "locations": [
+    "Europe",
+    "UK"
+  ],
+  "topic": "crop farming",
+  "theme": "Pest and disease DSS",
+  "keywords": [
+    "decision support systems",
+    "pest management",
+    "disease management",
+    "cucumber cultivation",
+    "integrated pest management",
+    "iMETOS",
+    "EVJA",
+    "Agrivi Farm Management",
+    "FuturCrop",
+    "sustainable agriculture"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 345161
+  },
+  "valid_structure": true
+}

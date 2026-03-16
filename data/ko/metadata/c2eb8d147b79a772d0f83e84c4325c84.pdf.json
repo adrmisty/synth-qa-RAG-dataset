@@ -1,0 +1,26 @@
+{
+  "title": "Centre d’Elevage de Poisy",
+  "subtitle": "Ferme pilote 2016",
+  "description": "A factsheet summarizing the management, production and sustainability practices of the Centre d’Elevage de Poisy pilot dairy farm in Rhône-Alpes, France. It details herd characteristics, land use, feeding regimes, fertilization, carbon footprint, economic performance and improvement objectives for 2018-2020.",
+  "locations": [
+    "France",
+    "Rhône-Alpes"
+  ],
+  "topic": "livestock",
+  "theme": "Sustainable dairy farming",
+  "keywords": [
+    "dairy farming",
+    "herd management",
+    "land use",
+    "feeding regimes",
+    "fertilization",
+    "carbon footprint",
+    "economic performance",
+    "sustainability improvement"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 1209920
+  },
+  "valid_structure": true
+}

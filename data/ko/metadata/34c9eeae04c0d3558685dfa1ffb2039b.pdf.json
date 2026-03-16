@@ -1,0 +1,33 @@
+{
+  "title": "TÁMOGATÓ INTÉZKEDÉSEK KÉZIKÖNYVE",
+  "subtitle": "",
+  "description": "A handbook of supporting measures developed in the EU-funded NetPoulSafe project to improve biosecurity compliance across the European poultry sector. It compiles 50 validated tools, guidelines and training resources for farmers and veterinary advisors in multiple countries.",
+  "locations": [
+    "Belgium",
+    "France",
+    "Hungary",
+    "Italy",
+    "The Netherlands",
+    "Poland",
+    "Spain"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity measures",
+  "keywords": [
+    "biosecurity",
+    "poultry farming",
+    "disease prevention",
+    "training",
+    "audits",
+    "farm guidance",
+    "support measures",
+    "veterinary advisors",
+    "best practices",
+    "EU network"
+  ],
+  "size": {
+    "pages": 152,
+    "bytes": 19806358
+  },
+  "valid_structure": true
+}

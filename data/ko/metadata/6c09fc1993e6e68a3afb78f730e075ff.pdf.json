@@ -1,0 +1,27 @@
+{
+  "title": "HTC of biomass",
+  "subtitle": "",
+  "description": "A practice abstract describing the industrial-scale implementation of hydrothermal carbonization technology for converting wet organic residues into a high-energy biocoal and a fertilizing aqueous byproduct. It details Ingelia’s Valencia plant capacity, process advantages such as increased heating value and hydrophobicity of the biocoal, and potential applications in renewable heat generation and irrigation.",
+  "locations": [
+    "Spain",
+    "Valencia"
+  ],
+  "topic": "environment",
+  "theme": "Hydrothermal carbonization",
+  "keywords": [
+    "hydrothermal carbonization",
+    "biocoal",
+    "biomass",
+    "heating value",
+    "organic residues",
+    "renewable fuel",
+    "fertilizer",
+    "continuous processing",
+    "pelletization"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 724109
+  },
+  "valid_structure": true
+}

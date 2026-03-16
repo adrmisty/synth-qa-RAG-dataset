@@ -1,0 +1,27 @@
+{
+  "title": "Pollen Beetle (Warwick HRI model)",
+  "subtitle": "",
+  "description": "A factsheet describing a Warwick HRI phenology model–based decision support system for predicting the lifecycle stages of pollen beetles on brassica crops. It outlines the use of soil and air temperature data to forecast emergence and guide targeted monitoring and crop protection actions in the UK.",
+  "locations": [
+    "UK"
+  ],
+  "topic": "crop farming",
+  "theme": "Pollen beetle forecasting",
+  "keywords": [
+    "pollen beetle",
+    "Meligethes aeneus",
+    "decision support system",
+    "phenology model",
+    "air temperature",
+    "soil temperature",
+    "emergence timing",
+    "crop protection",
+    "integrated pest management",
+    "Warwick HRI"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 178317
+  },
+  "valid_structure": true
+}

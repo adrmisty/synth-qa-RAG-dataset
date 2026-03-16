@@ -1,0 +1,30 @@
+{
+  "title": "Potato Late Blight, Negative prognosis",
+  "subtitle": "",
+  "description": "A factsheet on the negative prognosis model for controlling potato late blight using a decision support system. The DSS calculates accumulated blight risk from weather data to guide the timing of the first fungicide application.",
+  "locations": [
+    "Germany",
+    "Europe",
+    "United Kingdom",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Potato late blight DSS",
+  "keywords": [
+    "potato late blight",
+    "decision support system",
+    "negative prognosis",
+    "Phytophthora infestans",
+    "fungicide application",
+    "accumulated risk",
+    "weather data",
+    "crop emergence",
+    "Integrated Pest Management",
+    "agronomic risk factors"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 1380763
+  },
+  "valid_structure": true
+}

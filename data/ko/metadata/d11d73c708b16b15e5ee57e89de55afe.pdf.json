@@ -1,0 +1,30 @@
+{
+  "title": "Fluidos termoquímicos para cultivos en invernaderos",
+  "subtitle": "MANUAL DE FORMACIÓN",
+  "description": "A training manual for the EU Horizon 2020 TheGreefa project presenting the development and demonstration of thermo-chemical fluids for greenhouse climate control and drying processes. It provides technical background, demonstration results, case study analyses of energy, economic and environmental impacts, and policy recommendations for implementing TCF technology in greenhouses.",
+  "locations": [
+    "Spain",
+    "Switzerland",
+    "Tunisia",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Thermo-chemical greenhouse fluids",
+  "keywords": [
+    "greenhouse",
+    "thermo-chemical fluids",
+    "climate control",
+    "energy efficiency",
+    "drying process",
+    "regeneration",
+    "life cycle assessment",
+    "case study",
+    "Horizon 2020",
+    "policy recommendations"
+  ],
+  "size": {
+    "pages": 66,
+    "bytes": 8495865
+  },
+  "valid_structure": true
+}

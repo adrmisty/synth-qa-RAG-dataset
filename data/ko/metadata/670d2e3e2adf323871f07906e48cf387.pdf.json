@@ -1,0 +1,27 @@
+{
+  "title": "GUÍA BIOSEGURIDAD EN FÁBRICAS DE PIENSOS",
+  "subtitle": "",
+  "description": "A guide for implementing biosecurity protocols in feed mills to reduce disease spread via delivery trucks and drivers. It outlines logistical and cleaning measures to minimize cross-contamination and transmission of pathogens like Avian Influenza and Salmonella.",
+  "locations": [
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Feed mill biosecurity",
+  "keywords": [
+    "biosecurity",
+    "feed mills",
+    "disease transmission",
+    "trucks",
+    "disinfection",
+    "logistics",
+    "cleaning",
+    "Avian Influenza",
+    "Salmonella",
+    "cross-contamination"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 350200
+  },
+  "valid_structure": true
+}

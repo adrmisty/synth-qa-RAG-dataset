@@ -1,0 +1,27 @@
+{
+  "title": "Onion Fact Sheet",
+  "subtitle": "",
+  "description": "A fact sheet presenting smart technologies and methodologies for integrated pest management in open-field onion cultivation. It provides detailed information on monitoring, diagnostics, decision support, and application tools to optimize crop protection and reduce pesticide use.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Onion IPM technologies",
+  "keywords": [
+    "onion",
+    "integrated pest management",
+    "precision agriculture",
+    "pest monitoring",
+    "diagnostics",
+    "decision support systems",
+    "precision spraying",
+    "drone application",
+    "mechanical weeding",
+    "ultraviolet treatment"
+  ],
+  "size": {
+    "pages": 31,
+    "bytes": 1941799
+  },
+  "valid_structure": true
+}

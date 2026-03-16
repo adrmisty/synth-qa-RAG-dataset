@@ -1,0 +1,28 @@
+{
+  "title": "Greenhouse mapping applications for pest and disease scouting management (IPM scoutek, CropScanner app, Farmapp)",
+  "subtitle": "",
+  "description": "A guide presenting mobile mapping applications for integrated pest management scouting in greenhouses. It highlights how IPM scoutek, CropScanner app, and Farmapp provide geolocated data visualization, pest and beneficial tracking, and route optimization to enhance IPM decision-making and efficacy evaluation.",
+  "locations": [
+    "United Kingdom",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Greenhouse IPM mapping",
+  "keywords": [
+    "IPM",
+    "IPM scoutek",
+    "CropScanner",
+    "Farmapp",
+    "scouting data",
+    "mapping applications",
+    "greenhouse",
+    "pest management",
+    "disease management",
+    "efficacy tracking"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 352802
+  },
+  "valid_structure": true
+}

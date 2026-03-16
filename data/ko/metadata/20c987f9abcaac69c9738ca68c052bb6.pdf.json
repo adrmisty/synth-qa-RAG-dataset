@@ -1,0 +1,31 @@
+{
+  "title": "Irrigation of grasslands",
+  "subtitle": "",
+  "description": "A guide on irrigating grasslands to reduce soil moisture deficits during critical growth periods and optimize yields, nutrient uptake, and pest control. It outlines traditional and modern irrigation methods, their benefits, practical considerations, and decision support tools to improve water use efficiency in grassland management.",
+  "locations": [
+    "Italy",
+    "Po plain",
+    "Eastern Alps",
+    "Northern Italy",
+    "Mediterranean regions",
+    "Central European regions",
+    "Atlantic regions"
+  ],
+  "topic": "crop farming",
+  "theme": "grassland irrigation management",
+  "keywords": [
+    "grassland irrigation",
+    "soil moisture",
+    "water management",
+    "irrigation systems",
+    "drought mitigation",
+    "grassland productivity",
+    "irrigation efficiency",
+    "decision support tools"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 599330
+  },
+  "valid_structure": true
+}

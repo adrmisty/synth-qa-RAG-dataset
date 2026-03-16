@@ -1,0 +1,30 @@
+{
+  "title": "Les fluides thermochimiques dans l'agriculture d'intérieur",
+  "subtitle": "MANUEL DE FORMATION",
+  "description": "A training manual for the Horizon 2020 TheGreefa project introducing the concept, applications, and demonstration of thermochemical fluid technology for climate control and energy storage in greenhouse farming. It details system components, demonstrator sites in Switzerland and Tunisia, case study simulations in Spain and Italy, environmental and techno-economic impact assessments, and policy recommendations.",
+  "locations": [
+    "Switzerland",
+    "Tunisia",
+    "Spain",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Thermochemical fluids in greenhouses",
+  "keywords": [
+    "thermochemical fluids",
+    "greenhouse farming",
+    "indoor agriculture",
+    "energy storage",
+    "dehumidification",
+    "sorption drying",
+    "climate control",
+    "renewable energy",
+    "case studies",
+    "techno-economic analysis"
+  ],
+  "size": {
+    "pages": 68,
+    "bytes": 8633591
+  },
+  "valid_structure": true
+}

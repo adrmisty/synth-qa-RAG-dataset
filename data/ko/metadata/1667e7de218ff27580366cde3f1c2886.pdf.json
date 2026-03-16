@@ -1,0 +1,27 @@
+{
+  "title": "Decision support systems for pest and disease management in onion cultivation",
+  "subtitle": "",
+  "description": "Provides an overview of decision support systems that deliver timely alerts for pest and disease risks in onion cultivation, enabling targeted interventions to reduce yield losses and chemical inputs. Reviews platforms such as iMETOS, Dacom, Agronet, Agrivi and FuturCrop, which leverage weather and sensor data for predictive modelling to support sustainable pest and disease management.",
+  "locations": [
+    "Europe",
+    "UK"
+  ],
+  "topic": "crop farming",
+  "theme": "Onion pest and disease DSS",
+  "keywords": [
+    "decision support systems",
+    "integrated pest management",
+    "onion cultivation",
+    "disease prediction",
+    "pest management",
+    "weather station data",
+    "iMETOS",
+    "Dacom",
+    "FuturCrop"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 345178
+  },
+  "valid_structure": true
+}

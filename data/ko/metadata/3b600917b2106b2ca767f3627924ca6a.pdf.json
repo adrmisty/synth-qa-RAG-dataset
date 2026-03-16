@@ -1,0 +1,26 @@
+{
+  "title": "Diagnostic and detection techniques – Application Agrorobotica SpyFly",
+  "subtitle": "Techniques de diagnostic et de détection - Application Agrorobotica SpyFly",
+  "description": "A guide to the application of Agrorobotica SpyFly, an AI-powered system for real-time pest monitoring in vegetable crops using color- and pheromone-baited sticky traps, imaging, and cloud-based analysis. It supports SMART Integrated Pest Management by reducing crop losses, field labor, and chemical treatments while facilitating organic production.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "AI pest monitoring",
+  "keywords": [
+    "Integrated Pest Management",
+    "pest detection",
+    "diagnosis",
+    "AI monitoring",
+    "sticky traps",
+    "pheromones",
+    "cloud analysis",
+    "predictive models",
+    "vegetable production"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 343145
+  },
+  "valid_structure": true
+}

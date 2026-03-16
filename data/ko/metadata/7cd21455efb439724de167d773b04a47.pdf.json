@@ -1,0 +1,35 @@
+{
+  "title": "Policy Brief Overview",
+  "subtitle": "",
+  "description": "A policy brief presenting key findings and recommendations from the SALSA Horizon 2020 project on supporting small farms and small food businesses in Europe and Africa. It outlines small farm typologies, their contributions to regional food and nutrition security, and policy measures to improve enabling conditions such as land access, finance, market access, climate adaptation and knowledge exchange.",
+  "locations": [
+    "Africa",
+    "Europe",
+    "Northern Europe",
+    "Southern Europe",
+    "Eastern Europe",
+    "Latvia",
+    "Poland",
+    "Portugal",
+    "Italy"
+  ],
+  "topic": "economics",
+  "theme": "Small farms food security",
+  "keywords": [
+    "small farms",
+    "food security",
+    "policy intervention",
+    "land access",
+    "finance",
+    "market access",
+    "climate adaptation",
+    "knowledge exchange",
+    "small food businesses",
+    "sustainable agriculture"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 947495
+  },
+  "valid_structure": true
+}

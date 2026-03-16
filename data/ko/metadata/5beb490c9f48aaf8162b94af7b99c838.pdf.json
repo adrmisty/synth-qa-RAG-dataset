@@ -1,0 +1,40 @@
+{
+  "title": "Indicateurs de biodiversité dans les systèmes agricoles européens",
+  "subtitle": "Sommaire du guide",
+  "description": "A summary guide presenting a set of 23 scientifically based indicators for assessing biodiversity across European agricultural systems. It outlines methods for mapping habitats, measuring species and genetic diversity, and evaluating farm management practices to support biodiversity monitoring.",
+  "locations": [
+    "Austria",
+    "France",
+    "Netherlands",
+    "Bulgaria",
+    "Switzerland",
+    "Hungary",
+    "Norway",
+    "Wales",
+    "Spain",
+    "Germany",
+    "Italy",
+    "Tunisia",
+    "Ukraine",
+    "Uganda"
+  ],
+  "topic": "environment",
+  "theme": "Biodiversity indicators",
+  "keywords": [
+    "biodiversity",
+    "indicators",
+    "agricultural systems",
+    "habitat mapping",
+    "species diversity",
+    "genetic diversity",
+    "farm management",
+    "monitoring",
+    "agroecology",
+    "BioBio project"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 2596652
+  },
+  "valid_structure": true
+}

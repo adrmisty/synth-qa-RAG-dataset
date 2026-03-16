@@ -1,0 +1,28 @@
+{
+  "title": "Umweltüberwachung von Gewächshauskulturen mit Hilfe von drahtlosen Sensoren",
+  "subtitle": "",
+  "description": "A guide to implementing wireless IoT sensors for granular environmental monitoring in greenhouse crops. It presents the SmartProtect case study in commercial tomato production and discusses challenges, data analysis, and future visions for precision plant protection.",
+  "locations": [
+    "United Kingdom",
+    "British Midlands"
+  ],
+  "topic": "crop farming",
+  "theme": "Wireless greenhouse monitoring",
+  "keywords": [
+    "environmental monitoring",
+    "greenhouse crops",
+    "wireless sensors",
+    "IoT",
+    "SmartProtect",
+    "case study",
+    "precision pest management",
+    "microclimate data",
+    "cloud analytics",
+    "integrated pest management"
+  ],
+  "size": {
+    "pages": 7,
+    "bytes": 951790
+  },
+  "valid_structure": true
+}

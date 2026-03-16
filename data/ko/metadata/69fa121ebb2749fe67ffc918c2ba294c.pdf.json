@@ -1,0 +1,27 @@
+{
+  "title": "Atlas of European Permanent Grassland Types",
+  "subtitle": "",
+  "description": "A guide presenting a typology of European permanent grasslands based on management intensity, climate constraints and utilisation method. It profiles each grassland type’s distribution, agricultural practices, vegetation characteristics and ecosystem service delivery, supplemented by maps and expert-elicited case studies.",
+  "locations": [
+    "Europe",
+    "Wales",
+    "United Kingdom"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grassland",
+    "grassland typology",
+    "ecosystem services",
+    "grazing management",
+    "medium-intensity",
+    "expert elicitation",
+    "biogeographic mapping",
+    "case study"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 9876536
+  },
+  "valid_structure": true
+}

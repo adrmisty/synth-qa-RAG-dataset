@@ -1,0 +1,25 @@
+{
+  "title": "Natutec Scout App – Digital IPM management System",
+  "subtitle": "Natutec Scout App - Gestion numérique de la lutte intégrée contre les parasites système",
+  "description": "A guide for using the Natutec Scout App, a mobile platform that streamlines integrated pest management in greenhouse vegetable production. It enables automatic pest detection through smartphone-based scouting, provides real-time data analysis and customizable alert thresholds, and supports decision-making for improved crop health and yield.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Digital IPM management",
+  "keywords": [
+    "integrated pest management",
+    "digital scouting",
+    "mobile application",
+    "greenhouse production",
+    "pest detection",
+    "data analysis",
+    "threshold alerts",
+    "biocontrol"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 407947
+  },
+  "valid_structure": true
+}

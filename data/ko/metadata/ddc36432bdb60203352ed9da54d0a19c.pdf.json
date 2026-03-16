@@ -1,0 +1,26 @@
+{
+  "title": "Energy from miniature power plants",
+  "subtitle": "",
+  "description": "A practice abstract describing Volter Ltd’s container-based miniature power plants that gasify dried wood chips to generate combined heat and electricity for farms, communities, or companies. It outlines the technology, performance improvements, and options for scalable, weather-proof and factory-linked installations.",
+  "locations": [
+    "Finland",
+    "UK",
+    "Japan"
+  ],
+  "topic": "forestry",
+  "theme": "Small-scale biomass gasification",
+  "keywords": [
+    "gasification",
+    "wood chips",
+    "biomass energy",
+    "combined heat and power",
+    "container-based plant",
+    "renewable energy",
+    "small-scale power"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 733454
+  },
+  "valid_structure": true
+}

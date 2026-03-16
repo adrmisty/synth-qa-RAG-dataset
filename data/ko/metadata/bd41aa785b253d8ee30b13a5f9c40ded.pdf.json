@@ -1,0 +1,27 @@
+{
+  "title": "AUTOMATA TAKARMÁNYKIOSZTÓ - AFS",
+  "subtitle": "",
+  "description": "A guide for implementing Automated Feeding Systems (AFS) for Total Mixed Ration (TMR) preparation and distribution in dairy cattle operations. It outlines technical and social-economic benefits, including improved animal welfare, energy efficiency, and productivity, as well as integration considerations and funding support from the EU Horizon 2020 program.",
+  "locations": [
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Automated feeding systems",
+  "keywords": [
+    "Automated Feeding System",
+    "Total Mixed Ration",
+    "dairy cows",
+    "animal welfare",
+    "energy efficiency",
+    "productivity",
+    "automation",
+    "NIR sensor",
+    "farm management",
+    "Horizon 2020"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 626296
+  },
+  "valid_structure": true
+}

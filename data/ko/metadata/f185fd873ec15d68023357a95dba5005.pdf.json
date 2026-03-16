@@ -1,0 +1,30 @@
+{
+  "title": "Monitoraggio degli impollinatori",
+  "subtitle": "",
+  "description": "A guide for citizen science protocols and tools for monitoring pollinator species through volunteer observations using iNaturalist and standardized sampling methods. It details project objectives, data collection workflows, and analysis approaches developed by the Museo Civico di Storia Naturale di Ferrara.",
+  "locations": [
+    "Ferrara",
+    "Delta del Po",
+    "Pianura Padana orientale",
+    "Gran Bretagna"
+  ],
+  "topic": "environment",
+  "theme": "pollinator monitoring protocols",
+  "keywords": [
+    "pollinators",
+    "citizen science",
+    "iNaturalist",
+    "biodiversity monitoring",
+    "data collection",
+    "sampling protocols",
+    "museum projects",
+    "community engagement",
+    "occupancy models",
+    "pollinator conservation"
+  ],
+  "size": {
+    "pages": 18,
+    "bytes": 2306879
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Diagnostics and detection techniques as part of modern IPM",
+  "subtitle": "Τεχνικές διάγνωσης και ανίχνευσης ως μέρος των σύγχρονων IPM",
+  "description": "The guide outlines a range of diagnostic assays (e.g., ELISA, PCR, lateral flow tests) and digital monitoring systems (e.g., sensors, drones) for early and accurate detection of pests and pathogens in vegetable production. It highlights how these techniques within modern IPM reduce unnecessary pesticide use and delay resistance development, promoting sustainable crop management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "IPM diagnostic techniques",
+  "keywords": [
+    "IPM",
+    "diagnostics",
+    "detection tools",
+    "ELISA",
+    "PCR",
+    "drones",
+    "sensors",
+    "monitoring systems"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 441582
+  },
+  "valid_structure": true
+}

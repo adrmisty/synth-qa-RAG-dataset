@@ -1,0 +1,29 @@
+{
+  "title": "What is Precision Livestock Farming and what can it bring to animal production?",
+  "subtitle": "",
+  "description": "A guide to the use of advanced PLF technologies to monitor and optimize animal welfare, environmental impact, and productivity in pig and dairy cattle farms. It outlines the ClearFarm project's development of a connected digital platform integrating sensor data, life cycle assessment, stakeholder engagement, and machine learning for real-time welfare monitoring.",
+  "locations": [
+    "Spain",
+    "The Netherlands",
+    "Finland",
+    "Italy",
+    "Germany"
+  ],
+  "topic": "livestock",
+  "theme": "Animal welfare monitoring",
+  "keywords": [
+    "precision livestock farming",
+    "animal welfare",
+    "sensors",
+    "real-time monitoring",
+    "digital platform",
+    "machine learning",
+    "data integration",
+    "livestock production"
+  ],
+  "size": {
+    "pages": 31,
+    "bytes": 5048188
+  },
+  "valid_structure": true
+}

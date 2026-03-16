@@ -1,0 +1,28 @@
+{
+  "title": "Trattamento dei digestati agro-zootecnici per ridurne le emissioni e produrre Struvite",
+  "subtitle": "",
+  "description": "A technical report on a farm-scale prototype system for recovering nitrogen and phosphorus from animal manure digestates via struvite crystallization to reduce ammonia and greenhouse gas emissions during storage and spreading. It summarizes pilot trials with different chemical treatments, reports nutrient recovery yields, emission reduction rates, and compares carbon footprints to demonstrate the feasibility and environmental benefits of producing slow-release struvite fertilizer.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna"
+  ],
+  "topic": "environment",
+  "theme": "Struvite recovery prototype",
+  "keywords": [
+    "struvite",
+    "digestate",
+    "nutrient recovery",
+    "ammonia emissions",
+    "greenhouse gases",
+    "biogas",
+    "phosphorus recovery",
+    "nitrogen recovery",
+    "microfiltration",
+    "life cycle assessment"
+  ],
+  "size": {
+    "pages": 7,
+    "bytes": 491629
+  },
+  "valid_structure": true
+}

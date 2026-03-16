@@ -1,0 +1,37 @@
+{
+  "title": "Farming and Forestry Systems Susceptibility to Climate Change",
+  "subtitle": "",
+  "description": "A practice abstract summarizing the MOVING project’s development of a closed set of susceptibility indicators to climate change and socio-economic drivers for 23 Mountain Reference Landscapes. It highlights high-risk areas for agricultural abandonment, soil erosion, rainfall erosivity changes, and past forest disturbances across various European mountain regions.",
+  "locations": [
+    "Austrian Alps",
+    "Sumava – Cesky Les",
+    "Drôme Valley",
+    "Northern Apennines",
+    "Southern Romanian Carpathian Mountains",
+    "Betic Systems",
+    "Cordilheira Central",
+    "Maciço Noroeste",
+    "Stara Planina",
+    "Swiss Alps",
+    "Slovak Carpathian Mountains"
+  ],
+  "topic": "environment",
+  "theme": "Climate change susceptibility",
+  "keywords": [
+    "climate change",
+    "susceptibility indicators",
+    "soil erosion",
+    "rainfall erosivity",
+    "agricultural abandonment",
+    "forest disturbance",
+    "mountain landscapes",
+    "vulnerability analysis",
+    "pan-European datasets",
+    "socio-economic drivers"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 366036
+  },
+  "valid_structure": true
+}

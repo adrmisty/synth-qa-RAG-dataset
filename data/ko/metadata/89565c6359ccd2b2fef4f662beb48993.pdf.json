@@ -1,0 +1,33 @@
+{
+  "title": "MANUEL DE BIOSECURITE ET MESURES D’ACCOMPAGNEMENT",
+  "subtitle": "",
+  "description": "A practical manual compiling 50 proven support measures to enhance biosecurity compliance in European poultry production. It serves as a guide for farmers and advisors on implementing technical, regulatory, and training approaches to prevent disease and ensure safe, sustainable poultry farming.",
+  "locations": [
+    "Belgium",
+    "France",
+    "Hungary",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Spain"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity measures",
+  "keywords": [
+    "biosecurity",
+    "poultry",
+    "disease prevention",
+    "EU Horizon 2020",
+    "farmers",
+    "advisors",
+    "support measures",
+    "hygiene protocols",
+    "infection control",
+    "training"
+  ],
+  "size": {
+    "pages": 154,
+    "bytes": 12633160
+  },
+  "valid_structure": true
+}

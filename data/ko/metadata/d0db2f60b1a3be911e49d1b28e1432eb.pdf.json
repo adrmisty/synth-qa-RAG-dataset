@@ -1,0 +1,26 @@
+{
+  "title": "ASSISTENTIE TER PLAATSE VAN DE DIERENARTS",
+  "subtitle": "",
+  "description": "A guide for veterinary on-site assistance focusing on biosecurity measures in poultry farms. It outlines how veterinarians support farmers during government audits, pathogen introductions, and routine inspections to improve animal and public health.",
+  "locations": [
+    "Spain"
+  ],
+  "topic": "livestock",
+  "theme": "Veterinary biosecurity assistance",
+  "keywords": [
+    "veterinarian",
+    "biosecurity",
+    "poultry farming",
+    "government audits",
+    "pathogen prevention",
+    "routine inspections",
+    "on-farm assistance",
+    "animal health",
+    "NetPoulSafe"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 229622
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Soil Erosion Calculator - internet application for farmers",
+  "subtitle": "",
+  "description": "A web-based application enables farmers and advisors to assess soil erosion risk by modelling crop rotations, agronomic measures and machinery operations. It provides information on erosion-endangered areas and supports compliance with Good Agricultural Environmental Conditions to gradually expand soil protection in line with the Czech agricultural strategy for 2030.",
+  "locations": [
+    "Czech Republic"
+  ],
+  "topic": "environment",
+  "theme": "Soil erosion calculator",
+  "keywords": [
+    "soil erosion",
+    "web application",
+    "GAEC",
+    "advisory system",
+    "crop rotation",
+    "soil protection",
+    "agronomic measures",
+    "erosion risk",
+    "AKIS"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 362363
+  },
+  "valid_structure": true
+}

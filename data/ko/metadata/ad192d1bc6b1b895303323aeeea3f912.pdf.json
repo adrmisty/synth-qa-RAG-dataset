@@ -1,0 +1,31 @@
+{
+  "title": "Thermochemical Fluids in Greenhouse Farming",
+  "subtitle": "MANUALE di TRAINING",
+  "description": "A training manual presenting the structure, technology and results of the TheGreefa Horizon 2020 project, focusing on the use of thermochemical fluids (TCF) for climate control and drying in greenhouses. It covers conceptual design, demonstration sites, case studies, life-cycle and economic assessments, and policy recommendations for greenhouse applications in diverse climatic regions.",
+  "locations": [
+    "Switzerland",
+    "Tunisia",
+    "Spain",
+    "Italy",
+    "Almería"
+  ],
+  "topic": "crop farming",
+  "theme": "Thermochemical greenhouse climate control",
+  "keywords": [
+    "thermochemical fluids",
+    "greenhouse farming",
+    "climate control",
+    "humidity management",
+    "renewable energy",
+    "TCF regeneration",
+    "life cycle assessment",
+    "economic evaluation",
+    "policy recommendations",
+    "case studies"
+  ],
+  "size": {
+    "pages": 64,
+    "bytes": 8299288
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Policy Brief",
+  "subtitle": "Visão geral",
+  "description": "A policy brief presenting the SALSA Horizon 2020 project’s assessment of small farms and agro-food businesses across 30 regions in Europe and Africa. It offers key policy recommendations to empower small-scale producers in contributing to sustainable food security through improved market access, cooperation, financing, and advisory services.",
+  "locations": [
+    "Europe",
+    "Africa",
+    "Latvia",
+    "Poland",
+    "Portugal",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Small farm policy recommendations",
+  "keywords": [
+    "small farms",
+    "agro-food businesses",
+    "sustainable food security",
+    "policy recommendations",
+    "market access",
+    "cooperation",
+    "financing",
+    "advisory services",
+    "climate adaptation",
+    "gender equity"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 980315
+  },
+  "valid_structure": true
+}

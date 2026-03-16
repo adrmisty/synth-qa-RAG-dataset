@@ -1,0 +1,31 @@
+{
+  "title": "Septoria Humidity Model",
+  "subtitle": "",
+  "description": "A guide for using a decision support system to estimate the risk of septoria tritici blotch infections in winter wheat based on continuous wetness and relative humidity thresholds. It outlines parameters for crop growth stages, wet hours, and fungicide application timing to protect upper leaves from damaging epidemics.",
+  "locations": [
+    "Denmark",
+    "Lithuania",
+    "Norway",
+    "Sweden",
+    "Finland"
+  ],
+  "topic": "crop farming",
+  "theme": "Septoria humidity model",
+  "keywords": [
+    "septoria tritici blotch",
+    "wheat disease",
+    "humidity model",
+    "decision support system",
+    "risk estimation",
+    "wetness threshold",
+    "fungicide timing",
+    "IPM Decisions",
+    "crop protection",
+    "Zymoseptoria tritici"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 865361
+  },
+  "valid_structure": true
+}

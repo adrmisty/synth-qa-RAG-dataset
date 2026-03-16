@@ -1,0 +1,28 @@
+{
+  "title": "eBEE AG – The Advanced Agriculture Drone",
+  "subtitle": "eBEE AG - L’agriculture avancée Drone",
+  "description": "A guide to the eBee AG agricultural drone, presenting its capabilities in precision crop monitoring and integration with farm management systems. The document outlines how the drone's Duet M multispectral/RGB camera, automated flights and extended battery life provide timely plant health data to optimize crop planning, reduce inputs, and improve profitability.",
+  "locations": [
+    "Europe",
+    "France"
+  ],
+  "topic": "crop farming",
+  "theme": "Precision crop monitoring",
+  "keywords": [
+    "IPM",
+    "drone",
+    "precision agriculture",
+    "multispectral sensor",
+    "crop monitoring",
+    "farm management systems",
+    "automated flight",
+    "plant health",
+    "decision support",
+    "resource optimization"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 445236
+  },
+  "valid_structure": true
+}

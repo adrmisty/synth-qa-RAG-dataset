@@ -1,0 +1,26 @@
+{
+  "title": "Self-cleaning rotary boiler for solid waste",
+  "subtitle": "",
+  "description": "A practice abstract on a self-cleaning rotary boiler designed to prevent fouling and corrosion when burning high-ash solid biofuels. It describes the rotary coil exchanger mechanism that allows continuous ash discharge without shutdowns, enhancing boiler performance and maintenance efficiency.",
+  "locations": [
+    "Spain",
+    "United Kingdom"
+  ],
+  "topic": "environment",
+  "theme": "Self-cleaning rotary boiler",
+  "keywords": [
+    "boiler",
+    "self-cleaning",
+    "solid waste",
+    "heat exchanger",
+    "biofuels",
+    "ash discharge",
+    "fouling",
+    "continuous operation"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 681207
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,36 @@
+{
+  "title": "AF4EU",
+  "subtitle": "Agroforestry Business Model Innovation Network",
+  "description": "A project factsheet presenting AF4EU, an EU-funded initiative to promote agroforestry through multi-stakeholder Regional Agroforestry Innovation Networks (RAINs) across Europe. It outlines the benefits of integrating trees, crops, and livestock, defines RAIN structures, and lists Lighthouse RAIN locations in specific European regions.",
+  "locations": [
+    "Galicia, Spain",
+    "Portugal",
+    "Belgium (West Flanders)",
+    "Ireland (Clonakilty, West Cork)",
+    "Finland (Southern and Eastern regions)",
+    "Slovakia (Turčianske Teplice, Turiec Basin)",
+    "Germany (Saxony-Anhalt)",
+    "Italy (Bolsena Lake Bio-District)",
+    "Greece (Karpenisi and Agrafa)",
+    "France (Normandy)",
+    "Andalusia, Spain"
+  ],
+  "topic": "forestry",
+  "theme": "Regional Agroforestry Networks",
+  "keywords": [
+    "agroforestry",
+    "innovation networks",
+    "sustainability",
+    "biodiversity",
+    "soil health",
+    "multi-stakeholder",
+    "EU-funded",
+    "Regional Agroforestry Innovation Networks",
+    "Horizon Europe"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 498788
+  },
+  "valid_structure": true
+}

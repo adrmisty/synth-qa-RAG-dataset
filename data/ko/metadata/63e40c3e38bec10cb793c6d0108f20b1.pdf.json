@@ -1,0 +1,27 @@
+{
+  "title": "Thrips-Lure - monitor thrips in low population",
+  "subtitle": "Thrips-Lure - surveiller les thrips à faible population",
+  "description": "A practice abstract detailing the Thrips-Lure, a controlled-release dispenser for attracting and monitoring thrips populations using blue or yellow sticky cards. It provides deployment guidelines and efficacy data demonstrating increased capture rates for early detection and population suppression in vegetable crops and greenhouses.",
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Thrips monitoring lure",
+  "keywords": [
+    "IPM",
+    "thrips",
+    "lure",
+    "monitoring",
+    "release dispenser",
+    "sticky card",
+    "attractant",
+    "greenhouse",
+    "vegetable crops"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 307495
+  },
+  "valid_structure": true
+}

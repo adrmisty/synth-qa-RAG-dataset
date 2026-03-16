@@ -1,0 +1,26 @@
+{
+  "title": "HATÓSÁGI ELLENŐRZÉS, JÁRVÁNYVÉDELMI AUDIT RENDSZER FEJLESZTÉSE",
+  "subtitle": "",
+  "description": "A development of an official epidemic protection audit system to enhance biosecurity and regulatory compliance on poultry farms. It outlines the audit structure, including 47 questions, GPS-verified photo evidence via a smartphone app, and a point-based scoring system linked to state compensation incentives.",
+  "locations": [
+    "Hungary"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity audit",
+  "keywords": [
+    "biosecurity",
+    "audit",
+    "epidemic protection",
+    "poultry farms",
+    "regulatory compliance",
+    "smartphone app",
+    "GPS verification",
+    "point-based scoring",
+    "state compensation"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 701125
+  },
+  "valid_structure": true
+}

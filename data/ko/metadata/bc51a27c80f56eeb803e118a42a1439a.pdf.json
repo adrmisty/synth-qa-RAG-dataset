@@ -1,0 +1,25 @@
+{
+  "title": "JÁRVÁNYVÉDELEM A RAKODÓ/VAKCINÁZÓ SZEMÉLYZET SZÁMÁRA",
+  "subtitle": "",
+  "description": "A guide for loading and vaccinating personnel on biosecurity procedures when entering and leaving poultry farms. It outlines step-by-step hygiene measures to prevent disease transmission during arrivals, movements between poultry houses, and departures.",
+  "locations": [],
+  "topic": "livestock",
+  "theme": "Poultry farm biosecurity",
+  "keywords": [
+    "poultry",
+    "biosecurity",
+    "hygiene",
+    "disinfection",
+    "entry procedures",
+    "exit procedures",
+    "disease prevention",
+    "vaccination personnel",
+    "farm safety",
+    "NetPoulSafe"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 445791
+  },
+  "valid_structure": true
+}

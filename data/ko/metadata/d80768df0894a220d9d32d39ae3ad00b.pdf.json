@@ -1,0 +1,27 @@
+{
+  "title": "Image based selective mechanical weeding for field vegetables (Garford Robocrop and Naoi – Dino)",
+  "subtitle": "",
+  "description": "A guide to image-based selective mechanical weeding systems for field vegetable crops, detailing the Garford Robocrop InRow Weeder and the autonomous Naio Dino robot. These technologies enable precise inter- and intra-row weeding to reduce herbicide use and improve operational efficiency in vegetable production.",
+  "locations": [
+    "Europe",
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "Image-based mechanical weeding",
+  "keywords": [
+    "IPM",
+    "mechanical weeding",
+    "image based",
+    "field vegetables",
+    "intra-row weeding",
+    "Garford Robocrop",
+    "Naio Dino",
+    "precision agriculture",
+    "weed management"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 403629
+  },
+  "valid_structure": true
+}

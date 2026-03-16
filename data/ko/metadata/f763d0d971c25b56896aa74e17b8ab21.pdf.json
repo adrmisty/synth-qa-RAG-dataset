@@ -1,0 +1,28 @@
+{
+  "title": "REAL-TIME DETECTION OF THE CROP STATUS",
+  "subtitle": "Deteção em tempo real do estado das culturas",
+  "description": "A summary of using drones equipped with multispectral sensors for real-time monitoring of crop health status in open field and greenhouse vegetable production. It outlines the collection of spectral data via UAVs and the use of vegetation indices such as NDVI for early disease detection and quantitative assessment of plant vigour, colour and growth dynamics.",
+  "locations": [
+    "Portugal",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Real-time crop monitoring",
+  "keywords": [
+    "UAVs",
+    "drones",
+    "remote sensing",
+    "NDVI",
+    "crop health",
+    "integrated pest management",
+    "vegetation indices",
+    "spectral data",
+    "early disease detection",
+    "precision agriculture"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 531546
+  },
+  "valid_structure": true
+}

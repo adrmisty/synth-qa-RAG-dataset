@@ -1,0 +1,27 @@
+{
+  "title": "Decision support systems for pest and disease management in tomato cultivation",
+  "subtitle": "",
+  "description": "A practice abstract describing decision support systems that provide growers and agronomists with timely alerts for managing pests and diseases in tomato cultivation using sensor and climate data from platforms such as iMETOS, Dacom, WiseCrop, EVJA and FuturCrop. It highlights how monitored and forecasted data can be used to optimise crop protection strategies, reduce yield losses and support more sustainable integrated pest management decisions.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Pest and disease DSS",
+  "keywords": [
+    "IPM",
+    "decision support system",
+    "monitoring",
+    "pest management",
+    "disease prediction",
+    "tomato cultivation",
+    "iMETOS",
+    "Dacom",
+    "WiseCrop",
+    "FuturCrop"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 366848
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Biomass Atlas makes Finnish biomass maps freely available to everyone",
+  "subtitle": "",
+  "description": "The document presents Biomass Atlas, an open web service that aggregates location-specific data on biomass potentials across forestry, agriculture, and waste in Finland to support sustainable resource management and energy policy decisions. It also introduces the Forest Energy Atlas, extending similar mapping and analysis functionalities to Sweden and the Baltic countries, focused on forest biomass.",
+  "locations": [
+    "Finland",
+    "Sweden",
+    "Estonia",
+    "Latvia",
+    "Lithuania"
+  ],
+  "topic": "forestry",
+  "theme": "Biomass mapping service",
+  "keywords": [
+    "Bioenergy",
+    "Biomass",
+    "Harvesting potential",
+    "Decision support",
+    "Circular bioeconomy",
+    "Sustainable energy policy",
+    "GIS mapping",
+    "Biomass supply chains"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 607306
+  },
+  "valid_structure": true
+}

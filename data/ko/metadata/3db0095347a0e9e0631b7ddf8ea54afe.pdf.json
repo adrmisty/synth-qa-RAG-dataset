@@ -1,0 +1,30 @@
+{
+  "title": "GAS LOOP, IL CICLO VIRTUOSO DELL’AZOTO È POSSIBILE",
+  "subtitle": "",
+  "description": "This report presents the Gas Loop project, which captures ammonia emissions from pig housing and converts them into ammonium sulfate fertilizer directly on farm. It details the development, pilot testing, and monitoring of the air scrubber system aimed at closing the nitrogen loop and reducing environmental impact.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna",
+    "Netherlands",
+    "Spain"
+  ],
+  "topic": "environment",
+  "theme": "Ammonia capture system",
+  "keywords": [
+    "ammonia",
+    "nitrogen",
+    "pig farming",
+    "air treatment",
+    "scrubber",
+    "biofilter",
+    "fertilizer production",
+    "circular economy",
+    "emissions reduction",
+    "sustainable livestock"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 825019
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Atlas of Permanent Grassland Types",
+  "subtitle": "",
+  "description": "A typology-based atlas presenting 18 types of European permanent grasslands, including management practices, vegetation characteristics and threats. It provides maps and expert-elicited assessments of ecosystem service delivery for each grassland type.",
+  "locations": [
+    "Europe",
+    "Pannonian region",
+    "Eastern Continental region",
+    "Iberian Peninsula",
+    "Balkan Peninsula",
+    "Masurian Plain",
+    "Warmian-Masurian Voivodeship",
+    "Poland"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grassland",
+    "ecosystem services",
+    "grassland management",
+    "typology",
+    "European grasslands",
+    "grazing",
+    "case studies",
+    "expert elicitation",
+    "biogeographic regions",
+    "mapping"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 9703138
+  },
+  "valid_structure": true
+}

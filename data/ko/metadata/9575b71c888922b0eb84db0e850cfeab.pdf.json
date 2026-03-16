@@ -1,0 +1,27 @@
+{
+  "title": "Demonstration of farm gate and soil surface nutrient balances",
+  "subtitle": "",
+  "description": "A demonstration of nutrient balance calculations at the farm gate and soil surface levels provides evidence of nutrient fluxes within farm systems to improve environmental impact and resource efficiency. It outlines methods to compute Farm-Gate Balance (FGB) and Soil Surface Balance (SSB), discusses data requirements, policy applications in countries like the Netherlands and Italy, and highlights tools for decision-support in nutrient management planning.",
+  "locations": [
+    "Netherlands",
+    "Italy",
+    "Piedmont"
+  ],
+  "topic": "environment",
+  "theme": "Nutrient balance calculations",
+  "keywords": [
+    "Farm-Gate Balance",
+    "Soil Surface Balance",
+    "Nutrient Fluxes",
+    "Mass Balance",
+    "NPK Management",
+    "Environmental Sustainability",
+    "Decision Support",
+    "Policy Instrument"
+  ],
+  "size": {
+    "pages": 5,
+    "bytes": 717115
+  },
+  "valid_structure": true
+}

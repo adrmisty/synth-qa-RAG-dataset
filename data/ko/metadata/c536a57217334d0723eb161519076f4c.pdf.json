@@ -1,0 +1,27 @@
+{
+  "title": "Testing different types of SMART trap",
+  "subtitle": "",
+  "description": "This guide presents information on using camera-based SMART traps for efficient monitoring of pest insects in vegetable production. It outlines the technology behind remote observation, discusses identification methods including machine learning and wingbeat frequency analysis, and highlights benefits for Integrated Pest Management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Remote pest monitoring",
+  "keywords": [
+    "IPM",
+    "SMART traps",
+    "remote monitoring",
+    "pest insects",
+    "integrated pest management",
+    "camera-based traps",
+    "machine learning",
+    "pheromone traps",
+    "vegetable production",
+    "greenhouse farming"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 330848
+  },
+  "valid_structure": true
+}

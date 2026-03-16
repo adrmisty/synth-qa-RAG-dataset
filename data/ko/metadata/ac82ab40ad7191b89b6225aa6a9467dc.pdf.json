@@ -1,0 +1,27 @@
+{
+  "title": "AUDITORÍA DE BIOSEGURIDAD CON LA HERRAMIENTA PULSE",
+  "subtitle": "",
+  "description": "A self-assessment biosecurity audit tool for livestock producers developed by ITAVI under the EU Horizon 2020 NetPoulSafe project. It evaluates compliance with French biosecurity regulations through an Excel-based system with macros, generating scores and improvement recommendations across multiple farm elements.",
+  "locations": [
+    "France"
+  ],
+  "topic": "livestock",
+  "theme": "biosecurity audit tool",
+  "keywords": [
+    "biosecurity",
+    "audit tool",
+    "self-assessment",
+    "poultry farms",
+    "palmiped farms",
+    "French regulations",
+    "Excel macros",
+    "NetPoulSafe",
+    "ITAVI",
+    "compliance"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 639192
+  },
+  "valid_structure": true
+}

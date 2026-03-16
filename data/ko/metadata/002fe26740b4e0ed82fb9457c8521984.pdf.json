@@ -1,0 +1,27 @@
+{
+  "title": "Large Narcissus Fly Model (Warwick HRI)",
+  "subtitle": "Large Narcissus Fly cause damage on Narcissus bulbs",
+  "description": "A factsheet outlining a decision support model for predicting the development stages of the Large Narcissus Fly. It enables targeted monitoring and mitigation by forecasting adult emergence, egg laying, and hatching to reduce bulb damage.",
+  "locations": [
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "Narcissus fly forecasting",
+  "keywords": [
+    "Merodon equestris",
+    "Large Narcissus Fly",
+    "Decision Support System",
+    "Pest modeling",
+    "Emergence prediction",
+    "Egg hatching",
+    "Bulb damage",
+    "Soil temperature",
+    "Crop protection",
+    "Targeted monitoring"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 1590058
+  },
+  "valid_structure": true
+}

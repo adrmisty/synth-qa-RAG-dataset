@@ -1,0 +1,30 @@
+{
+  "title": "Weather and grass growth monitoring to improve grassland management",
+  "subtitle": "",
+  "description": "A guide to using grass growth and weather forecast data to support rotational grazing planning and improve grassland utilization. It outlines monitoring methods, data collection, and forecasting procedures to help farmers mitigate weather extremes and enhance farm profitability.",
+  "locations": [
+    "Northern Ireland",
+    "England",
+    "Scotland",
+    "Wales",
+    "Atlantic biogeographic region"
+  ],
+  "topic": "livestock",
+  "theme": "Grassland monitoring techniques",
+  "keywords": [
+    "grass growth",
+    "weather forecast",
+    "grassland management",
+    "rotational grazing",
+    "grass budgeting",
+    "forage utilization",
+    "drought management",
+    "rising plate meter",
+    "GrassCheck"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 665190
+  },
+  "valid_structure": true
+}

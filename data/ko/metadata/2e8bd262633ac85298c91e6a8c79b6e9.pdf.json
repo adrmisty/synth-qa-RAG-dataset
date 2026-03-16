@@ -1,0 +1,26 @@
+{
+  "title": "SOIL ORGANIC MATTER",
+  "subtitle": "This factsheet contains complementary information to the Best4Soil video on Soil Organic Matter",
+  "description": "A factsheet detailing the role of soil organic matter in maintaining soil functions such as water regulation, nutrient cycling and carbon sequestration. It also outlines practical strategies for protecting and increasing soil organic matter, including reduced tillage, cover cropping, compost application and biochar use.",
+  "locations": [
+    "Austria",
+    "Switzerland"
+  ],
+  "topic": "crop farming",
+  "theme": "Soil organic matter management",
+  "keywords": [
+    "soil organic matter",
+    "soil health",
+    "carbon sequestration",
+    "aggregate stability",
+    "nutrient cycling",
+    "cover crops",
+    "reduced tillage",
+    "biochar"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1400821
+  },
+  "valid_structure": true
+}

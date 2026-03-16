@@ -1,0 +1,30 @@
+{
+  "title": "Thermochemical Fluids in Greenhouse Farming",
+  "subtitle": "Podręcznik szkoleniowy",
+  "description": "A training manual presenting the TheGreefa project's development and demonstration of thermochemical fluid-based systems for improved climate control, heating, cooling, dehumidification, and drying in greenhouse farming. It includes consortium overview, technology concept, pilot demonstrations, case studies, life cycle and techno-economic analyses, and policy recommendations.",
+  "locations": [
+    "Switzerland",
+    "Tunisia",
+    "Spain",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Greenhouse climate control",
+  "keywords": [
+    "Thermochemical fluid",
+    "greenhouse farming",
+    "dehumidification",
+    "energy efficiency",
+    "life cycle analysis",
+    "drying process",
+    "pilot demonstration",
+    "techno-economic evaluation",
+    "policy analysis",
+    "consortium project"
+  ],
+  "size": {
+    "pages": 64,
+    "bytes": 8236249
+  },
+  "valid_structure": true
+}

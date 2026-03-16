@@ -1,0 +1,32 @@
+{
+  "title": "Farming and Forestry Systems in Mountain Areas",
+  "subtitle": "",
+  "description": "A practice abstract summarizing farming and forestry systems across 23 reference regions in mountain areas studied under the European MOVING project. It highlights dominant forest covers and tree density trends, variability in agricultural land uses like arable land, pasture and permanent crops across southern and other regions, and notes context-specific dynamics for informing policy recommendations.",
+  "locations": [
+    "Sierra Morena",
+    "Cordilheira central",
+    "Corsica",
+    "Crete",
+    "Maciço Norte",
+    "Betic Systems",
+    "Transdanubian Mountain"
+  ],
+  "topic": "environment",
+  "theme": "Mountain farming and forestry",
+  "keywords": [
+    "mountain areas",
+    "forestry systems",
+    "farming systems",
+    "land cover",
+    "tree density",
+    "arable land",
+    "pasture",
+    "permanent crops",
+    "policy recommendations"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 359684
+  },
+  "valid_structure": true
+}

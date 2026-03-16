@@ -1,0 +1,25 @@
+{
+  "title": "Making 'big data' useful for farmers",
+  "subtitle": "",
+  "description": "This practice abstract explores how farm-generated big data can be leveraged to support farmers through decision support tools, improving interoperability and reducing digital divides. It discusses current challenges including infrastructural limitations, skills gaps, advisory service support, and data ownership issues and highlights the need for regulatory frameworks to protect farmers’ rights.",
+  "locations": [
+    "Italy"
+  ],
+  "topic": "economics",
+  "theme": "Big data in agriculture",
+  "keywords": [
+    "big data",
+    "data ownership",
+    "decision support tools",
+    "interoperability",
+    "digital divide",
+    "farm data management",
+    "data governance",
+    "advisory services"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 442442
+  },
+  "valid_structure": true
+}

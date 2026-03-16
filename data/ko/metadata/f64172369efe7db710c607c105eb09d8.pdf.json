@@ -1,0 +1,41 @@
+{
+  "title": "Σύνοψη Πολιτικής Νότια Ευρώπη",
+  "subtitle": "",
+  "description": "A policy brief summarizing the SALSA program's assessment of small farms and small food businesses in reference regions of Southern Europe and their role in regional food and nutritional security. It outlines key policy messages and priority actions across four sectors—markets, natural resources and climate, generational renewal, and knowledge and innovation—to strengthen small agricultural holdings under the post-2020 Common Agricultural Policy.",
+  "locations": [
+    "Vaucluse",
+    "Imathia",
+    "Larisa",
+    "Ileia",
+    "Lucca",
+    "Pisa",
+    "Alentejo Central",
+    "Oeste",
+    "Castellón",
+    "Córdoba",
+    "France",
+    "Greece",
+    "Italy",
+    "Portugal",
+    "Spain"
+  ],
+  "topic": "economics",
+  "theme": "Small farms food security",
+  "keywords": [
+    "small farms",
+    "food security",
+    "agricultural policy",
+    "supply chains",
+    "climate change adaptation",
+    "rural development",
+    "innovation",
+    "young farmers",
+    "cooperatives",
+    "CAP funding"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 2135658
+  },
+  "valid_structure": true
+}

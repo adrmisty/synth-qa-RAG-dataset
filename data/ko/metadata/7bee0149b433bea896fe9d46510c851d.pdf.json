@@ -1,0 +1,26 @@
+{
+  "title": "Drones detect local variations and provide tools for agriculture",
+  "subtitle": "",
+  "description": "A practice abstract presenting how drone technologies and passive remote sensing can support precision agriculture by detecting spatial variations and informing farming actions. It covers imaging data processing into georeferenced maps and the use of decision support systems for targeted interventions and variable rate applications.",
+  "locations": [
+    "Finland"
+  ],
+  "topic": "crop farming",
+  "theme": "Drone-based precision agriculture",
+  "keywords": [
+    "drone imaging",
+    "remote sensing",
+    "precision agriculture",
+    "decision support systems",
+    "crop monitoring",
+    "multispectral imagery",
+    "machine learning",
+    "yield mapping",
+    "variable rate application"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 572215
+  },
+  "valid_structure": true
+}

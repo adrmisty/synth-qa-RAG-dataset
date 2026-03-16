@@ -1,0 +1,29 @@
+{
+  "title": "Nanocellulose Membranes for Nutrient Recovery",
+  "subtitle": "",
+  "description": "A factsheet presenting the development of functionalized nanocellulose membranes designed to capture nitrate and phosphate from agricultural runoff for nutrient recovery. The biodegradable membranes enable passive water treatment without additional pumping and allow recovered nutrients to be returned to soil as fertilizers, fostering a circular agriculture solution.",
+  "locations": [
+    "Finland",
+    "Italy",
+    "Hungary"
+  ],
+  "topic": "environment",
+  "theme": "Nutrient recovery membranes",
+  "keywords": [
+    "nanocellulose",
+    "membranes",
+    "nutrient recovery",
+    "nitrate capture",
+    "phosphate capture",
+    "water treatment",
+    "sustainable agriculture",
+    "circular economy",
+    "biodegradable materials",
+    "roll-to-roll manufacturing"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 275729
+  },
+  "valid_structure": true
+}

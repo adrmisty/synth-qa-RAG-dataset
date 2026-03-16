@@ -1,0 +1,27 @@
+{
+  "title": "PATS-C & PATS-X – The use of drones for greenhouse pest monitoring and eradication",
+  "subtitle": "",
+  "description": "An overview of PATS-C and PATS-X autonomous drone systems for greenhouse pest management. PATS-C uses AI-driven imaging to monitor flying pests continuously, while PATS-X eradicates identified pests with micro drones, reducing chemical use and enabling earlier interventions.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "greenhouse drone pest control",
+  "keywords": [
+    "integrated pest management",
+    "drone monitoring",
+    "drone eradication",
+    "greenhouse pests",
+    "AI image recognition",
+    "PATS-C",
+    "PATS-X",
+    "flying insects",
+    "micro drones",
+    "moth control"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 385745
+  },
+  "valid_structure": true
+}

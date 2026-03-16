@@ -1,0 +1,32 @@
+{
+  "title": "Smartphone use for Soil Citizen Science – initial version",
+  "subtitle": "",
+  "description": "A deliverable providing an overview of available smartphone applications for digital soil health assessment, highlighting their purposes and functionalities. It prioritizes soil structure assessment tools, reports on initial VESS app testing results, and outlines next steps for integration into NBSoil training and GIS frameworks.",
+  "locations": [
+    "Scotland",
+    "United Kingdom",
+    "Switzerland",
+    "Germany",
+    "France",
+    "New Zealand"
+  ],
+  "topic": "environment",
+  "theme": "Digital soil health tools",
+  "keywords": [
+    "smartphone",
+    "soil health",
+    "digital tools",
+    "soil structure",
+    "soil assessment",
+    "citizen science",
+    "mobile app",
+    "image analytics",
+    "soil monitoring",
+    "VESS"
+  ],
+  "size": {
+    "pages": 14,
+    "bytes": 1126187
+  },
+  "valid_structure": true
+}

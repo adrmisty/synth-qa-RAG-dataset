@@ -1,0 +1,25 @@
+{
+  "title": "JÁRVÁNYVÉDELMI AUDIT A PULSE ESZKÖZZEL",
+  "subtitle": "",
+  "description": "A self-assessment audit tool for poultry producers to evaluate compliance with French epidemic prevention regulations and identify points for improvement. Developed by ITAVI under the NetPoulSafe Horizon 2020 project, it uses an Excel-based scoring system across biosecurity modules with follow-up reporting and action commitments.",
+  "locations": [
+    "France"
+  ],
+  "topic": "livestock",
+  "theme": "Epidemic prevention audit",
+  "keywords": [
+    "biosecurity",
+    "epidemic prevention",
+    "self-assessment tool",
+    "poultry farming",
+    "audit scoring",
+    "ITAVI",
+    "Horizon 2020",
+    "NetPoulSafe"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 543215
+  },
+  "valid_structure": true
+}

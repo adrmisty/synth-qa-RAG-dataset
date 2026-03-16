@@ -1,0 +1,25 @@
+{
+  "title": "AUDIT SULLA BIOSICUREZZA CON LO STRUMENTO PULSE",
+  "subtitle": "",
+  "description": "PULSE is an Excel-based self-assessment tool designed to audit and track biosafety measures on poultry farms under French regulations. It generates scores across key biosecurity areas to identify non-compliance, guide corrective actions, and support discussions between farmers and consultants.",
+  "locations": [
+    "France"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosafety audit",
+  "keywords": [
+    "biosafety",
+    "self-assessment",
+    "poultry farming",
+    "audit tool",
+    "PULSE",
+    "Excel",
+    "compliance",
+    "biosecurity"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 580159
+  },
+  "valid_structure": true
+}

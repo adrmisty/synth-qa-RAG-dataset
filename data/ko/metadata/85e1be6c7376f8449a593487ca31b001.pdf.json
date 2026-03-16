@@ -1,0 +1,25 @@
+{
+  "title": "EIP OPERATIONELE GROEP RENURE",
+  "subtitle": "Meta-analyse",
+  "description": "A meta-analysis evaluating the economic and technical feasibility of recovering ammonia nitrogen from livestock manure using stripping-scrubbing technology. It assesses operational parameters, cost-benefit scenarios and environmental impacts across different farm scales, treatment pathways and regional manure pressures.",
+  "locations": [
+    "Flanders"
+  ],
+  "topic": "livestock",
+  "theme": "Ammonia stripping-scrubbing",
+  "keywords": [
+    "nitrogen recovery",
+    "ammonia stripping",
+    "manure treatment",
+    "stripping-scrubbing",
+    "economic feasibility",
+    "nutrient recycling",
+    "RENURE criteria",
+    "cost analysis"
+  ],
+  "size": {
+    "pages": 14,
+    "bytes": 1251897
+  },
+  "valid_structure": true
+}

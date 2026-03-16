@@ -1,0 +1,24 @@
+{
+  "title": "A computational fluid dynamics (CFD) modeling in a new design of closed greenhouse",
+  "subtitle": "Modelagem de dinâmica de fluidos computacional (CFD) em um novo projeto de estufa fechada",
+  "description": "A report on applying computational fluid dynamics (CFD) to simulate and optimize the thermal, airflow, and humidity performance of a novel closed greenhouse design. It evaluates temperature distribution, airflow patterns, and mass transfer to improve energy efficiency and crop growing conditions.",
+  "locations": [],
+  "topic": "crop farming",
+  "theme": "Greenhouse CFD optimization",
+  "keywords": [
+    "greenhouse",
+    "computational fluid dynamics",
+    "temperature distribution",
+    "airflow",
+    "energy efficiency",
+    "humidity",
+    "mass transfer",
+    "heat transfer",
+    "greenhouse design"
+  ],
+  "size": {
+    "pages": 18,
+    "bytes": 768421
+  },
+  "valid_structure": true
+}

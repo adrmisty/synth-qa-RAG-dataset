@@ -1,0 +1,27 @@
+{
+  "title": "Mobile pest and disease diagnosis in pepper cultivation",
+  "subtitle": "",
+  "description": "A guide for vegetable growers and advisors on using smartphone-based applications to diagnose pests and diseases in pepper cultivation. It reviews AI-driven tools such as Xarvio Scouting, Plantix, Agrio and CropDiagnosis, outlining their image recognition techniques, treatment recommendations and local alert features.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Mobile pest and disease diagnosis",
+  "keywords": [
+    "IPM",
+    "smartphone apps",
+    "artificial intelligence",
+    "pest detection",
+    "disease diagnosis",
+    "pepper cultivation",
+    "Xarvio Scouting",
+    "Plantix",
+    "Agrio",
+    "CropDiagnosis"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 353786
+  },
+  "valid_structure": true
+}

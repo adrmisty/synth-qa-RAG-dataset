@@ -1,0 +1,27 @@
+{
+  "title": "Decision support technique – Futurcrop application",
+  "subtitle": "Technique d'aide à la décision – application Futurcrop",
+  "description": "A decision support application that uses AI-driven models and global weather data to predict pest development and optimize treatment timing in vegetable crops. It enables precise, efficient pest control by forecasting pest status up to 10 days in advance and reducing unnecessary interventions.",
+  "locations": [
+    "Europe",
+    "France"
+  ],
+  "topic": "crop farming",
+  "theme": "Pest control decision support",
+  "keywords": [
+    "Integrated Pest Management",
+    "Decision Support System",
+    "Artificial Intelligence",
+    "Crop Scouting",
+    "Pest Development",
+    "Treatment Timing",
+    "Data Clustering",
+    "Phenological Patterns",
+    "Smart Farming"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 343701
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Orange Wheat Blossom Midge Emergence Model",
+  "subtitle": "",
+  "description": "A guide to a decision support system that predicts orange wheat blossom midge emergence using daily temperature and rainfall data. It advises on monitoring and treatment timing to reduce grain damage and vulnerability to fungal infection.",
+  "locations": [
+    "Belgium",
+    "United Kingdom",
+    "Luxembourg",
+    "Netherlands",
+    "France",
+    "Germany",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Wheat midge emergence",
+  "keywords": [
+    "orange wheat blossom midge",
+    "emergence model",
+    "decision support system",
+    "temperature",
+    "rainfall",
+    "monitoring",
+    "pest management",
+    "grain damage"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 590159
+  },
+  "valid_structure": true
+}

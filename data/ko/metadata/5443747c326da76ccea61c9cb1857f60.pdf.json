@@ -1,0 +1,28 @@
+{
+  "title": "CAP'2ER, a tool to assess carbon footprints and support innovative approaches",
+  "subtitle": "",
+  "description": "A guide for assessing farm-level carbon footprints and environmental impacts across livestock and crop sectors using life cycle analysis methodology. It details the diagnostic process, implementation steps, support mechanisms, and benefits of developing action plans to improve environmental performance.",
+  "locations": [
+    "France",
+    "Romania",
+    "Switzerland",
+    "European Union"
+  ],
+  "topic": "environment",
+  "theme": "farm-level carbon assessment",
+  "keywords": [
+    "LCA methodology",
+    "carbon footprint",
+    "environmental impacts",
+    "farm assessment",
+    "action plan",
+    "data collection",
+    "benchmarking",
+    "livestock sectors"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 396614
+  },
+  "valid_structure": true
+}

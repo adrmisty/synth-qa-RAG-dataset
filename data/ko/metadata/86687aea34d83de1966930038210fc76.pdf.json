@@ -1,0 +1,35 @@
+{
+  "title": "Handbook for trait assessment in agricultural plant teams",
+  "subtitle": "",
+  "description": "A handbook providing standardized protocols to assess plant traits, agronomic characteristics, yield, and non-crop biodiversity in agricultural field trials of plant teams. Developed by the EU Horizon 2020 DIVERSify project, it promotes coordinated data collection, shared templates, and comprehensive metadata for ecosystem resilience and agricultural sustainability research.",
+  "locations": [
+    "Denmark",
+    "Germany",
+    "Spain",
+    "United Kingdom",
+    "Italy",
+    "Portugal",
+    "Austria",
+    "Sweden",
+    "Switzerland"
+  ],
+  "topic": "crop farming",
+  "theme": "Trait assessment protocols",
+  "keywords": [
+    "handbook",
+    "trait assessment",
+    "agricultural plant teams",
+    "field trials",
+    "phenology",
+    "morphology",
+    "physiology",
+    "yield",
+    "biodiversity",
+    "DIVERSify"
+  ],
+  "size": {
+    "pages": 110,
+    "bytes": 3607653
+  },
+  "valid_structure": true
+}

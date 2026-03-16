@@ -1,0 +1,27 @@
+{
+  "title": "Projet FertiBioSol - Fertilisation Carbonée Massive",
+  "subtitle": "",
+  "description": "A technical report presenting the FertiBioSol project’s field trials on massive carbon-based soil fertilisation for organic vegetable farming. The document details methods, tools, and indicators used in two case studies to assess the agronomic, economic, and environmental outcomes of high-carbon organic amendments.",
+  "locations": [
+    "France",
+    "Normandy"
+  ],
+  "topic": "crop farming",
+  "theme": "Massive carbon fertilisation",
+  "keywords": [
+    "carbon amendment",
+    "soil fertility",
+    "organic farming",
+    "vegetable production",
+    "mulch",
+    "soil structure",
+    "microbial activity",
+    "weed management",
+    "techno-economic benchmarks"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 2150886
+  },
+  "valid_structure": true
+}

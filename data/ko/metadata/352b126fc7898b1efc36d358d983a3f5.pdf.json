@@ -1,0 +1,27 @@
+{
+  "title": "DOSSIER DE RESTITUTION",
+  "subtitle": "Suivi d’essais de couverts chez des producteurs",
+  "description": "A report presenting the implementation and evaluation of winter cover crop trials conducted by vegetable producers in the Val de Saire area during the 2021–2022 season. It analyzes biomass production, weed suppression, nitrogen capture, and carbon storage across different cover crop mixtures to inform future rotation decisions.",
+  "locations": [
+    "Val de Saire",
+    "Sainte-Geneviève"
+  ],
+  "topic": "crop farming",
+  "theme": "Cover crop trials",
+  "keywords": [
+    "cover crops",
+    "winter cover",
+    "crop rotation",
+    "biomass yield",
+    "weed control",
+    "nitrogen retention",
+    "carbon storage",
+    "legumes",
+    "soil health"
+  ],
+  "size": {
+    "pages": 5,
+    "bytes": 2252890
+  },
+  "valid_structure": true
+}

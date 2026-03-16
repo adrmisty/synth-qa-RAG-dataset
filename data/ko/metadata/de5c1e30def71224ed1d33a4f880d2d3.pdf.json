@@ -1,0 +1,27 @@
+{
+  "title": "Plateforme numérique expérimentale LoRa en agriculture",
+  "subtitle": "",
+  "description": "A guide for implementing an experimental LoRa (Long Range Radio) digital network on a demonstration farm, covering technology selection, sensor use cases, project objectives, and stakeholder partnerships. It outlines the features of LoRa technology, examples of farm monitoring applications, and the steps for deploying and evaluating the platform at La Blanche Maison experimental farm.",
+  "locations": [
+    "Normandie"
+  ],
+  "topic": "environment",
+  "theme": "LoRa digital agriculture platform",
+  "keywords": [
+    "LoRa",
+    "LoRaWAN",
+    "digital platform",
+    "agricultural sensors",
+    "precision agriculture",
+    "remote monitoring",
+    "farm IoT",
+    "weather station",
+    "soil moisture",
+    "decision support"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 183140
+  },
+  "valid_structure": true
+}

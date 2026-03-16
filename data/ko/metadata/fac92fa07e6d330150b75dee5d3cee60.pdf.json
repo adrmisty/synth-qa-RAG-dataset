@@ -1,0 +1,25 @@
+{
+  "title": "PROTOCOLE POUR LA COLLECTE DES OEUFS",
+  "subtitle": "",
+  "description": "A protocol guide establishing biosecurity procedures for egg collection and transport to prevent pathogen spread. It includes driver visit protocols, facility disinfection steps, equipment cleanliness checks, and restricted access measures for poultry farmers.",
+  "locations": [
+    "Netherlands"
+  ],
+  "topic": "livestock",
+  "theme": "Egg collection biosecurity",
+  "keywords": [
+    "biosecurity",
+    "egg transport",
+    "disinfection",
+    "driver protocols",
+    "equipment inspection",
+    "pathogen control",
+    "farm hygiene",
+    "access control"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1313690
+  },
+  "valid_structure": true
+}

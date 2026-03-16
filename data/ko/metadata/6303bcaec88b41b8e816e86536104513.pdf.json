@@ -1,0 +1,28 @@
+{
+  "title": "Mapping of mountain areas vulnerability",
+  "subtitle": "",
+  "description": "The document outlines the MOVING project’s development of Spatial Vulnerability Matrices to evaluate land use system vulnerability across 23 Mountain Reference Landscapes. It presents examples from the Swiss Jura and Austrian Alps, showing how vulnerability to climate and other drivers is spatially distributed to support targeted adaptation measures.",
+  "locations": [
+    "Swiss Jura",
+    "Austrian Alps"
+  ],
+  "topic": "environment",
+  "theme": "Spatial vulnerability mapping",
+  "keywords": [
+    "vulnerability",
+    "spatial vulnerability matrices",
+    "land use systems",
+    "mountain areas",
+    "value chains",
+    "adaptation",
+    "climate change",
+    "permanent pastures",
+    "vulnerability maps",
+    "mountain reference landscapes"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 365026
+  },
+  "valid_structure": true
+}

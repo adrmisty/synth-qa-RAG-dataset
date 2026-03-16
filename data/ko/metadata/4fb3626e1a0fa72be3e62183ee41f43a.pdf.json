@@ -1,0 +1,28 @@
+{
+  "title": "Struvite - Trattamento di effluenti e digestati zootecnici per ridurne le emissioni e produrre Struvite",
+  "subtitle": "",
+  "description": "A prototype system was developed to recover nitrogen and phosphorus from livestock digestate and produce renewable slow‐release struvite fertilizer, reducing reliance on synthetic fertilizers. The document details the design, testing at a pig farm in Modena, and measured reductions in ammonia, methane, and greenhouse gas emissions, supporting a circular economy approach.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna"
+  ],
+  "topic": "livestock",
+  "theme": "Struvite recovery from digestate",
+  "keywords": [
+    "Struvite",
+    "digestate treatment",
+    "nutrient recovery",
+    "nitrogen recovery",
+    "phosphorus recovery",
+    "greenhouse gas emissions",
+    "ammonia reduction",
+    "anaerobic digestion",
+    "circular economy",
+    "slow-release fertilizer"
+  ],
+  "size": {
+    "pages": 9,
+    "bytes": 1152414
+  },
+  "valid_structure": true
+}

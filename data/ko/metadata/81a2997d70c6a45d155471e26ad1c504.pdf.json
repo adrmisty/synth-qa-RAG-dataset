@@ -1,0 +1,30 @@
+{
+  "title": "Ghid de bune practici ecologice",
+  "subtitle": "Proiect pilot pentru aplicarea rezultatelor cercetării în agricultura ecologică",
+  "description": "A practical guide presenting sustainable ecological farming techniques tested in a pilot project on an organic vegetable farm. It details principles, cultivation and soil management, pest and disease control, and organic certification processes for improved productivity and environmental stewardship.",
+  "locations": [
+    "Romania",
+    "Dâmbovița",
+    "Buzău",
+    "Călărași"
+  ],
+  "topic": "crop farming",
+  "theme": "Organic vegetable production",
+  "keywords": [
+    "organic agriculture",
+    "sustainable farming",
+    "vegetable cultivation",
+    "pest management",
+    "soil fertility",
+    "crop rotation",
+    "mulching",
+    "companion planting",
+    "organic certification",
+    "biosecurity"
+  ],
+  "size": {
+    "pages": 81,
+    "bytes": 3569641
+  },
+  "valid_structure": true
+}

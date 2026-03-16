@@ -1,0 +1,28 @@
+{
+  "title": "Monitorización ambiental en cultivos de invernadero mediante sensores inalámbricos",
+  "subtitle": "",
+  "description": "A guide for deploying wireless IoT sensors to monitor environmental conditions in greenhouse crops. It includes a commercial tomato case study in the UK, data visualization methods, challenges and a long-term vision for autonomous, sensor-driven crop protection.",
+  "locations": [
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "topic": "crop farming",
+  "theme": "Greenhouse sensor monitoring",
+  "keywords": [
+    "greenhouse",
+    "wireless sensors",
+    "environmental monitoring",
+    "IoT",
+    "crop protection",
+    "pest management",
+    "precision agriculture",
+    "microclimate",
+    "data visualization",
+    "decision support"
+  ],
+  "size": {
+    "pages": 7,
+    "bytes": 948396
+  },
+  "valid_structure": true
+}

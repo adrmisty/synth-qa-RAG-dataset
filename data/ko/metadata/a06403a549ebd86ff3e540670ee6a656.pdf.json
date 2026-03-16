@@ -1,0 +1,30 @@
+{
+  "title": "Thermochemical Fluids in Greenhouse Farming",
+  "subtitle": "SCHULUNGSHANDBUCH",
+  "description": "A training handbook detailing the structure, components and applications of thermochemical fluid-based climate control technology in greenhouse farming under the EU Horizon 2020 TheGreefa project. It covers demonstrators in Switzerland and Tunisia, simulation case studies in Spain and Italy, environmental and economic assessments, and policy recommendations.",
+  "locations": [
+    "Switzerland",
+    "Tunisia",
+    "Spain",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Thermochemical greenhouse climate control",
+  "keywords": [
+    "thermochemical fluids",
+    "greenhouse farming",
+    "climate control",
+    "energy efficiency",
+    "absorption technology",
+    "TCF regeneration",
+    "renewable resources",
+    "life cycle assessment",
+    "EU Horizon 2020",
+    "sustainability"
+  ],
+  "size": {
+    "pages": 67,
+    "bytes": 8462367
+  },
+  "valid_structure": true
+}

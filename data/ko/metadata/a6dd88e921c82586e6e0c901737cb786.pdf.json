@@ -1,0 +1,33 @@
+{
+  "title": "FOOD SYSTEM INNOVATION ASSESSMENT REPORT",
+  "subtitle": "Version 1.0",
+  "description": "A report presenting methods and initial results from evaluating the current state of food systems in front-runner city regions using three foodshed assessment approaches. It outlines the Metropolitan Foodscape Planner, City-Region Foodshed Assessment, and Metropolitan Foodshed and Self-sufficiency Scenario models applied across nine European city-regions.",
+  "locations": [
+    "Athens",
+    "Avignon",
+    "Barcelona",
+    "Bari",
+    "Berlin",
+    "Brasov",
+    "Copenhagen",
+    "Oostend",
+    "Wrocław"
+  ],
+  "topic": "environment",
+  "theme": "Food system assessment",
+  "keywords": [
+    "food system",
+    "foodshed",
+    "urban food planning",
+    "self-sufficiency",
+    "resilience",
+    "MFP",
+    "CRFA",
+    "MFSS"
+  ],
+  "size": {
+    "pages": 39,
+    "bytes": 2377861
+  },
+  "valid_structure": true
+}

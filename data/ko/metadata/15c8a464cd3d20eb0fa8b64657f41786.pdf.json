@@ -1,0 +1,27 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "A technical overview of the SUPER-G Atlas presenting a typology of 18 European permanent grassland (PG) types based on management and botanical composition. It explains the mapping approach using expert knowledge, statistical region data and a two-round Delphi exercise to score the ecosystem service delivery potential of each PG type.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grassland",
+    "ecosystem services",
+    "typology",
+    "grassland management",
+    "Delphi elicitation",
+    "mapping",
+    "biogeographic regions",
+    "distribution",
+    "ecosystem service indicators",
+    "European Union"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 9665079
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Policy Brief Eastern Europe",
+  "subtitle": "",
+  "description": "A policy brief from the EU-funded SALSA project that analyses the role of small farms in Eastern Europe for sustainable food and nutrition security. It provides policy recommendations in areas such as infrastructure, market access, advisory systems, and environmental measures to support small farms through post-2020 CAP funding.",
+  "locations": [
+    "Bulgaria",
+    "Croatia",
+    "Czech Republic",
+    "Latvia",
+    "Lithuania",
+    "Poland",
+    "Romania"
+  ],
+  "topic": "economics",
+  "theme": "Small farms food security",
+  "keywords": [
+    "small farms",
+    "food security",
+    "Eastern Europe",
+    "Common Agricultural Policy",
+    "short supply chains",
+    "rural infrastructure",
+    "innovation systems",
+    "agroecology",
+    "market access",
+    "advisory services"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 2476124
+  },
+  "valid_structure": true
+}

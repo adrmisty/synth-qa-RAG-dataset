@@ -1,0 +1,29 @@
+{
+  "title": "Trattamento degli effluenti e digestati zootecnici per ridurne le emissioni e produrre Struvite",
+  "subtitle": "",
+  "description": "A guide describing a prototype system for recovering nitrogen and phosphorus from livestock effluents through the precipitation and crystallization of struvite. It presents pilot test results demonstrating significant reductions in ammonia and methane emissions and evaluates the environmental benefits via life cycle assessment.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna",
+    "Modena"
+  ],
+  "topic": "livestock",
+  "theme": "Struvite recovery process",
+  "keywords": [
+    "struvite",
+    "nutrient recovery",
+    "livestock effluents",
+    "digestate treatment",
+    "ammonia emissions",
+    "methane emissions",
+    "phosphorus recycling",
+    "nitrogen removal",
+    "prototype reactor",
+    "life cycle assessment"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 1675833
+  },
+  "valid_structure": true
+}

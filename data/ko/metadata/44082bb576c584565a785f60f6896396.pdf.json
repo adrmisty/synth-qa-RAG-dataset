@@ -1,0 +1,30 @@
+{
+  "title": "CPO model for Barley net blotch",
+  "subtitle": "",
+  "description": "A factsheet on using the CPO decision support model to manage net blotch disease in barley. It explains setting model parameters, monitoring disease incidence, and applying fungicide treatments based on risk thresholds.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Barley net blotch model",
+  "keywords": [
+    "barley",
+    "net blotch",
+    "disease management",
+    "decision support system",
+    "fungicide",
+    "risk assessment",
+    "crop scouting",
+    "growth stages",
+    "susceptibility",
+    "IPM"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 818487
+  },
+  "valid_structure": true
+}

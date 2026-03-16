@@ -1,0 +1,29 @@
+{
+  "title": "CPO model for Mildew in wheat",
+  "subtitle": "",
+  "description": "A factsheet outlining the CPO powdery mildew model for wheat on the IPM Decisions platform, guiding timing of fungicide treatments based on visual monitoring thresholds. It details how to customize DSS parameters for cultivar susceptibility and growth stages, interpret risk outputs, and apply model recommendations in northern European contexts.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Powdery mildew decision support",
+  "keywords": [
+    "powdery mildew",
+    "wheat",
+    "decision support system",
+    "CPO model",
+    "fungicide threshold",
+    "cultivar susceptibility",
+    "growth stages",
+    "disease monitoring",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1079834
+  },
+  "valid_structure": true
+}

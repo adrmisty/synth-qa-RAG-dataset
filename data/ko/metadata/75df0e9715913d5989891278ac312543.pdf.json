@@ -1,0 +1,27 @@
+{
+  "title": "GPS collars to record information on PG use and livestock behaviour",
+  "subtitle": "",
+  "description": "A technical overview of Global Positioning System collars for monitoring livestock movements and pasture use. It explains the mechanisms, system options, benefits for farm management and practical considerations for deployment in Alpine grazing systems.",
+  "locations": [
+    "Alpine"
+  ],
+  "topic": "livestock",
+  "theme": "Livestock GPS tracking",
+  "keywords": [
+    "GPS",
+    "collars",
+    "livestock behaviour",
+    "animal tracking",
+    "pasture management",
+    "remote monitoring",
+    "data transmission",
+    "battery life",
+    "herd monitoring",
+    "biogeographic regions"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 706462
+  },
+  "valid_structure": true
+}

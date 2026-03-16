@@ -1,0 +1,27 @@
+{
+  "title": "ROBO-FERMIER",
+  "subtitle": "Proiectarea și Dezvoltarea Platformei Modulare Robotice ROBO-FERMIER",
+  "description": "A guide for designing and developing the modular robotic platform ROBO-FERMIER for precision agriculture. It details project goals, phases, technologies and tools enabling autonomous tasks such as mowing, weeding, disease monitoring and the targeted application of fertilizers and pesticides in orchards.",
+  "locations": [
+    "Romania"
+  ],
+  "topic": "crop farming",
+  "theme": "Precision farming robotics",
+  "keywords": [
+    "precision agriculture",
+    "modular robotics",
+    "autonomous navigation",
+    "organic orchards",
+    "disease monitoring",
+    "fertilizer application",
+    "pesticide application",
+    "GNSS",
+    "artificial intelligence",
+    "sensors"
+  ],
+  "size": {
+    "pages": 16,
+    "bytes": 1645813
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,28 @@
+{
+  "title": "CPO model for Septoria in wheat",
+  "subtitle": "",
+  "description": "A guide for using the CPO Decision Support System (DSS) to estimate and manage the risk of septoria leaf blotch in winter wheat. It outlines the required weather data and growth stages, parameter customization, risk interpretation and fungicide application guidelines on the IPM Decisions platform.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Septoria risk modeling",
+  "keywords": [
+    "septoria tritici blotch",
+    "wheat",
+    "decision support system",
+    "risk assessment",
+    "fungicide application",
+    "growth stages",
+    "rainfall",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1207949
+  },
+  "valid_structure": true
+}

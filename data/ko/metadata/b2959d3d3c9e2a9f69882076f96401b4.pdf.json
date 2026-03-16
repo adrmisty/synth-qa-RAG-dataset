@@ -1,0 +1,31 @@
+{
+  "title": "Onderzoek naar bioveiligheid in de pluimveesector",
+  "subtitle": "In het kader van het project NetPoulSafe heeft ZLTO onderzoek gedaan naar de bioveiligheid onder pluimveehouders.",
+  "description": "A report summarizing biosafety practices among poultry farmers across seven European countries under the NetPoulSafe project. It examines hygiene measures, disinfection protocols, and the implementation of all-in all-out systems, with a focus on Dutch farming practices.",
+  "locations": [
+    "Netherlands",
+    "Belgium",
+    "France",
+    "Spain",
+    "Italy",
+    "Poland",
+    "Hungary"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosafety practices",
+  "keywords": [
+    "biosafety",
+    "poultry farming",
+    "biosecurity",
+    "hygiene measures",
+    "disinfection",
+    "wheel disinfection",
+    "all-in all-out",
+    "NetPoulSafe"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 43609
+  },
+  "valid_structure": true
+}

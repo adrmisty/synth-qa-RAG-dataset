@@ -1,0 +1,33 @@
+{
+  "title": "MANUALE DELLE MISURE",
+  "subtitle": "A SUPPORTO",
+  "description": "A manual presenting 50 support measures to enhance biosecurity implementation in poultry production across seven European countries. It offers practical tools such as checklists, training modules, audits, and guidelines tailored for both farmers and consultants.",
+  "locations": [
+    "Italy",
+    "France",
+    "Belgium",
+    "Hungary",
+    "Spain",
+    "The Netherlands",
+    "Poland"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity measures",
+  "keywords": [
+    "poultry",
+    "biosecurity",
+    "biosafety",
+    "farming",
+    "training",
+    "checklist",
+    "Horizon 2020",
+    "guidelines",
+    "measures",
+    "consultants"
+  ],
+  "size": {
+    "pages": 162,
+    "bytes": 48193340
+  },
+  "valid_structure": true
+}

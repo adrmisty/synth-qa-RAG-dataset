@@ -1,0 +1,27 @@
+{
+  "title": "GUIDA ALLA BIOSICUREZZA NEI MANGIMIFICI",
+  "subtitle": "",
+  "description": "A guide for implementing biosafety protocols in feed delivery operations to prevent disease transmission among poultry farms. It outlines logistic planning and cleaning/disinfection measures for vehicles and drivers to minimize cross-contamination.",
+  "locations": [
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Feed delivery biosecurity",
+  "keywords": [
+    "biosafety",
+    "feed delivery",
+    "logistics",
+    "disinfection",
+    "cross-contamination",
+    "avian influenza",
+    "Salmonella",
+    "hygiene",
+    "feed trucks",
+    "NetPoulSafe"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 331947
+  },
+  "valid_structure": true
+}

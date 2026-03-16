@@ -1,0 +1,26 @@
+{
+  "title": "Plant pathogen diagnostic using ELISA based technologies",
+  "subtitle": "Augu patogēnu diagnostika, izmantojot ELISA tehnoloģijas",
+  "description": "A guide on applying enzyme-linked immunosorbent assay (ELISA) technologies for accurate plant pathogen diagnostics in vegetable integrated pest management. It describes antibody–antigen binding and colorimetric detection methods for both laboratory analyses and rapid express tests.",
+  "locations": [
+    "Europe",
+    "Latvia"
+  ],
+  "topic": "crop farming",
+  "theme": "ELISA pathogen diagnostics",
+  "keywords": [
+    "integrated pest management",
+    "plant pathogens",
+    "ELISA",
+    "immunodiagnostics",
+    "antibodies",
+    "antigen binding",
+    "colorimetric detection",
+    "biotechnology"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 388143
+  },
+  "valid_structure": true
+}

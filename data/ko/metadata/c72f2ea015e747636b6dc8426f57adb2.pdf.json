@@ -1,0 +1,26 @@
+{
+  "title": "Plant pathogen diagnostic using DNA/RNA based technologies",
+  "subtitle": "Augu patogēnu diagnostika, izmantojot DNS/RNS tehnoloģijas",
+  "description": "A summary of DNA and RNA-based molecular methods for diagnosing plant pathogens, highlighting PCR amplification, electrophoretic separation, and luminescence detection within integrated pest management. The guide compares traditional morphological techniques with modern nucleic acid analysis, discussing accuracy, speed, and resource requirements.",
+  "locations": [
+    "Latvia",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Molecular pathogen diagnostics",
+  "keywords": [
+    "integrated pest management",
+    "pathogen identification",
+    "biotechnology",
+    "nucleic acid analysis",
+    "PCR",
+    "DNA technologies",
+    "RNA technologies",
+    "gel electrophoresis"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 388045
+  },
+  "valid_structure": true
+}

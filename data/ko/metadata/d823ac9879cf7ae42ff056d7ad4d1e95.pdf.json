@@ -1,0 +1,29 @@
+{
+  "title": "Thermochemical Fluids in Greenhouse Farming",
+  "subtitle": "TRAINING MANUAL",
+  "description": "A training manual for the TheGreefa project demonstrating the development and application of thermochemical fluids (TCF) for greenhouse climate control, drying processes, and energy storage. It includes technology concepts, demonstration case studies, life-cycle and economic impact assessments, and policy recommendations to improve energy and resource efficiency in greenhouse farming.",
+  "locations": [
+    "Switzerland",
+    "Tunisia",
+    "Spain",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Thermochemical greenhouse systems",
+  "keywords": [
+    "greenhouse",
+    "thermochemical fluid",
+    "liquid desiccant",
+    "energy efficiency",
+    "climate control",
+    "drying process",
+    "renewable energy",
+    "regeneration",
+    "environmental impact"
+  ],
+  "size": {
+    "pages": 62,
+    "bytes": 8336491
+  },
+  "valid_structure": true
+}

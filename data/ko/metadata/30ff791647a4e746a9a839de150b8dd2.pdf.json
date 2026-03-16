@@ -1,0 +1,28 @@
+{
+  "title": "Mobile pest and disease diagnosis in onion cultivation",
+  "subtitle": "",
+  "description": "A guide on leveraging smartphone applications for pest and disease diagnosis in onion cultivation using high-resolution cameras and AI-based image recognition. It evaluates the capabilities of Xarvio scouting and Plantix to detect a variety of onion pests and diseases and provide treatment recommendations and local alerts to support integrated pest management.",
+  "locations": [
+    "Europe",
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "Mobile pest and disease diagnosis",
+  "keywords": [
+    "integrated pest management",
+    "onion cultivation",
+    "pest detection",
+    "disease diagnosis",
+    "smartphone applications",
+    "artificial intelligence",
+    "machine learning",
+    "Xarvio scouting",
+    "Plantix",
+    "crop scouting"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 351783
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Speyside Malt Whisky",
+  "subtitle": "",
+  "description": "A practice abstract describing the Speyside Malt Whisky value chain within the Cairngorms National Park, covering natural resource inputs, processing stages, distribution, marketing, and consumption. It highlights the industry’s PGI protection, corporate consolidation, climate change vulnerabilities, and growing whisky tourism in the region.",
+  "locations": [
+    "Scotland",
+    "Speyside",
+    "Cairngorms National Park",
+    "Highlands and Islands",
+    "UK-Scotland"
+  ],
+  "topic": "economics",
+  "theme": "Whisky value chain",
+  "keywords": [
+    "Speyside",
+    "Malt whisky",
+    "Value chain",
+    "Cairngorms National Park",
+    "PGI status",
+    "Barley",
+    "Distilleries",
+    "Tourism",
+    "Climate change",
+    "Distribution"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 372058
+  },
+  "valid_structure": true
+}

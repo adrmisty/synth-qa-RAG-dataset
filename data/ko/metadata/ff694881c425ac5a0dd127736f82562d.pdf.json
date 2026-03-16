@@ -1,0 +1,34 @@
+{
+  "title": "Intercropping cereal and legume crops",
+  "subtitle": "",
+  "description": "A project report summarizing field experiments across eight European countries evaluating the integration of clover into cereal crops to enhance ecosystem services, pest regulation, and agronomic performance. It outlines context-dependent impacts on aphid abundance, cereal yield, and companion legume establishment, and discusses potential benefits and implementation challenges.",
+  "locations": [
+    "United Kingdom",
+    "Serbia",
+    "Bulgaria",
+    "Sweden",
+    "Finland",
+    "Bosnia & Herzegovina",
+    "France",
+    "Spain"
+  ],
+  "topic": "crop farming",
+  "theme": "Cereal-legume intercropping",
+  "keywords": [
+    "intercropping",
+    "cereals",
+    "legumes",
+    "clover",
+    "ecosystem services",
+    "aphid management",
+    "crop yield",
+    "field trials",
+    "biodiversity",
+    "sustainable agriculture"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 668220
+  },
+  "valid_structure": true
+}

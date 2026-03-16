@@ -1,0 +1,27 @@
+{
+  "title": "Decision support systems, an example Dacom",
+  "subtitle": "Lēmumu atbalsta sistēmas, kā piemērs DACOM",
+  "description": "Dacom Decision Support System under the SmartProtect network assists growers in timing and dosing fungicide applications based on plant development, weather data, and agronomic factors. It outlines the system’s integration with on-farm meteorological stations and the availability of web and mobile applications for disease management in vegetable crops.",
+  "locations": [
+    "Europe",
+    "Latvia"
+  ],
+  "topic": "crop farming",
+  "theme": "Disease management DSS",
+  "keywords": [
+    "IPM",
+    "decision support system",
+    "Dacom Disease Management",
+    "fungicide",
+    "web application",
+    "mobile application",
+    "weather data",
+    "agronomic decision-making",
+    "integrated pest management"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 400945
+  },
+  "valid_structure": true
+}

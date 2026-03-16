@@ -1,0 +1,30 @@
+{
+  "title": "CPO model for Mildew in barley",
+  "subtitle": "",
+  "description": "A guide for using the CPO powdery mildew decision support system to manage powdery mildew in barley crops by monitoring infection incidence and applying fungicides when thresholds are exceeded. It outlines DSS parameter settings, risk evaluation procedures, and regional testing history in Denmark, the Nordic and Baltic countries, and Northern Europe for informed disease management.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Barley mildew model",
+  "keywords": [
+    "powdery mildew",
+    "barley",
+    "decision support system",
+    "DSS",
+    "risk assessment",
+    "fungicide treatment",
+    "crop monitoring",
+    "plant disease",
+    "CPO model",
+    "disease thresholds"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 823477
+  },
+  "valid_structure": true
+}

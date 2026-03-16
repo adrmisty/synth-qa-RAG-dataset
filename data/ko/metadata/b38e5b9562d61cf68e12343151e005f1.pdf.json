@@ -1,0 +1,34 @@
+{
+  "title": "Traditional tomato varieties and cultural practices: a case for agricultural diversification with impact on food security and health of European population",
+  "subtitle": "Screening for resistance and mutant genes",
+  "description": "A report detailing the identification of genetic loci and phenotypic mutations affecting fruit morphology and plant development in traditional tomato varieties. It also describes the screening for disease resistance genes and outlines a marker-assisted breeding program to introgress key resistances into the germplasm.",
+  "locations": [
+    "Balear Islands",
+    "Catalonia",
+    "Israel",
+    "Monfavet",
+    "Palermo",
+    "Portici",
+    "Greece",
+    "Valencia",
+    "Viterbo"
+  ],
+  "topic": "crop farming",
+  "theme": "Resistance and mutant screening",
+  "keywords": [
+    "traditional tomato",
+    "disease resistance",
+    "mutant genes",
+    "marker assisted selection",
+    "fruit morphology",
+    "SNP",
+    "QTL",
+    "breeding program",
+    "genotyping"
+  ],
+  "size": {
+    "pages": 45,
+    "bytes": 3810821
+  },
+  "valid_structure": true
+}

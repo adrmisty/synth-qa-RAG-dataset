@@ -1,0 +1,25 @@
+{
+  "title": "Decision Support System: Grey field slug",
+  "subtitle": "The grey field slug can cause serious damage in oilseed rape",
+  "description": "A decision support system for monitoring and managing grey field slug (Deroceras reticulatum) damage in oilseed rape using refuge traps and threshold-based guidance. It outlines slug trapping procedures, damage risk assessment with a four-slug per trap threshold, and DSS parameters on the IPM Decisions platform.",
+  "locations": [
+    "England"
+  ],
+  "topic": "crop farming",
+  "theme": "grey field slug control",
+  "keywords": [
+    "grey field slug",
+    "Deroceras reticulatum",
+    "oilseed rape",
+    "decision support system",
+    "slug monitoring",
+    "refuge traps",
+    "economic threshold",
+    "integrated pest management"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1704993
+  },
+  "valid_structure": true
+}

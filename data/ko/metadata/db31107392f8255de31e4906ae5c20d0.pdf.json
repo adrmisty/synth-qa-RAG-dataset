@@ -1,0 +1,27 @@
+{
+  "title": "Tomato Fact Sheet",
+  "subtitle": "",
+  "description": "A comprehensive fact sheet on smart technologies and methodologies for integrated pest management in tomato cultivation, covering monitoring, diagnostics, decision support, and application tools. It is designed to inform tomato growers and agronomists in Europe about IPM solutions in open-field and greenhouse systems.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Tomato IPM technologies",
+  "keywords": [
+    "tomato",
+    "integrated pest management",
+    "IPM",
+    "monitoring",
+    "diagnostics",
+    "decision support",
+    "spraying",
+    "greenhouse",
+    "open-field",
+    "smart agriculture"
+  ],
+  "size": {
+    "pages": 45,
+    "bytes": 2243391
+  },
+  "valid_structure": true
+}

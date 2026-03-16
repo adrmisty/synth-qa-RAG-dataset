@@ -1,0 +1,28 @@
+{
+  "title": "My Appletree",
+  "subtitle": "",
+  "description": "A guide presenting a direct-to-consumer model for small-scale orchards that engages consumers throughout the growing season, enhancing transparency and customer experience. It outlines the benefits for both farmers and consumers, demonstrates replicability across various crops and environments, and discusses the model’s scalability within entrepreneurial and localized demand constraints.",
+  "locations": [
+    "Espoo",
+    "Uusimaa"
+  ],
+  "topic": "crop farming",
+  "theme": "Direct-to-consumer orchard sales",
+  "keywords": [
+    "small-scale orchard",
+    "direct sales",
+    "customer engagement",
+    "food traceability",
+    "business model",
+    "farm entrepreneurship",
+    "replicability",
+    "scalability",
+    "agricultural innovation",
+    "supply chain"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 363515
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Carrot fly model (Warwick HRI)",
+  "subtitle": "",
+  "description": "A technical factsheet presenting a simulation model for predicting carrot fly development and damage risk based on temperature data. It describes the model’s cohort-based development rates, DSS input parameters, and outputs enabling targeted monitoring and mitigation actions in integrated pest management.",
+  "locations": [
+    "England",
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "Carrot fly simulation",
+  "keywords": [
+    "carrot fly",
+    "pest modeling",
+    "decision support system",
+    "cohort simulation",
+    "soil temperature",
+    "air temperature",
+    "adult emergence",
+    "egg-laying",
+    "integrated pest management",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 1363363
+  },
+  "valid_structure": true
+}

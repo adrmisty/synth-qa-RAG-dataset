@@ -1,0 +1,28 @@
+{
+  "title": "BIOSICHERHEITSAUDIT MIT DEM PULS-TOOL",
+  "subtitle": "",
+  "description": "A guide for using the PULSE tool, an Excel-based self-assessment instrument developed by ITAVI for poultry producers to evaluate on-farm biosafety practices. It outlines audit modules, scoring mechanisms, and follow-up reporting to ensure compliance with French biosafety regulations.",
+  "locations": [
+    "France",
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Biosafety self-assessment",
+  "keywords": [
+    "biosafety",
+    "self-assessment",
+    "poultry farming",
+    "audit tool",
+    "Excel",
+    "compliance",
+    "scoring",
+    "biosecurity",
+    "hygiene",
+    "follow-up"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 848716
+  },
+  "valid_structure": true
+}

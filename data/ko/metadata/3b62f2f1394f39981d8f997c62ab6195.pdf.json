@@ -1,0 +1,32 @@
+{
+  "title": "Carrot rust fly",
+  "subtitle": "FACTSHEET",
+  "description": "A factsheet on the IPM Decisions decision support system (DSS) for predicting the carrot rust fly flight period using accumulated degree-days over a base temperature of 5°C to support timely treatments and monitoring. It details model parameters, recommended yellow sticky trap monitoring, and lists the regions where the tool is applicable.",
+  "locations": [
+    "Finland",
+    "United Kingdom",
+    "Belgium",
+    "The Netherlands",
+    "France",
+    "Germany",
+    "Luxembourg",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Carrot rust fly monitoring",
+  "keywords": [
+    "carrot rust fly",
+    "degree-days",
+    "decision support system",
+    "pest monitoring",
+    "flight period",
+    "temperature model",
+    "IPM Decisions",
+    "yellow sticky traps"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 1537771
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Mobile pest and disease diagnosis in cucumber cultivation",
+  "subtitle": "",
+  "description": "Smartphone applications leverage high-resolution cameras and AI algorithms to diagnose and detect pests and diseases in cucumber cultivation. The document reviews the functionalities of the Xarvio scouting, Plantix, and Agrio apps, highlighting their detection capabilities, treatment recommendations, and local alert features.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Mobile pest diagnosis",
+  "keywords": [
+    "integrated pest management",
+    "pest detection",
+    "disease diagnosis",
+    "cucumber cultivation",
+    "smartphone apps",
+    "Xarvio scouting",
+    "Plantix",
+    "Agrio",
+    "machine learning",
+    "AI"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 351831
+  },
+  "valid_structure": true
+}

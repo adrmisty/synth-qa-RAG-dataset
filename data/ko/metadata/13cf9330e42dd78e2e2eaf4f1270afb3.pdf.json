@@ -1,0 +1,28 @@
+{
+  "title": "Decision support technologies without sensor accompanying vegetable crop health",
+  "subtitle": "Entscheidungsunterstützende Technologien ohne Sensor für die Pflanzengesundheit in Gemüsekulturen",
+  "description": "A guide to mobile software applications that support pest and disease monitoring in vegetable crops without using sensors. It reviews free and premium smart apps that identify pests and diseases from photographs and recommend integrated pest management strategies.",
+  "locations": [
+    "Europe",
+    "Germany"
+  ],
+  "topic": "crop farming",
+  "theme": "Sensorless pest monitoring",
+  "keywords": [
+    "IPM",
+    "smart applications",
+    "monitoring",
+    "identification",
+    "pests",
+    "diseases",
+    "Xarvio App",
+    "Scouting App",
+    "Agrio Technology App",
+    "Bioline App"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 332970
+  },
+  "valid_structure": true
+}

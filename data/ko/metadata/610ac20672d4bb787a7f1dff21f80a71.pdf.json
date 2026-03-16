@@ -1,0 +1,29 @@
+{
+  "title": "CPO model for Brown rust in Barley",
+  "subtitle": "",
+  "description": "A factsheet describing the CPO decision support model for managing brown rust in barley. It details how to configure and use the DSS parameters to assess infection risk and recommend fungicide treatments based on growth stages and cultivar susceptibility.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Barley brown rust DSS",
+  "keywords": [
+    "brown rust",
+    "barley",
+    "decision support system",
+    "CPO model",
+    "fungicide",
+    "disease monitoring",
+    "growth stages",
+    "cultivar susceptibility",
+    "risk assessment"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 916555
+  },
+  "valid_structure": true
+}

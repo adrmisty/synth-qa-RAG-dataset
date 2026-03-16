@@ -1,0 +1,28 @@
+{
+  "title": "ESTRAZIONE DI STRUVITE DAI LIQUAMI SUINI",
+  "subtitle": "",
+  "description": "A guide describing the development and pilot implementation of a prototype system for extracting struvite from pig slurry to recover nitrogen and phosphorus. It aims to reduce ammonia, methane and nitrous oxide emissions during storage and land application while producing a recycled slow-release fertilizer.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna"
+  ],
+  "topic": "livestock",
+  "theme": "Struvite recovery from slurry",
+  "keywords": [
+    "struvite",
+    "pig slurry",
+    "nutrient recovery",
+    "phosphorus",
+    "nitrogen",
+    "greenhouse gas emissions",
+    "fertilizer",
+    "anaerobic digestion",
+    "prototype",
+    "circular economy"
+  ],
+  "size": {
+    "pages": 5,
+    "bytes": 2064982
+  },
+  "valid_structure": true
+}

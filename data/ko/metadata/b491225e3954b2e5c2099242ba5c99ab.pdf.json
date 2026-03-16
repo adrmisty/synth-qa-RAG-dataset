@@ -1,0 +1,28 @@
+{
+  "title": "Cabbage fly flight model (Scandinavia)",
+  "subtitle": "",
+  "description": "A guide for timing protective measures against cabbage root fly using a decision support system flight model. It explains how a degree-day based model predicts egg laying on brassica crops using soil or air temperature thresholds.",
+  "locations": [
+    "Scandinavia",
+    "Norway"
+  ],
+  "topic": "crop farming",
+  "theme": "Cabbage fly flight model",
+  "keywords": [
+    "cabbage root fly",
+    "brassica crops",
+    "decision support system",
+    "degree-days",
+    "soil temperature",
+    "air temperature",
+    "flight model",
+    "pest management",
+    "egg laying",
+    "predictive modeling"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 790758
+  },
+  "valid_structure": true
+}

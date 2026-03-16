@@ -1,0 +1,38 @@
+{
+  "title": "Indicadores de Biodiversidad de los Sistemas Agrarios Europeos",
+  "subtitle": "Guía Resumen",
+  "description": "A concise summary guide for biodiversity indicators tailored to European agricultural systems, developed under the EU FP7 BioBio project. It presents 23 scientifically validated farm-scale indicators encompassing habitat, species, genetic and management metrics for monitoring agri-biodiversity.",
+  "locations": [
+    "Austria",
+    "Bulgaria",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Netherlands",
+    "Norway",
+    "Spain",
+    "Switzerland",
+    "Tunisia",
+    "Uganda",
+    "Ukraine",
+    "Wales"
+  ],
+  "topic": "environment",
+  "theme": "Biodiversity indicators guide",
+  "keywords": [
+    "biodiversity indicators",
+    "agricultural systems",
+    "farm-scale monitoring",
+    "habitat diversity",
+    "species diversity",
+    "genetic diversity",
+    "management metrics",
+    "agri-environmental assessment"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 2542731
+  },
+  "valid_structure": true
+}

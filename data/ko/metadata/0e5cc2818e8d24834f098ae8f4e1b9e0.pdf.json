@@ -1,0 +1,27 @@
+{
+  "title": "LISTA KONTROLNA DO OCENY BEZPIECZEŃSTWA BIOLOGICZNEGO NA FERMACH DROBIU WE WŁOSZECH",
+  "subtitle": "",
+  "description": "A checklist designed for official veterinarians to systematically assess the implementation of biosecurity measures on poultry farms in Italy. It outlines inspection procedures, key control points, and decision flows for compliance verification and follow-up actions.",
+  "locations": [
+    "Italy"
+  ],
+  "topic": "livestock",
+  "theme": "Biosecurity compliance",
+  "keywords": [
+    "biosecurity",
+    "poultry farms",
+    "checklist",
+    "veterinary inspection",
+    "disinfection",
+    "regulatory compliance",
+    "inspection procedure",
+    "NetPoulSafe",
+    "Horizon 2020",
+    "risk assessment"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 599195
+  },
+  "valid_structure": true
+}

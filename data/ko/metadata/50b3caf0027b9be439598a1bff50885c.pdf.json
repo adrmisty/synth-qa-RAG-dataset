@@ -1,0 +1,36 @@
+{
+  "title": "Policy Brief Southern Europe",
+  "subtitle": "",
+  "description": "A policy brief from the SALSA Horizon 2020 project that assesses the current and future role of small farms and small food businesses in Southern Europe, highlighting their export orientation and untapped potential to meet regional food demands. It proposes priority policy actions across market integration, resource management, generational renewal, and innovation support to enhance small farm contributions to sustainable food security.",
+  "locations": [
+    "Vaucluse (France)",
+    "Imathia (Greece)",
+    "Larisa (Greece)",
+    "Ileia (Greece)",
+    "Lucca (Italy)",
+    "Pisa (Italy)",
+    "Alentejo Central (Portugal)",
+    "Oeste (Portugal)",
+    "Castellón (Spain)",
+    "Córdoba (Spain)"
+  ],
+  "topic": "crop farming",
+  "theme": "Small farm food security",
+  "keywords": [
+    "small farms",
+    "food security",
+    "Southern Europe",
+    "agricultural policy",
+    "market integration",
+    "climate adaptation",
+    "generational renewal",
+    "innovation support",
+    "short supply chains",
+    "export orientation"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 2166251
+  },
+  "valid_structure": true
+}

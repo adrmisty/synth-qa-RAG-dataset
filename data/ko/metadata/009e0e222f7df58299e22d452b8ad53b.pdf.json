@@ -1,0 +1,26 @@
+{
+  "title": "Il GOi STRUVITE e il prototipo di recupero della struvite",
+  "subtitle": "",
+  "description": "A presentation of the GOi Struvite project highlighting the development and testing of a prototype system to recover struvite fertilizer from livestock effluents. The project aims to reduce ammonia and greenhouse gas emissions while producing a nutrient-rich, stable fertilizer under the Emilia-Romagna Rural Development Program.",
+  "locations": [
+    "Emilia-Romagna",
+    "Italy"
+  ],
+  "topic": "livestock",
+  "theme": "Struvite recovery prototype",
+  "keywords": [
+    "struvite",
+    "nutrient recovery",
+    "livestock effluent",
+    "greenhouse gas reduction",
+    "ammonia emissions",
+    "prototype system",
+    "fertilizer recovery",
+    "wastewater treatment"
+  ],
+  "size": {
+    "pages": 15,
+    "bytes": 1708766
+  },
+  "valid_structure": true
+}

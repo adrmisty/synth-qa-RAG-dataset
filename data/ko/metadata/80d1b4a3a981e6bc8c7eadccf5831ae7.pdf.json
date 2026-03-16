@@ -1,0 +1,28 @@
+{
+  "title": "Cabbage root fly model (Warwick HRI)",
+  "subtitle": "",
+  "description": "A factsheet describing a simulation model for predicting cabbage root fly development and flight risk using a decision support system on the IPM Decisions platform. The document outlines the model’s structure, parameters, data requirements, and output interpretation to inform brassica crop protection.",
+  "locations": [
+    "England",
+    "UK"
+  ],
+  "topic": "crop farming",
+  "theme": "Cabbage root fly model",
+  "keywords": [
+    "cabbage root fly",
+    "Delia radicum",
+    "simulation model",
+    "decision support system",
+    "degree days",
+    "biotype",
+    "soil temperature",
+    "air temperature",
+    "pupal diapause",
+    "risk forecast"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 655515
+  },
+  "valid_structure": true
+}

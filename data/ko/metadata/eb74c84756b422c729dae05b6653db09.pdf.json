@@ -1,0 +1,28 @@
+{
+  "title": "Alternaria in potato",
+  "subtitle": "",
+  "description": "A factsheet presenting a weather-based decision support system (DSS) on the IPM Decisions platform for managing early blight (Alternaria solani) in potato. It describes how temperature and leaf wetness inputs generate daily disease severity values (DSV), parameter customization, and fungicide application thresholds.",
+  "locations": [
+    "Denmark",
+    "Norway"
+  ],
+  "topic": "crop farming",
+  "theme": "Early blight DSS",
+  "keywords": [
+    "Alternaria",
+    "early blight",
+    "potato",
+    "decision support system",
+    "DSS",
+    "disease severity value",
+    "leaf wetness",
+    "temperature",
+    "fungicide application",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 503376
+  },
+  "valid_structure": true
+}

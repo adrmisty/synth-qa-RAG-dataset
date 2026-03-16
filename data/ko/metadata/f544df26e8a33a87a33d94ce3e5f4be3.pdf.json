@@ -1,0 +1,28 @@
+{
+  "title": "SIAR. Modelo de DATS: Sistema de Información Agroclimática para el Regadío",
+  "subtitle": "",
+  "description": "The document presents SiAR, an Agroclimatic Information System for irrigation developed by the Spanish Ministry of Agriculture. It details the network of meteorological stations, data processing tools, and interfaces including a web portal, mobile app, and API to improve water efficiency in irrigated agriculture.",
+  "locations": [
+    "Spain",
+    "Madrid"
+  ],
+  "topic": "crop farming",
+  "theme": "Agroclimatic irrigation system",
+  "keywords": [
+    "irrigation",
+    "agroclimatic data",
+    "meteorological stations",
+    "evapotranspiration",
+    "water efficiency",
+    "web application",
+    "mobile app",
+    "API",
+    "water management",
+    "sustainable agriculture"
+  ],
+  "size": {
+    "pages": 34,
+    "bytes": 3915530
+  },
+  "valid_structure": true
+}

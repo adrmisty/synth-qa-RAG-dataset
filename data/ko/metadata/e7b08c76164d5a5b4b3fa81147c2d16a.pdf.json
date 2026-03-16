@@ -1,0 +1,24 @@
+{
+  "title": "Surveillance de l'environnement dans les cultures sous serre à l'aide de capteurs sans fil",
+  "subtitle": "",
+  "description": "A guide describing the implementation of wireless sensor networks to monitor environmental conditions in greenhouse crop production. The report presents a SmartProtect case study in a commercial tomato greenhouse, detailing sensor deployment, data visualization, and the benefits and challenges of fine-scale microclimate monitoring for integrated pest management.",
+  "locations": [
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "Wireless sensor greenhouse monitoring",
+  "keywords": [
+    "wireless sensors",
+    "greenhouse monitoring",
+    "microclimate data",
+    "integrated pest management",
+    "IoT",
+    "data visualization",
+    "tomato cultivation"
+  ],
+  "size": {
+    "pages": 7,
+    "bytes": 950392
+  },
+  "valid_structure": true
+}

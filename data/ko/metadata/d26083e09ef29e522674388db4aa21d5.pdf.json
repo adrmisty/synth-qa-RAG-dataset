@@ -1,0 +1,25 @@
+{
+  "title": "Detection of virus in plant disease identification",
+  "subtitle": "Détection de virus dans l'identification des maladies des plantes",
+  "description": "A guide for accurate diagnosis of viral diseases in vegetable crops using the Buntata App, an Android tool that provides a visual key and disease comparison for non-specialist users. It supports early detection by displaying exemplar symptom images and offering background information, diagnostics, and control methods.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Viral disease diagnostics",
+  "keywords": [
+    "IPM",
+    "virus detection",
+    "plant disease identification",
+    "diagnosis",
+    "mobile application",
+    "Buntata App",
+    "symptom analysis",
+    "early diagnosis"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 351251
+  },
+  "valid_structure": true
+}

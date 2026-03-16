@@ -1,0 +1,24 @@
+{
+  "title": "The FaunaPhotonics APS – Light sensor",
+  "subtitle": "L'APS de FaunaPhotonics - Capteur de lumière",
+  "description": "A guide for a light‐based sensor system in precision Integrated Pest Management for vegetable crops. It explains how the FaunaPhotonics APS detects insect activity on a spray boom in real time, generates heat maps of insect density, and enables targeted spraying to improve efficiency.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Precision insect detection",
+  "keywords": [
+    "integrated pest management",
+    "FaunaPhotonics APS",
+    "precision agriculture",
+    "light sensors",
+    "spray boom",
+    "insects",
+    "heat maps"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 403091
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Potato Late Blight, Naerstad model",
+  "subtitle": "",
+  "description": "A factsheet presenting the Naerstad decision support system model for predicting infection risk of potato late blight and guiding fungicide treatments. It details input parameters, risk thresholds, and advises on regional testing before deployment.",
+  "locations": [
+    "Norway"
+  ],
+  "topic": "crop farming",
+  "theme": "Late blight decision support",
+  "keywords": [
+    "potato",
+    "late blight",
+    "Phytophthora infestans",
+    "decision support",
+    "DSS",
+    "infection risk",
+    "fungicide",
+    "Naerstad model",
+    "IPM Decisions"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 1124948
+  },
+  "valid_structure": true
+}

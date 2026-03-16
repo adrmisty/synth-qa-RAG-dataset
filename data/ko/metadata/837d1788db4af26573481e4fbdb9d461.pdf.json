@@ -1,0 +1,29 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "A guide to the SUPER-G Atlas introducing a typology of 18 European permanent grassland types based on their management, distribution, and vegetation characteristics. It outlines the structure of each grassland portrait, the mapping approach, and the expert-elicited assessment of ecosystem service delivery.",
+  "locations": [
+    "Northern Ireland",
+    "France",
+    "Switzerland"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grassland",
+    "ecosystem services",
+    "grassland management",
+    "botanical composition",
+    "grazing",
+    "expert elicitation",
+    "EU Horizon",
+    "distribution mapping",
+    "threats",
+    "typology"
+  ],
+  "size": {
+    "pages": 27,
+    "bytes": 10472562
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Fact Sheet Collection",
+  "subtitle": "Research findings from 30 Reference Regions in Europe and Africa",
+  "description": "A collection of fact sheets presenting research on how small farms and small food businesses contribute to sustainable food and nutrition security across 30 regions in Europe and Africa. The sheets include regional indicators, farm typologies, food availability analyses, future perspectives and governance arrangements.",
+  "locations": [
+    "Bulgaria",
+    "Cape Verde",
+    "Croatia",
+    "Czech Republic",
+    "France",
+    "Ghana",
+    "Greece",
+    "Italy",
+    "Kenya",
+    "Latvia",
+    "Lithuania",
+    "Malawi",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Spain",
+    "Tunisia",
+    "United Kingdom"
+  ],
+  "topic": "crop farming",
+  "theme": "small farms food security",
+  "keywords": [
+    "small farms",
+    "food and nutrition security",
+    "reference regions",
+    "EU Horizon 2020",
+    "Sentinel-2",
+    "food systems mapping",
+    "small food businesses",
+    "regional indicators",
+    "governance arrangements",
+    "typology"
+  ],
+  "size": {
+    "pages": 76,
+    "bytes": 15277310
+  },
+  "valid_structure": true
+}

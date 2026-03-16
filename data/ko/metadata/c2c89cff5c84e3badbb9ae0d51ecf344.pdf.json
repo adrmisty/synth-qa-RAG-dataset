@@ -1,0 +1,29 @@
+{
+  "title": "Gas Loop - Un ciclo virtuoso dell'azoto nell'allevamento suino",
+  "subtitle": "",
+  "description": "Gas Loop is a project implementing an ammonia capture and recovery system in pig farms that converts barn air emissions into ammonium sulfate fertilizer. It aims to enhance environmental sustainability, improve animal welfare, and reduce greenhouse gas emissions by closing the nitrogen loop in swine production.",
+  "locations": [
+    "Italy",
+    "Emilia-Romagna",
+    "Modena"
+  ],
+  "topic": "livestock",
+  "theme": "Ammonia capture and reuse",
+  "keywords": [
+    "ammonia",
+    "ammonium sulfate",
+    "pig farming",
+    "air treatment",
+    "environmental sustainability",
+    "greenhouse gas reduction",
+    "nitrogen recycling",
+    "animal welfare",
+    "life cycle assessment",
+    "best available techniques"
+  ],
+  "size": {
+    "pages": 13,
+    "bytes": 1886567
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Pest monitoring: visual lures",
+  "subtitle": "Spremljanje škodljivcev: vizualna privabila",
+  "description": "A practice abstract from the SmartProtect network outlining the use of colour and light-based visual lures to monitor pest insect populations in open field and greenhouse vegetable crops. It explains how hue, intensity, contrast, and light wavelength influence insect attraction and evaluates the selectivity and effectiveness of different trap types.",
+  "locations": [
+    "Europe",
+    "Slovenia"
+  ],
+  "topic": "crop farming",
+  "theme": "Visual lure monitoring",
+  "keywords": [
+    "pest monitoring",
+    "visual lures",
+    "IPM",
+    "colour attractants",
+    "light traps",
+    "insect traps",
+    "hemiptera",
+    "diptera",
+    "vegetable production"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 391556
+  },
+  "valid_structure": true
+}

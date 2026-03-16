@@ -1,0 +1,26 @@
+{
+  "title": "Decision support system for specifying tender requirements for sustainable public food procurement",
+  "subtitle": "",
+  "description": "A web-based decision support system to guide public institutions in preparing tender requirements for sustainable food procurement. It outlines a three-step approach—preparation, documentation, and multi-criteria evaluation—to promote involvement of small-scale producers and integrate sustainability criteria.",
+  "locations": [
+    "Slovenia",
+    "European Union"
+  ],
+  "topic": "economics",
+  "theme": "Sustainable food procurement",
+  "keywords": [
+    "public procurement",
+    "sustainable food",
+    "decision support system",
+    "small-scale producers",
+    "tender requirements",
+    "multi-criteria evaluation",
+    "green procurement",
+    "Horizon 2020"
+  ],
+  "size": {
+    "pages": 47,
+    "bytes": 4321925
+  },
+  "valid_structure": true
+}

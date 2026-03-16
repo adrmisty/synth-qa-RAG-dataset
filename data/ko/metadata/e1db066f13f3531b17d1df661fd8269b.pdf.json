@@ -1,0 +1,27 @@
+{
+  "title": "CONTROLLER L'EFFICACITE DU NETTOYAGE ET DE LA DESINFECTION DANS LES POULAILLERS",
+  "subtitle": "Test de l'efficacité du N&D en déterminant la charge bactérienne restante sur les surfaces nettoyées",
+  "description": "A guide to monitoring the effectiveness of cleaning and disinfection procedures in poultry houses through hygienograms and bacterial load measurements. It outlines a seven-step protocol, regulated sampling frequencies per production cycle, and decision criteria based on CFU scores to maintain biosecurity.",
+  "locations": [
+    "Belgium"
+  ],
+  "topic": "livestock",
+  "theme": "Cleaning and disinfection efficacy",
+  "keywords": [
+    "cleaning",
+    "disinfection",
+    "poultry houses",
+    "hygienogram",
+    "bacterial load",
+    "sampling frequency",
+    "CFU scoring",
+    "biosecurity",
+    "Salmonella",
+    "Campylobacter"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 1206558
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,28 @@
+{
+  "title": "SILVOPASTURE",
+  "subtitle": "A land use management systems for grasslands",
+  "description": "A guide summarizing the extent and benefits of silvopasture practices across Europe and their role in sustainable grassland management. It highlights how integrating woody perennials into grazing systems can improve resilience, biodiversity, and reduce livestock production costs.",
+  "locations": [
+    "Europe",
+    "Southern Europe",
+    "Northern Europe",
+    "Mediterranean areas"
+  ],
+  "topic": "livestock",
+  "theme": "Agroforestry grassland management",
+  "keywords": [
+    "silvopasture",
+    "agroforestry",
+    "grassland management",
+    "livestock productivity",
+    "biodiversity",
+    "sustainability",
+    "ecosystem services",
+    "resilience"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 798077
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Environmental monitoring within greenhouse crops using wireless sensors",
+  "subtitle": "",
+  "description": "A technical guide for implementing wireless sensor networks to monitor environmental conditions in greenhouse crops. It details sensor deployment methods, data visualization via cloud-based dashboards, a case study in a commercial UK tomato greenhouse, and discusses challenges and future visions for integrated crop protection systems.",
+  "locations": [
+    "UK Midlands",
+    "Netherlands"
+  ],
+  "topic": "crop farming",
+  "theme": "Wireless greenhouse monitoring",
+  "keywords": [
+    "wireless sensors",
+    "greenhouse monitoring",
+    "IoT",
+    "microclimate",
+    "crop protection",
+    "Integrated Pest and Disease Management",
+    "data visualization",
+    "biocontrol"
+  ],
+  "size": {
+    "pages": 7,
+    "bytes": 986336
+  },
+  "valid_structure": true
+}

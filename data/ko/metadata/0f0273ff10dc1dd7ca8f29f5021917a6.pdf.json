@@ -1,0 +1,27 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "A typology-based atlas of European permanent grasslands that categorises 18 grassland types by their management, vegetation, distribution, and threats. It provides portraits with maps and case studies to evaluate their ecosystem service delivery and inform sustainable grassland management.",
+  "locations": [
+    "Europe",
+    "Kiskunság",
+    "Hungary"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grasslands",
+    "grassland management",
+    "ecosystem services",
+    "typology",
+    "case studies",
+    "biodiversity",
+    "mapping",
+    "expert elicitation"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 10388030
+  },
+  "valid_structure": true
+}

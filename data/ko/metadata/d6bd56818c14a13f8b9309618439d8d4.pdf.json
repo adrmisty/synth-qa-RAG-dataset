@@ -1,0 +1,27 @@
+{
+  "title": "BIOVEILIGHEIDSAUDIT MET DE PULSE TOOL",
+  "subtitle": "",
+  "description": "A technical guide for conducting biosecurity audits on poultry farms using the PULSE tool. It outlines self-evaluation and advisor-led assessments of compliance with French biosecurity regulations across key areas, provides scoring feedback, and supports follow-up monitoring of improvements.",
+  "locations": [
+    "France"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity audit",
+  "keywords": [
+    "biosecurity",
+    "audit",
+    "poultry farming",
+    "spreadsheet tool",
+    "PULSE",
+    "self-evaluation",
+    "compliance monitoring",
+    "follow-up",
+    "hygiene",
+    "manure management"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 630773
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Kelluu – an airship that collects extensive accurate information about forests and the environment",
+  "subtitle": "",
+  "description": "An AI-controlled airship solution enables precise and continuous remote mapping and data analysis of forests, terrain, and environmental infrastructure. The hydrogen-powered platform supports 8–12-hour flights, multispectral photogrammetry, and onboard real-time processing for large-scale forest surveys and condition monitoring.",
+  "locations": [
+    "Finland"
+  ],
+  "topic": "forestry",
+  "theme": "Forest remote sensing",
+  "keywords": [
+    "airship",
+    "artificial intelligence",
+    "remote sensing",
+    "multispectral imaging",
+    "photogrammetry",
+    "forest monitoring",
+    "real-time data analysis"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 747815
+  },
+  "valid_structure": true
+}

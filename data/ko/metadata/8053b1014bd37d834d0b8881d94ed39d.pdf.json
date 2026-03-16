@@ -1,0 +1,29 @@
+{
+  "title": "CPO model for yellow rust in wheat",
+  "subtitle": "",
+  "description": "A factsheet presenting the CPO decision support model for managing yellow rust in wheat. It explains how to assess disease risk based on crop monitoring parameters and provides guidelines for fungicide treatment recommendations.",
+  "locations": [
+    "Denmark",
+    "Nordic countries",
+    "Baltic countries",
+    "Northern Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Yellow rust management",
+  "keywords": [
+    "yellow rust",
+    "Puccinia striiformis",
+    "wheat disease",
+    "decision support system",
+    "CPO model",
+    "crop monitoring",
+    "incidence threshold",
+    "DSS parameters",
+    "disease risk assessment"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 714329
+  },
+  "valid_structure": true
+}

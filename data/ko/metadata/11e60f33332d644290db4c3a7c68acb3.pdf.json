@@ -1,0 +1,25 @@
+{
+  "title": "Brassica Fact Sheet",
+  "subtitle": "",
+  "description": "A technical fact sheet compiling smart Integrated Pest Management (IPM) technologies for brassica crops. It presents monitoring systems, diagnostic tools, decision support solutions, and application methods to guide farmers and agronomists in implementing effective pest and disease management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Integrated pest management",
+  "keywords": [
+    "brassica",
+    "integrated pest management",
+    "pest monitoring",
+    "diagnostics",
+    "decision support",
+    "application methods",
+    "crop protection",
+    "IPM technologies"
+  ],
+  "size": {
+    "pages": 31,
+    "bytes": 1574056
+  },
+  "valid_structure": true
+}

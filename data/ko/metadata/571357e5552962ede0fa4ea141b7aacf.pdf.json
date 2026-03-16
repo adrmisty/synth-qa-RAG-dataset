@@ -1,0 +1,25 @@
+{
+  "title": "Pest monitoring: chemical lures",
+  "subtitle": "Spremljanje škodljivcev: kemična privabila",
+  "description": "A guide describing the use of chemical lures, such as pheromone-baited traps, for active monitoring of insect pests in vegetable production. It outlines the role of semiochemicals in pest behaviour, various lure designs, and controlled release mechanisms to achieve sensitive and specific pest detection.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Chemical lure traps",
+  "keywords": [
+    "IPM",
+    "pest monitoring",
+    "chemical lures",
+    "semiochemicals",
+    "pheromones",
+    "pheromone traps",
+    "trap design",
+    "controlled release"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 393864
+  },
+  "valid_structure": true
+}

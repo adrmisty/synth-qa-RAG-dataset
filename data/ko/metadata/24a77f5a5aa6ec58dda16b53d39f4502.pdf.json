@@ -1,0 +1,27 @@
+{
+  "title": "UV systems – things to consider",
+  "subtitle": "UV-techniek – zaken om in beschouwing te nemen",
+  "description": "A guide for researchers on designing and implementing UV systems for integrated pest management in vegetable production. It discusses lamp selection, safety and environmental risks, LED alternatives, and mounting and suspension options for different crop setups.",
+  "locations": [
+    "Belgium",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "UV system design",
+  "keywords": [
+    "integrated pest management",
+    "UV systems",
+    "lamp selection",
+    "mercury lamp safety",
+    "UV-C LEDs",
+    "suspension systems",
+    "fixture fittings",
+    "greenhouse mounting",
+    "environmental safety"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 410206
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,25 @@
+{
+  "title": "HELYSZÍNI ÁLLATORVOSI SEGÍTSÉG",
+  "subtitle": "",
+  "description": "A guide outlining the role of on-site veterinarians in advising poultry farmers on biosecurity and disease prevention through regulatory inspections, pathogen entry control, and routine farm checks. It highlights corrective measures for Mycoplasma and Salmonella entry, documentation support, and continuous surveillance to maintain effective biosecurity protocols.",
+  "locations": [
+    "Spain"
+  ],
+  "topic": "livestock",
+  "theme": "On-site veterinary support",
+  "keywords": [
+    "on-site veterinarian",
+    "biosecurity",
+    "poultry farming",
+    "disease prevention",
+    "authority inspections",
+    "pathogen control",
+    "routine checks",
+    "documentation support"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 260308
+  },
+  "valid_structure": true
+}

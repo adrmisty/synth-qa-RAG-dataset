@@ -1,0 +1,28 @@
+{
+  "title": "Betrieblicher Online-Risiko-Check für Eintragsrisiken Aviärer Influenza",
+  "subtitle": "",
+  "description": "An online tool for farm-level risk assessment of high pathogenicity avian influenza introduction. It systematically evaluates biosafety measures through a questionnaire and provides color-coded risk results, optimization recommendations, and action lists.",
+  "locations": [
+    "Germany",
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Avian influenza risk assessment",
+  "keywords": [
+    "Avian influenza",
+    "HPAI",
+    "biosafety",
+    "risk assessment",
+    "poultry farming",
+    "online tool",
+    "disease prevention",
+    "biosecurity measures",
+    "farm-level evaluation",
+    "risk factors"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 594367
+  },
+  "valid_structure": true
+}

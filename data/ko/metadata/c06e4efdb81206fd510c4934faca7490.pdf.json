@@ -1,0 +1,33 @@
+{
+  "title": "Zarys polityki",
+  "subtitle": "Europa Wschodnia",
+  "description": "A policy outline for small farms in Eastern Europe under the SALSA project, presenting research-based recommendations for national and regional authorities on infrastructure, market access, advisory services, and climate adaptation. It identifies small farm typologies, their contribution to regional food security, and proposes targeted regulatory, financial, and innovation interventions for the post-2020 Common Agricultural Policy.",
+  "locations": [
+    "Bulgaria",
+    "Croatia",
+    "Czech Republic",
+    "Latvia",
+    "Lithuania",
+    "Poland",
+    "Romania"
+  ],
+  "topic": "economics",
+  "theme": "Small farm policy",
+  "keywords": [
+    "small farms",
+    "food security",
+    "rural policy",
+    "infrastructure",
+    "market access",
+    "advisory services",
+    "agroecology",
+    "Common Agricultural Policy",
+    "short food supply chains",
+    "farm typologies"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 2423343
+  },
+  "valid_structure": true
+}

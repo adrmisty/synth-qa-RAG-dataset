@@ -1,0 +1,29 @@
+{
+  "title": "D3.2.2: Guidelines for predictive differential irrigation scheduling and water application",
+  "subtitle": "WP3.2 – Upscaling VRT for nutrient and water efficiency and yield optimization",
+  "description": "A guide for predictive differential irrigation scheduling and water application that integrates remote sensing, soil sensor networks, and weather forecasting into a webGIS platform to optimize water use efficiency. It describes methods to estimate and forecast crop water requirements using multispectral imagery-based crop coefficients, reference evapotranspiration, and soil water balance for near-real-time monitoring and weekly irrigation planning.",
+  "locations": [
+    "Spain",
+    "Iberian Peninsula",
+    "La Mancha"
+  ],
+  "topic": "crop farming",
+  "theme": "Precision irrigation scheduling",
+  "keywords": [
+    "crop water management",
+    "remote sensing",
+    "weather forecasting",
+    "webGIS",
+    "predictive irrigation scheduling",
+    "differential irrigation",
+    "soil water balance",
+    "crop coefficient",
+    "evapotranspiration",
+    "variable rate technology"
+  ],
+  "size": {
+    "pages": 16,
+    "bytes": 2628531
+  },
+  "valid_structure": true
+}

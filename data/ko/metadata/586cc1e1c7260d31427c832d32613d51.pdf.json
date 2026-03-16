@@ -1,0 +1,26 @@
+{
+  "title": "SMAPPLAB Smart Trap Solutions",
+  "subtitle": "SMAPPLAB Solutions de pièges intelligents",
+  "description": "A guide describing SMAPPLAB, a smart trap decision support system designed for precise integrated pest management in vegetable and maize production. It enables automatic capture counting, pest species identification, and collection of local meteorological data to provide farmers with real-time online monitoring and defense timing recommendations for more sustainable crop protection.",
+  "locations": [
+    "Europe",
+    "France"
+  ],
+  "topic": "crop farming",
+  "theme": "Smart pest traps",
+  "keywords": [
+    "integrated pest management",
+    "decision support system",
+    "smart traps",
+    "pest monitoring",
+    "sensor technology",
+    "real-time forecasting",
+    "crop protection",
+    "sustainable agriculture"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 305882
+  },
+  "valid_structure": true
+}

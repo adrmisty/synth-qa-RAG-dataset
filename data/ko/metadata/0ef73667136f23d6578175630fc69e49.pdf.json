@@ -1,0 +1,28 @@
+{
+  "title": "Agricultural cooperative biogas plant",
+  "subtitle": "",
+  "description": "A practice abstract describing a cooperative biogas plant in Theuma, Germany, that converts locally sourced agricultural residues into electricity and heat through combined-heat-and-power units. It outlines the plant’s operational workflow, advantages and disadvantages, and a timeline for its implementation to support regional energy decarbonization.",
+  "locations": [
+    "Germany",
+    "Theuma"
+  ],
+  "topic": "environment",
+  "theme": "Cooperative biogas plant",
+  "keywords": [
+    "organic residues",
+    "biogas",
+    "combined heat and power",
+    "circular supply chain",
+    "renewable energy",
+    "agricultural fertilizer",
+    "decarbonization",
+    "methane fermentation",
+    "satellite CHP units",
+    "small municipalities"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 715156
+  },
+  "valid_structure": true
+}

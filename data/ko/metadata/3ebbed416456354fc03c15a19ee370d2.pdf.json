@@ -1,0 +1,27 @@
+{
+  "title": "Climate-smart food production",
+  "subtitle": "",
+  "description": "The Qvidja organic farm in Finland serves as a pilot for climate-smart food production by integrating nutrient recycling, biogas and wood gasification, and soil management to mitigate climate change and protect the Baltic Sea. The farm demonstrates advanced biomethane upgrading and biological methanation processes alongside diversified grassland and crop rotations to enhance biodiversity and carbon sequestration.",
+  "locations": [
+    "Finland"
+  ],
+  "topic": "environment",
+  "theme": "Climate-smart farming",
+  "keywords": [
+    "biomethane",
+    "carbon sequestration",
+    "nutrient recycling",
+    "biogas",
+    "wood gasification",
+    "organic farming",
+    "biodiversity",
+    "climate change mitigation",
+    "soil management",
+    "crop rotation"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 729504
+  },
+  "valid_structure": true
+}

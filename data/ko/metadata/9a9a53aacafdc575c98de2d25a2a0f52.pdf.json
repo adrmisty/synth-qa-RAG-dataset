@@ -1,0 +1,29 @@
+{
+  "title": "CAP’2ER, un outil de l’empreinte carbone, pour accompagner les démarches de progrès",
+  "subtitle": "",
+  "description": "A guide to evaluating and reducing the carbon footprint of agricultural operations using life cycle assessment methodology. It supports multiple livestock and crop systems by collecting detailed data, simulating technical and environmental impacts, and co-constructing action plans for continuous improvement.",
+  "locations": [
+    "France",
+    "Switzerland",
+    "Romania"
+  ],
+  "topic": "environment",
+  "theme": "Carbon footprint assessment",
+  "keywords": [
+    "carbon footprint",
+    "life cycle assessment",
+    "environmental impact",
+    "livestock farming",
+    "crop systems",
+    "data collection",
+    "action planning",
+    "farm sustainability",
+    "progress monitoring",
+    "environmental indicators"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 377702
+  },
+  "valid_structure": true
+}

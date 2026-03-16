@@ -1,0 +1,45 @@
+{
+  "title": "Project Summary Booklet",
+  "subtitle": "2016-2020",
+  "description": "A summary of the EU-funded SALSA project which assesses the role of small farms and small food businesses in sustainable food and nutrition security across 30 reference regions in Europe and Africa. It presents the project’s objectives, methodology, results and policy recommendations to guide decision makers in enhancing the contribution of small farms to regional food security.",
+  "locations": [
+    "Bulgaria",
+    "Croatia",
+    "Czech Republic",
+    "France",
+    "Greece",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Spain",
+    "United Kingdom",
+    "Cape Verde",
+    "Ghana",
+    "Kenya",
+    "Malawi",
+    "Tunisia"
+  ],
+  "topic": "crop farming",
+  "theme": "Small farms food security",
+  "keywords": [
+    "small farms",
+    "small food businesses",
+    "food and nutrition security",
+    "sustainable agriculture",
+    "regional food systems",
+    "food system governance",
+    "policy recommendations",
+    "transdisciplinary methodology",
+    "satellite remote sensing",
+    "EU Horizon 2020"
+  ],
+  "size": {
+    "pages": 28,
+    "bytes": 8563003
+  },
+  "valid_structure": true
+}

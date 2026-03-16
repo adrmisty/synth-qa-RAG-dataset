@@ -1,0 +1,37 @@
+{
+  "title": "Sinteză de politici - Europa de Est",
+  "subtitle": "",
+  "description": "A policy brief outlining the needs, contributions, and policy recommendations for supporting small farms across 11 regions in Eastern Europe under the EU SALSA project. It analyzes small farm typologies, their role in regional food security, and priority interventions in infrastructure, market access, innovation systems, and environmental sustainability.",
+  "locations": [
+    "Montana (Bulgaria)",
+    "Varaždinska (Croatia)",
+    "Jihocecký kraj (Czech Republic)",
+    "Latgale (Latvia)",
+    "Pierīga (Latvia)",
+    "Vilniaus apskritis (Lithuania)",
+    "Rzeszowski (Poland)",
+    "Nowosadecki (Poland)",
+    "Nowotarski (Poland)",
+    "Bistrița-Năsăud (Romania)",
+    "Giurgiu (Romania)"
+  ],
+  "topic": "crop farming",
+  "theme": "Small farms policy",
+  "keywords": [
+    "small farms",
+    "Eastern Europe",
+    "food security",
+    "policy recommendations",
+    "rural infrastructure",
+    "market access",
+    "agricultural innovation",
+    "environmental sustainability",
+    "common agricultural policy",
+    "farm typologies"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 2428435
+  },
+  "valid_structure": true
+}

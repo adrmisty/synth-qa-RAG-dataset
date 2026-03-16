@@ -1,0 +1,28 @@
+{
+  "title": "The Mushrooms of Borgotaro IGP",
+  "subtitle": "",
+  "description": "A case study detailing the development of an online platform and smartphone application to commercialize permits for recreational mushroom picking in the Tuscan-Emilian Apennines. It aims to enhance user experience, expand the user base to younger pickers, and optimize spatial allocation and revenue management for forest ecosystem services.",
+  "locations": [
+    "Italy",
+    "Tuscan-Emilian Apennines",
+    "Borgo Val di Taro"
+  ],
+  "topic": "forestry",
+  "theme": "Mushroom picking permits platform",
+  "keywords": [
+    "online platform",
+    "smartphone application",
+    "recreational mushroom picking",
+    "forest ecosystem services",
+    "permit commercialization",
+    "transaction costs",
+    "spatial allocation",
+    "user experience",
+    "upscaling potential"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 326058
+  },
+  "valid_structure": true
+}

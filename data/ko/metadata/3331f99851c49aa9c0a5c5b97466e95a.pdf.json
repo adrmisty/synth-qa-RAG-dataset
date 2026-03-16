@@ -1,0 +1,25 @@
+{
+  "title": "Story Map Building and Visualising Tool for Science and Society",
+  "subtitle": "",
+  "description": "The Story Map Building and Visualising Tool (SMBVT) is an open-source online platform developed by the National Research Council of Italy for collaborative creation of narrative maps in the Horizon 2020 MOVING project. It integrates a semantic knowledge base with the D4Science e-Infrastructure to enable secure multi-user access and enriched multimedia storytelling of territorial value chains.",
+  "locations": [
+    "Italy"
+  ],
+  "topic": "society",
+  "theme": "Collaborative narrative mapping",
+  "keywords": [
+    "story maps",
+    "visualisation",
+    "collaboration",
+    "open source",
+    "semantic knowledge base",
+    "virtual research environment",
+    "multimedia storytelling",
+    "value chains"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 365440
+  },
+  "valid_structure": true
+}

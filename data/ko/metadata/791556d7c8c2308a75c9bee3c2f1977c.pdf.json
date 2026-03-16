@@ -1,0 +1,31 @@
+{
+  "title": "AZ ÉDESBURGONYA NÖVÉNYVÉDELME",
+  "subtitle": "",
+  "description": "A guide for the plant protection of sweet potato, covering identification and management of key pests, diseases, and abiotic issues. It provides site- and cultivar-specific recommendations, including integrated pest management, soil disinfestation, and weed control strategies.",
+  "locations": [
+    "Hungary",
+    "North America",
+    "Central America",
+    "India",
+    "Japan"
+  ],
+  "topic": "crop farming",
+  "theme": "Sweet potato plant protection",
+  "keywords": [
+    "sweet potato",
+    "plant protection",
+    "pest management",
+    "disease control",
+    "abiotic stresses",
+    "weed control",
+    "soil disinfection",
+    "nematodes",
+    "fungal pathogens",
+    "insect pests"
+  ],
+  "size": {
+    "pages": 28,
+    "bytes": 2544472
+  },
+  "valid_structure": true
+}

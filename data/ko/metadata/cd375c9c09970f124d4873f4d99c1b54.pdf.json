@@ -1,0 +1,33 @@
+{
+  "title": "Analysis of existing databases",
+  "subtitle": "",
+  "description": "A report summarizing and characterizing existing poultry biosecurity databases across the seven NetPoulSafe partner countries. It describes the methods for identifying, accessing, and analyzing these data sources to inform improvements in biosecurity compliance practices.",
+  "locations": [
+    "Belgium",
+    "France",
+    "Hungary",
+    "Italy",
+    "Veneto",
+    "Poland",
+    "Spain",
+    "The Netherlands"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity databases",
+  "keywords": [
+    "biosecurity",
+    "poultry production",
+    "databases",
+    "compliance",
+    "data analysis",
+    "methodology",
+    "Horizon 2020",
+    "NetPoulSafe",
+    "farm surveys"
+  ],
+  "size": {
+    "pages": 52,
+    "bytes": 3726551
+  },
+  "valid_structure": true
+}

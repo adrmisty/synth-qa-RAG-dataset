@@ -1,0 +1,27 @@
+{
+  "title": "Virtual fencing for grazing livestock",
+  "subtitle": "",
+  "description": "A guide on virtual fencing technology that enables livestock containment using invisible GPS boundaries instead of physical fences. It outlines the benefits, operational mechanisms, animal welfare considerations, and adoption guidelines for effective grazing management.",
+  "locations": [
+    "Europe",
+    "United Kingdom",
+    "Norway"
+  ],
+  "topic": "livestock",
+  "theme": "Virtual fencing technology",
+  "keywords": [
+    "virtual fencing",
+    "GPS collar",
+    "livestock grazing",
+    "rotational grazing",
+    "precision livestock farming",
+    "animal welfare",
+    "pasture management",
+    "mobile app"
+  ],
+  "size": {
+    "pages": 5,
+    "bytes": 1298289
+  },
+  "valid_structure": true
+}

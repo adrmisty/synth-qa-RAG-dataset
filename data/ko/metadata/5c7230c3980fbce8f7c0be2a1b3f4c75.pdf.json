@@ -1,0 +1,35 @@
+{
+  "title": "Shared Innovation Space for Sustainable Productivity of Grasslands in Europe",
+  "subtitle": "",
+  "description": "A deliverable describing updated versions of Encyclopedia Pratensis, a comprehensive information management system on grasslands and forage crops integrating scientific literature and farmer practices. It outlines the available decision support tools, brokering systems, databases, multimedia resources, and cataloged innovations developed under the Inno4Grass project for sustainable grassland productivity across Europe.",
+  "locations": [
+    "Europe",
+    "Belgium",
+    "France",
+    "Germany",
+    "Ireland",
+    "Italy",
+    "Poland",
+    "Sweden",
+    "The Netherlands"
+  ],
+  "topic": "environment",
+  "theme": "Grassland information system",
+  "keywords": [
+    "grasslands",
+    "forage crops",
+    "decision support",
+    "innovation brokering",
+    "farmer portraits",
+    "case studies",
+    "practice abstracts",
+    "Encyclopedia Pratensis",
+    "information management",
+    "multimedia resources"
+  ],
+  "size": {
+    "pages": 20,
+    "bytes": 3769223
+  },
+  "valid_structure": true
+}

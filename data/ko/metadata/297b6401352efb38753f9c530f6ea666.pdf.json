@@ -1,0 +1,26 @@
+{
+  "title": "Eggsplorer: a rapid plant-insect resistance determination tool using an automated whitefly egg quantification algorithm",
+  "subtitle": "",
+  "description": "A tool for automated counting of whitefly eggs on plant leaves using a deep learning algorithm. It enables rapid determination of plant insect resistance through a web-based application with potential mobile integration for real-time pest infestation advice.",
+  "locations": [
+    "Netherlands"
+  ],
+  "topic": "crop farming",
+  "theme": "Whitefly egg quantification",
+  "keywords": [
+    "whitefly eggs",
+    "deep learning",
+    "automated counting",
+    "plant insect resistance",
+    "rapid phenotyping",
+    "web application",
+    "crop protection",
+    "plant breeding",
+    "pest infestation"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 367908
+  },
+  "valid_structure": true
+}

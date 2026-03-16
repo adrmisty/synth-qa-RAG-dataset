@@ -1,0 +1,26 @@
+{
+  "title": "Disorder detection technologies for vegetables",
+  "subtitle": "Digitālie risinājumi dārzeņu bojājumu noteikšanai",
+  "description": "A guide to digital technologies for detecting disorders in vegetable crops using AI-based image recognition and meteorological data integration. It explains how these platforms generate forecasts and recommendations for pest control, fertilization, and irrigation to improve product quality and resource efficiency.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Vegetable disorder detection",
+  "keywords": [
+    "integrated pest management",
+    "disorder detection",
+    "plant nutrition",
+    "data processing platforms",
+    "artificial intelligence",
+    "machine learning",
+    "crop monitoring",
+    "precision agriculture",
+    "vegetable production"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 387184
+  },
+  "valid_structure": true
+}

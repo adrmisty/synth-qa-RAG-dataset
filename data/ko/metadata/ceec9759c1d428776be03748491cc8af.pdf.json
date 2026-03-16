@@ -1,0 +1,34 @@
+{
+  "title": "OPTIMA DSS for Alternaria detection in carrots",
+  "subtitle": "OPTIMA DSS για ανίχνευση Αλτερνάριας σε καρότα",
+  "description": "A freely accessible decision support system (DSS) providing 5-day risk predictions of Alternaria leaf blight in carrots based on meteorological data. It helps producers optimize spraying schedules, reduce pesticide use, and mitigate crop losses by offering risk maps in multiple European regions.",
+  "locations": [
+    "Spain",
+    "Aragon",
+    "France",
+    "Bordeaux",
+    "Italy",
+    "Piemonte",
+    "Greece",
+    "Thessaly",
+    "Evia",
+    "Attica"
+  ],
+  "topic": "crop farming",
+  "theme": "Alternaria risk prediction",
+  "keywords": [
+    "Decision support system",
+    "Alternaria leaf blight",
+    "carrots",
+    "Integrated Pest Management",
+    "meteorological data",
+    "disease prediction",
+    "pesticide reduction",
+    "interactive risk map"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 475893
+  },
+  "valid_structure": true
+}

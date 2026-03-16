@@ -1,0 +1,26 @@
+{
+  "title": "Atlas of European Permanent Grasslands",
+  "subtitle": "",
+  "description": "A technical atlas providing a management-based typology of European permanent grasslands and describing each type’s distribution, agricultural practices, vegetation and ecosystem service delivery. It includes expert-derived maps and case studies illustrating threats and management in different biogeographic regions.",
+  "locations": [
+    "Germany",
+    "Montenegro"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grassland",
+    "ecosystem services",
+    "grassland management",
+    "grassland typology",
+    "European grasslands",
+    "biodiversity",
+    "expert elicitation",
+    "habitat classification"
+  ],
+  "size": {
+    "pages": 25,
+    "bytes": 12848369
+  },
+  "valid_structure": true
+}

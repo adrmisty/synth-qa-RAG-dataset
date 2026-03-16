@@ -1,0 +1,27 @@
+{
+  "title": "Risk maps",
+  "subtitle": "FACTSHEET",
+  "description": "A factsheet detailing the IPM Decisions platform’s crop pest and disease infection risk maps across Europe on a 7 km grid. It explains how users can explore temporal changes in risk levels and view supplementary model outputs to support informed crop protection decisions.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Plant pest risk maps",
+  "keywords": [
+    "risk maps",
+    "decision support system",
+    "crop protection",
+    "infection risk",
+    "plant pests",
+    "plant diseases",
+    "Septoria tritici",
+    "pollen beetle",
+    "codling moth",
+    "weather modelling"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 409258
+  },
+  "valid_structure": true
+}

@@ -1,0 +1,35 @@
+{
+  "title": "trans4num",
+  "subtitle": "",
+  "description": "A factsheet summarising trans4num, a four-year EU–China collaboration funded under the Zero Pollution call to advance nature-based solutions for nutrient management in agriculture. It presents the project’s objectives, pilot sites across Europe and China, innovative practices, and stakeholder engagement strategies to support the ecological transformation of intensive farming systems.",
+  "locations": [
+    "Northern Jutland",
+    "Szigetköz",
+    "Kollumerwaard",
+    "Ebelsheerd",
+    "Harpenden",
+    "North Wyke",
+    "Northeast – Inner Mongolia",
+    "North China Plain – Henan",
+    "Southwest – Chongqing"
+  ],
+  "topic": "crop farming",
+  "theme": "Nature-based nutrient management",
+  "keywords": [
+    "nature-based solutions",
+    "nutrient management",
+    "sustainable agriculture",
+    "crop rotation",
+    "bio-based fertilisers",
+    "integrated pest management",
+    "trial sites",
+    "EU-China collaboration",
+    "zero pollution",
+    "stakeholder engagement"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 8012135
+  },
+  "valid_structure": true
+}

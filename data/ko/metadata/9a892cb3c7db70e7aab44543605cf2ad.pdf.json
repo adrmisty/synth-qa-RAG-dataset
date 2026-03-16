@@ -1,0 +1,29 @@
+{
+  "title": "GRASS BIOREFINERY",
+  "subtitle": "Background",
+  "description": "A demonstration project for a small-scale grass biorefinery in South West Ireland aimed at diversifying farmer produce and improving sustainability and resource efficiency in the livestock sector. The biorefinery converts freshly harvested grass into multiple co-products—including cattle feed fibre, non-GMO protein concentrate, prebiotic sugars, and bio-fertiliser—while targeting increased protein yield and reduced nitrogen and methane emissions.",
+  "locations": [
+    "South West Ireland",
+    "West Cork Region",
+    "Ireland"
+  ],
+  "topic": "livestock",
+  "theme": "Grass biorefinery demonstration",
+  "keywords": [
+    "grass",
+    "biorefinery",
+    "bioeconomy",
+    "protein concentrate",
+    "cattle feed",
+    "emissions reduction",
+    "anaerobic digestion",
+    "prebiotic sugars",
+    "farm diversification",
+    "resource efficiency"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 830611
+  },
+  "valid_structure": true
+}

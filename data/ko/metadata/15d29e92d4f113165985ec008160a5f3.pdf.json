@@ -1,0 +1,27 @@
+{
+  "title": "Cucumber Fact Sheet",
+  "subtitle": "",
+  "description": "A fact sheet to inform cucumber farmers and agronomists on smart Integrated Pest Management (IPM) technologies and methodologies applicable in open-field and greenhouse production systems. It organizes solutions into monitoring, diagnostics and detection, decision support, and application techniques to support effective pest and disease management.",
+  "locations": [
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Cucumber IPM technologies",
+  "keywords": [
+    "cucumber",
+    "integrated pest management",
+    "monitoring technologies",
+    "diagnostics",
+    "decision support",
+    "spraying systems",
+    "greenhouse production",
+    "open-field",
+    "pest detection",
+    "biocontrol"
+  ],
+  "size": {
+    "pages": 41,
+    "bytes": 2512741
+  },
+  "valid_structure": true
+}

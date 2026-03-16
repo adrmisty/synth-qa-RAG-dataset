@@ -1,0 +1,27 @@
+{
+  "title": "AUDIT BIOSÉCURITÉ AVEC L’OUTIL PULSE",
+  "subtitle": "",
+  "description": "A self-assessment tool for poultry farmers, PULSE guides biosecurity audits by evaluating key measures through Excel-based scorecards. It highlights compliance with French regulations, identifies areas for improvement, and supports follow-up commitments and progress tracking.",
+  "locations": [
+    "France"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry biosecurity audit",
+  "keywords": [
+    "Biosecurity audit",
+    "Self-assessment tool",
+    "Poultry farming",
+    "Excel macros",
+    "Compliance scoring",
+    "Sanitary barrier (SAS)",
+    "Effluent management",
+    "French regulation",
+    "Horizon 2020",
+    "NetPoulSafe"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 646083
+  },
+  "valid_structure": true
+}

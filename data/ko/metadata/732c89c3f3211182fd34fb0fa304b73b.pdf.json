@@ -1,0 +1,27 @@
+{
+  "title": "NBS test site",
+  "subtitle": "",
+  "description": "An overview factsheet of the Dutch nature-based solutions (NBS) test site showcasing alfalfa and grass-clover pellets alongside strategies to reduce virus spread in seed potato production. It introduces the trans4num project’s multi-level approach to sustainable nutrient supply through pilot experiments and cover crop rotations in a UNESCO World Heritage agricultural region.",
+  "locations": [
+    "Netherlands"
+  ],
+  "topic": "crop farming",
+  "theme": "Nature-based nutrient management",
+  "keywords": [
+    "nature-based solutions",
+    "nutrient management",
+    "cover crops",
+    "seed potatoes",
+    "alfalfa pellets",
+    "grass-clover pellets",
+    "virus spread reduction",
+    "sustainable agriculture",
+    "test site",
+    "trans4num"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 619838
+  },
+  "valid_structure": true
+}

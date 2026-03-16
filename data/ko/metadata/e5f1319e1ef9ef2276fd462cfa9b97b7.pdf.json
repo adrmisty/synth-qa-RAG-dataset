@@ -1,0 +1,26 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "An atlas presenting a management-based typology of 18 European permanent grassland types, detailing their distribution, agricultural practices, vegetation and threats. It also outlines the expert-elicited method for assessing the delivery of ecosystem services, illustrated by maps, diagrams and case studies.",
+  "locations": [
+    "Europe",
+    "Switzerland"
+  ],
+  "topic": "environment",
+  "theme": "Permanent Grassland Typology",
+  "keywords": [
+    "permanent grassland",
+    "grassland management",
+    "ecosystem services",
+    "typology",
+    "expert elicitation",
+    "European atlas",
+    "grassland distribution",
+    "grassland classification"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 10123988
+  },
+  "valid_structure": true
+}

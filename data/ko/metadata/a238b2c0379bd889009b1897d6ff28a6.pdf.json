@@ -1,0 +1,27 @@
+{
+  "title": "Bioveiligheid voor vang/entploegen",
+  "subtitle": "",
+  "description": "A step-by-step guide for maintaining biosecurity when entering and exiting poultry farms during catching and dispatching operations. It outlines procedures for vehicle disinfection, entry through hygiene sluices, footwear decontamination, and proper exit protocols to prevent disease spread.",
+  "locations": [
+    "European Union"
+  ],
+  "topic": "livestock",
+  "theme": "Poultry farm biosecurity",
+  "keywords": [
+    "biosecurity",
+    "poultry",
+    "farm",
+    "disinfection",
+    "hygiene",
+    "entry protocols",
+    "exit procedures",
+    "footwear",
+    "vehicle decontamination",
+    "catching operations"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 544344
+  },
+  "valid_structure": true
+}

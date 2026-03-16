@@ -1,0 +1,26 @@
+{
+  "title": "How big should a UV system be to suit my needs?",
+  "subtitle": "Hoe groot moet een uv-systeem zijn om aan de bedrijfseisen te voldoen",
+  "description": "A guide for sizing UV treatment systems for integrated pest management in vegetable production based on factors like driving speed, lamp wattage, and effective UV dose. It also discusses operational constraints such as limited nighttime application windows and frequent treatment intervals.",
+  "locations": [
+    "Europe",
+    "Belgium"
+  ],
+  "topic": "crop farming",
+  "theme": "UV system sizing",
+  "keywords": [
+    "IPM",
+    "UV system",
+    "system sizing",
+    "driving speed",
+    "lamp power",
+    "effective dose",
+    "treatment frequency",
+    "nighttime application"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 384342
+  },
+  "valid_structure": true
+}

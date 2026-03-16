@@ -1,0 +1,33 @@
+{
+  "title": "DIVERSify Factsheets",
+  "subtitle": "",
+  "description": "A series of technical factsheets providing practical guidance on intercropping systems and plant teams to improve crop resource‐use efficiency, pest and weed management, resilience to stresses and soil health through cereal‐legume and multispecies mixtures.",
+  "locations": [
+    "UK",
+    "Spain",
+    "Denmark",
+    "Italy",
+    "Portugal",
+    "Sweden",
+    "Kenya"
+  ],
+  "topic": "crop farming",
+  "theme": "Cereal-legume intercropping",
+  "keywords": [
+    "intercropping",
+    "plant teams",
+    "cereal",
+    "legume",
+    "agronomy",
+    "crop diversification",
+    "nitrogen fixation",
+    "biodiversity",
+    "resilience",
+    "weed control"
+  ],
+  "size": {
+    "pages": 60,
+    "bytes": 34053927
+  },
+  "valid_structure": true
+}

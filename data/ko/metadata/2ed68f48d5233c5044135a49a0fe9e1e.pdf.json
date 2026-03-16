@@ -1,0 +1,26 @@
+{
+  "title": "BEECAM – Pest Monitoring",
+  "subtitle": "BEECAM - Surveillance des parasites",
+  "description": "The BEECAM ecosystem provides an innovative monitoring technology for Integrated Pest Management in vegetable production, leveraging autonomous sensors and biocontrol strategies to gather biodiversity and pest activity data. It supports farmers and advisors with long-range communication, low-power devices, and automated alerts to optimize pesticide use and sustainable agriculture practices.",
+  "locations": [
+    "Europe",
+    "France"
+  ],
+  "topic": "crop farming",
+  "theme": "Pest monitoring technology",
+  "keywords": [
+    "IPM",
+    "BEECAM",
+    "monitoring",
+    "pests",
+    "ecosystem",
+    "biodiversity",
+    "biocontrol",
+    "insects"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 356101
+  },
+  "valid_structure": true
+}

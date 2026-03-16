@@ -1,0 +1,25 @@
+{
+  "title": "EffiSpray, a smart tool for optimum spraying application",
+  "subtitle": "EffiSpray, ένα έξυπνο εργαλείο για βέλτιστη εφαρμογή ψεκασμού",
+  "description": "A guide presenting EffiSpray, an innovative system developed by AGENSO to optimize plant protection product applications using variable rate spray technology and real-time environmental data. The tool includes an Android application providing weather-based forecasts, spray dose calculations, and tractor speed recommendations to enhance efficacy and minimize off-target drift.",
+  "locations": [
+    "Greece",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Spray application optimization",
+  "keywords": [
+    "Integrated Pest Management",
+    "spraying application",
+    "spray drift",
+    "variable rate spraying",
+    "dose calculator",
+    "plant protection products",
+    "weather forecasting"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 394880
+  },
+  "valid_structure": true
+}

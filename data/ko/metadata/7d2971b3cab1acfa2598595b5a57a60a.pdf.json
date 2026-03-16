@@ -1,0 +1,27 @@
+{
+  "title": "VineScout",
+  "subtitle": "Intelligent decisions from vineyard robots",
+  "description": "A summary of the VineScout project, which aims to industrialize an innovative expert field monitoring system with robotic assistance for vineyards. The system provides massive data collection of plant water status and leaf nitrogen uptake to help growers optimize management and improve wine quality.",
+  "locations": [
+    "Europe",
+    "Spain",
+    "Valencia"
+  ],
+  "topic": "crop farming",
+  "theme": "Robotic vineyard monitoring",
+  "keywords": [
+    "vineyard robotics",
+    "field monitoring",
+    "water status",
+    "nitrogen uptake",
+    "grape quality",
+    "precision viticulture",
+    "automated data collection",
+    "wine quality"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 251397
+  },
+  "valid_structure": true
+}

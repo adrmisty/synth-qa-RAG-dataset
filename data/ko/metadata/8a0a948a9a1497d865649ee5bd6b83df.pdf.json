@@ -1,0 +1,33 @@
+{
+  "title": "Ghid de bune practici în ameliorarea animalelor",
+  "subtitle": "",
+  "description": "A best practice guide for directed genetic improvement of farm animals, presenting theoretical foundations and practical tools for selection, mating strategies and program design. It details breeding programs and evaluation methods for various livestock species including cattle, buffalo, sheep and goats.",
+  "locations": [
+    "Romania",
+    "Cluj-Napoca",
+    "Banat",
+    "Crişana",
+    "Transilvania",
+    "Maramureş",
+    "Bucovina"
+  ],
+  "topic": "livestock",
+  "theme": "Animal breeding",
+  "keywords": [
+    "genetic selection",
+    "animal breeding",
+    "livestock improvement",
+    "selective breeding",
+    "crossbreeding",
+    "breeding programs",
+    "heritability",
+    "genetic diversity",
+    "herd management",
+    "reproductive performance"
+  ],
+  "size": {
+    "pages": 64,
+    "bytes": 1732284
+  },
+  "valid_structure": true
+}

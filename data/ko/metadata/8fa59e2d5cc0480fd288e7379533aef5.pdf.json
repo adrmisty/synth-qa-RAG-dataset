@@ -1,0 +1,27 @@
+{
+  "title": "AUDYT BEZPIECZEŃSTWA BIOLOGICZNEGO Z WYKORZYSTANIEM DEDYKOWANEGO PROGRAMU PULSE",
+  "subtitle": "",
+  "description": "A guide for conducting a biosecurity audit using the PULSE program developed by ITAVI for poultry producers. It describes the tool’s spreadsheet structure, scoring system, and compliance checks against French regulations to support self-assessment and advisory audits.",
+  "locations": [
+    "France"
+  ],
+  "topic": "livestock",
+  "theme": "Biosecurity audit tool",
+  "keywords": [
+    "biosecurity",
+    "auditing",
+    "poultry farming",
+    "PULSE software",
+    "self-assessment",
+    "risk scoring",
+    "ITAVI",
+    "Horizon 2020",
+    "regulatory compliance",
+    "farm management"
+  ],
+  "size": {
+    "pages": 3,
+    "bytes": 645593
+  },
+  "valid_structure": true
+}

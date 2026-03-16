@@ -1,0 +1,28 @@
+{
+  "title": "Elektros gamyba ūkyje",
+  "subtitle": "",
+  "description": "A guide for assessing investments in solar photovoltaic systems for farms, covering cost ranges, financing durations, and installation considerations. It presents examples of system capacities, practical project planning steps, and tips on subsidies and supplier consultations.",
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "topic": "economics",
+  "theme": "Solar PV investments",
+  "keywords": [
+    "solar energy",
+    "photovoltaic",
+    "investment",
+    "farm",
+    "financing",
+    "installation",
+    "grid connection",
+    "capacity",
+    "subsidy",
+    "project planning"
+  ],
+  "size": {
+    "pages": 1,
+    "bytes": 276733
+  },
+  "valid_structure": true
+}

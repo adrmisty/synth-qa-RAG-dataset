@@ -1,0 +1,25 @@
+{
+  "title": "Module 1",
+  "subtitle": "",
+  "description": "A training module introducing future trainers to digital tools and services for farm advisors, focusing on the uptake and use of Decision Support Tools in agriculture (DATS). It covers successful use cases, implementation challenges, selection criteria, and principles and methods of adult training.",
+  "locations": [],
+  "topic": "crop farming",
+  "theme": "Decision support tools",
+  "keywords": [
+    "digital tools",
+    "DATS",
+    "farm advisors",
+    "adult training",
+    "uptake",
+    "implementation challenges",
+    "decision support",
+    "sustainability",
+    "training methods",
+    "DATS inventory"
+  ],
+  "size": {
+    "pages": 19,
+    "bytes": 561012
+  },
+  "valid_structure": true
+}

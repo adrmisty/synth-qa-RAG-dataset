@@ -1,0 +1,30 @@
+{
+  "title": "Atlas of Permanent Grassland (PG) Types",
+  "subtitle": "",
+  "description": "This atlas presents a typology of 18 European permanent grassland types based on management intensity, climate marginality, and utilization. It describes each type’s distribution, agricultural practices, vegetation characteristics, threats, and ecosystem service delivery with illustrative case studies.",
+  "locations": [
+    "Montenegro",
+    "Sweden",
+    "Italy",
+    "Czech Republic"
+  ],
+  "topic": "environment",
+  "theme": "Permanent grassland typology",
+  "keywords": [
+    "permanent grasslands",
+    "ecosystem services",
+    "grassland management",
+    "typology",
+    "biodiversity",
+    "agricultural management",
+    "marginal climate",
+    "low-intensity grazing",
+    "Europe",
+    "case studies"
+  ],
+  "size": {
+    "pages": 28,
+    "bytes": 11187668
+  },
+  "valid_structure": true
+}

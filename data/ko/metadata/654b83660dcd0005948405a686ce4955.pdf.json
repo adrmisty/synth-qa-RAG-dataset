@@ -1,0 +1,27 @@
+{
+  "title": "INTRODUCTION",
+  "subtitle": "",
+  "description": "A guide presenting an atlas of 18 European permanent grassland types classified by management practices and environmental characteristics. It details the mapping approach and expert elicitation used to assess the delivery of ecosystem services for each grassland type.",
+  "locations": [
+    "Europe",
+    "Mazovia, Poland"
+  ],
+  "topic": "environment",
+  "theme": "grassland typology atlas",
+  "keywords": [
+    "permanent grasslands",
+    "grassland typology",
+    "ecosystem services",
+    "expert elicitation",
+    "mapping",
+    "succession",
+    "biodiversity",
+    "carbon sequestration",
+    "case study"
+  ],
+  "size": {
+    "pages": 22,
+    "bytes": 9889492
+  },
+  "valid_structure": true
+}

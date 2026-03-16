@@ -1,0 +1,30 @@
+{
+  "title": "Politikas pārskats",
+  "subtitle": "Marts 2020",
+  "description": "A policy brief summarizing key insights from the SALSA project on the role of small farms and small food enterprises in ensuring regional food and nutrition security across 30 regions in Europe and Africa. It outlines targeted policy measures to support territorial approaches, value addition, collaboration, climate adaptation, and gender inclusion to enhance the viability and contribution of small farms.",
+  "locations": [
+    "Europe",
+    "Africa",
+    "Latvia",
+    "Poland",
+    "Portugal",
+    "Italy"
+  ],
+  "topic": "crop farming",
+  "theme": "Small farms policy",
+  "keywords": [
+    "small farms",
+    "food security",
+    "policy recommendations",
+    "value addition",
+    "collaboration",
+    "territorial approach",
+    "climate adaptation",
+    "gender equality"
+  ],
+  "size": {
+    "pages": 8,
+    "bytes": 902020
+  },
+  "valid_structure": true
+}

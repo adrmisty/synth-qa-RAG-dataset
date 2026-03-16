@@ -1,0 +1,27 @@
+{
+  "title": "A virtual platform to link farmers and consumers and provide local food!",
+  "subtitle": "",
+  "description": "A virtual platform implemented in Poland connects consumers with local farmers and food artisans, facilitating access to fresh, organic products through coordinated pickup points. The model enhances food literacy, empowers local communities, and strengthens farmers’ positions in the supply chain by offering a transparent pricing and fee structure.",
+  "locations": [
+    "Poland"
+  ],
+  "topic": "economics",
+  "theme": "Local food platform",
+  "keywords": [
+    "virtual platform",
+    "local food",
+    "farmers",
+    "consumers",
+    "food supply chain",
+    "organic produce",
+    "food literacy",
+    "community empowerment",
+    "replicability",
+    "logistics"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 346101
+  },
+  "valid_structure": true
+}

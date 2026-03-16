@@ -1,0 +1,27 @@
+{
+  "title": "Framework for soil-crops assessment and nutrient management in pilot areas",
+  "subtitle": "WP3.3 – Sustainable soil management practices and cropping systems",
+  "description": "This report presents a methodological framework for assessing soil and crop systems in pilot areas, including the characterization of soil types, crop selection, sampling schemes, and nutrient management plans. It outlines procedures for data modeling, geostatistical processing, and in-field monitoring to evaluate sustainable soil management and optimize nutrient inputs across Italian, Austrian, and Spanish demonstration sites.",
+  "locations": [
+    "Italy",
+    "Austria",
+    "Spain"
+  ],
+  "topic": "crop farming",
+  "theme": "Soil-crop nutrient management",
+  "keywords": [
+    "soil assessment",
+    "nutrient management",
+    "crop assessment",
+    "sampling schemes",
+    "geostatistical modeling",
+    "monitoring",
+    "sustainable soil management",
+    "remote sensing"
+  ],
+  "size": {
+    "pages": 37,
+    "bytes": 2395813
+  },
+  "valid_structure": true
+}

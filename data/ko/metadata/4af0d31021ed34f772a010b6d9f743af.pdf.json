@@ -1,0 +1,28 @@
+{
+  "title": "Monitoring techniques as proactive tool in modern IPM",
+  "subtitle": "Οι τεχνικές παρακολούθησης ως εργαλείο πρόληψης στα σύγχρονα IPM",
+  "description": "A guide to using monitoring techniques as proactive tools within modern Integrated Pest Management systems. It outlines applications such as hyperspectral imaging, drone surveillance, pheromone traps, and decision support systems to enhance sustainable pest, disease, and weed management in vegetable production.",
+  "locations": [
+    "Greece",
+    "Europe"
+  ],
+  "topic": "crop farming",
+  "theme": "Pest monitoring techniques",
+  "keywords": [
+    "IPM",
+    "integrated pest management",
+    "monitoring techniques",
+    "decision support systems",
+    "hyperspectral imaging",
+    "drones",
+    "pheromones",
+    "traps",
+    "sustainable farming",
+    "weed control"
+  ],
+  "size": {
+    "pages": 4,
+    "bytes": 396575
+  },
+  "valid_structure": true
+}

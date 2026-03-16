@@ -1,0 +1,32 @@
+{
+  "title": "Cutworm",
+  "subtitle": "",
+  "description": "A factsheet describing the use of a decision support system to monitor and manage cutworm infestations in various crops. It outlines the cutworm lifecycle, DSS parameters and outputs, and provides guidance for treatment timing based on instar predictions.",
+  "locations": [
+    "UK",
+    "Belgium",
+    "Luxembourg",
+    "Netherlands",
+    "France",
+    "Germany",
+    "Rep. Ireland",
+    "Denmark"
+  ],
+  "topic": "crop farming",
+  "theme": "Cutworm decision support",
+  "keywords": [
+    "cutworm",
+    "decision support system",
+    "integrated pest management",
+    "larval instars",
+    "crop protection",
+    "temperature modeling",
+    "rainfall mortality",
+    "instar prediction"
+  ],
+  "size": {
+    "pages": 2,
+    "bytes": 768509
+  },
+  "valid_structure": true
+}
