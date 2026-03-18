@@ -92,7 +92,7 @@ class SilverDatasetGenerator:
                 
                 dataset.append({
                     "document_id": doc_id,
-                    "metadata": doc_metadata,
+                    #"metadata": doc_metadata, do not include metadata for now, only the QA pairs
                     "qa_pairs": qa_content
                 })
 

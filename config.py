@@ -10,7 +10,7 @@ from pathlib import Path
 
 # gemini api key
 API_KEY: str = os.getenv("GEMINI_ADRIANA_KEY")
-MODEL_NAME = "gemini-3-flash"
+MODEL_NAME = "gemini-3-flash-preview"
 
 # prompting and dataset
 BASE_DATA_DIR: Path = Path("data")
