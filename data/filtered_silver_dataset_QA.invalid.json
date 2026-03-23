@@ -1,0 +1,1310 @@
+[
+    {
+        "document_id": "bfa56917ec4aa5bcff6842c28a22ed11.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What is the grant agreement number for the Horizon 2020 project POWER4BIO mentioned in the training material?",
+                "answer": "818351",
+                "contexts": [
+                    {
+                        "page": 32,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "7e7265f196e08b1a87b8405032c51c9f.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "Which specific Horizon 2020 funded project is responsible for Practice Abstract No. 11 regarding the Landare association?",
+                "answer": "COCOREADO",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "About this abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "6ac8412354525659bc54346f076f53d1.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What are the two primary objectives that advisory conversations help the farmer to explore regarding biosecurity?",
+                "answer": "járványvédelem hiányosságainak és a fejlesztési terveknek a feltárásában",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Miért"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d000186d2ad621012a0f459a4c958a00.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What is the Grant Agreement number for the Horizon 2020 research and innovation programme funding the COCOREADO project?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "32439155a72a842a5eedf93020bea79c.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "Based on the nutrient values provided by CIB, how many kilograms of Urea are equivalent to the total nitrogen content (N) found in one ton of digestate?",
+                "answer": "8,69 kg Urea",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": "DIGESTATO come fonte di NUTRIENTI e di SO STABILE"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "dc957998e896352771f891f8b79d8403.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "According to the pilot action findings, which type of Point of Sale (PoS) material is more persuasive for proximal consumption events like purchasing fruit?",
+                "answer": "pictorial",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "The pilot action"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "00e8a1d5aa8ab2679d3f16fed804725e.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "According to Table 1, what is the natural source of the bioactive compounds gingerol and shogaol used for their anti-inflammatory and antioxidant properties?",
+                "answer": "imbir",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Tabela 1. Właściwości biologiczne wybranych fitobiotyków"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b0997f99d774a66e5ce4b3e438b445da.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What is the European Union’s Horizon 2020 grant agreement number for the COCOREADO project?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "98c83dbf325513966501d522e9160bde.pdf",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "According to the NetPoulSafe checklist, what specific condition must the roof of a poultry enclosure meet to ensure wild bird droppings do not contact the birds?",
+                "answer": "the roof is completely closed",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Ellenőrző lista"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "During an avian influenza outbreak, where should hobby poultry be moved if they are not housed in a closed run or cage?",
+                "answer": "to a covered/closed place",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Ellenőrző lista"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "c2eb8d147b79a772d0f83e84c4325c84.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "According to the CAP’2ER assessment, what is the net carbon footprint of milk (kg eqco2/l) after accounting for carbon storage at the Poisy farm?",
+                "answer": "0,89 kg CO2/l",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "EMPREINTE CARBONE DU LAIT"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "What is the total production cost per 1000 liters of milk at the Poisy pilot farm using the Inosys-Réseau d’Elevage method?",
+                "answer": "514 €",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "ECONOMIE"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What is the specific target for linear meters of hedges (mètres linéaires de haies) set for the 2018-2020 improvement project at the Poisy farm?",
+                "answer": "22000 ml",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "PROJET D’AMELIORATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4bb5b4f879df4e7e0638c07ec90663ef.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the grant agreement number for the COCREADO project funded under the European Union's Horizon 2020 research and innovation programme mentioned in the Āgenskalna Market documentation?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "7f6f452e7d3273b3403421cb63e7da7e.pdf",
+        "qa_pairs": [
+            {
+                "id": 8,
+                "question": "Within the category of Scientometrics for monitoring and evaluation, what specific metrics are listed as measures of impact?",
+                "answer": "impact assessment, scientific citation index, author-level metrics, patents",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": "MONITOROWANIE I OCENA"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "0fb7d662b325be196e84e9af8d970be5.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "Which Horizon 2020 funded project is responsible for Practice Abstract No. 2 regarding the 'Fruta Feia' initiative?",
+                "answer": "COCOREADO",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "About this abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "According to the COCOREADO project description, what does the acronym AKIS stand for?",
+                "answer": "Agricultural Knowledge and Innovation Systems",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "About this abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "0cbbd67cbce66de67c4c35db3bf8b630.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What activity is required during Year 3 of the maximum 5-year project duration for carbon credit earning?",
+                "answer": "Controle halverwege (Middle control)",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Hoe en wanneer kun je meedoen?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9a9a53aacafdc575c98de2d25a2a0f52.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "Upon what specific environmental assessment methodology is the CAP’2ER tool based?",
+                "answer": "Life Cycle Assessment (LCA) of inputs to the farm gate",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Détail sur l’outil CAP’2ER"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "According to the bovine milk workshop results in Appendix 1, what is the net carbon footprint per liter of corrected milk?",
+                "answer": "0.97 kg eq. CO2/L milk corrected",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Appendix 1 Présentation des résultats issus de CAP’2ER"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What project grant number is associated with the European Union’s Horizon 2020 research and innovation program for the Resilience 4 Dairy initiative?",
+                "answer": "101000770",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "8024bffe09a1c23348d7b6c66b4746c3.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "Under what specific grant agreement number did the SmartProtect project receive funding from the European Union’s Horizon 2020 programme?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "282c3796772cfded2d9c01e01b6d66e0.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "Which specific tool is mentioned in the NetPoulSafe curriculum for the quantification of biosecurity?",
+                "answer": "Biocheck.Ugent",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9e868d9630e25b3a87ab02851158fe30.pdf",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "Which specific scoring system is described for monitoring Dermanyssus gallinae infestation using a 10 cm long PVC tube?",
+                "answer": "tube trap",
+                "contexts": [
+                    {
+                        "page": 19,
+                        "section_name": "Monitoring of the poultry red mite"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "298c3de11002b8ebb75c4d6df64cec80.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "In the governance classification of BIOEAST Member States, which countries are categorized under 'Type 4: Strongly devolved multiple actors'?",
+                "answer": "Poland and Estonia",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "2.2. REGULATORY FRAMEWORK AND INSTITUTIONS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "873dfd9b32d632f9de67a3328662e836.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What are the specific learning (apprendimento) preferences for the 'owl' (gufo) personality type described in the NetPoulSafe collaboration document?",
+                "answer": "Structured, in classroom, from an expert teacher",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "According to the NetPoulSafe characterization, how does a 'rooster' (gallo) profile behave when they are under stress?",
+                "answer": "Closes in on itself",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "In the NetPoulSafe framework, what are the listed flaws (difetti) of the 'butterfly' (farfalla) entrepreneurial personality?",
+                "answer": "Over-optimistic, chaotic, superficial and distractible",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "What is the specific learning philosophy attributed to the 'butterfly' (farfalla) profile in the NetPoulSafe guidelines?",
+                "answer": "Butterflies do not learn, they discover. Living and learning are the same thing for them.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "When a 'rooster' (gallo) is speaking to an 'owl' (gufo) to initiate a project, what specific task do they request after providing the general outlines?",
+                "answer": "A detailed plan and an indication of when it must be completed",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Sono un gallo e sto parlando a…"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "What phrase characterizes the 'bee' (ape) personality's approach to learning within the NetPoulSafe team dynamics model?",
+                "answer": "Learns with others and loves to practice a lot",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "bcc3c8b1fa85f4dee7e2738ee20cb187.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "Under what European Union Horizon 2020 grant agreement number was the SmartProtect project funded?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "c7de53778eeb26127ad308ffa400b8ac.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "According to the ADKAR model for biosecurity management, what does the 'K' component represent?",
+                "answer": "Knowledge = Connaissances",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "ff694881c425ac5a0dd127736f82562d.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Which specific cereal cultivars were used in the Bosnia & Herzegovina (UBL) experiments to evaluate the impact of clover on mean yield?",
+                "answer": "Jaran and Matej",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Agronomic parameters"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4a4be4bc9e8891af952ebeaf6c704d22.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What are the six crucial services provided by biodiversity to agriculture as identified in the Resilience 4 Dairy framework?",
+                "answer": "Soil fertility, Pollination, Seed dispersal, Climate regulation, Water purification, Control of agricultural pests",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Why looking after biodiversity on farm?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "da66683b8998683ad5d399338002bd1e.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the Horizon 2020 grant agreement number for the COCOREADO project described in this documentation?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "About this abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "a691d9dee98567dc667bc7b8826a49ea.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "Which specific Horizon 2020 research and innovation program project funded the development of this nurse cow system (Imettäjälehmäsysteemi) factsheet?",
+                "answer": "Resilience for Dairy",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d80768df0894a220d9d32d39ae3ad00b.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "Under which European Union grant agreement number was the SmartProtect project funded?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "586cc1e1c7260d31427c832d32613d51.pdf",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "Under which European Union research and innovation programme grant agreement number was the SmartProtect project funded?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4af0d31021ed34f772a010b6d9f743af.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the specific grant agreement number for the SmartProtect project under the European Union's Horizon 2020 research and innovation programme?",
+                "answer": "No. 862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "93d402952b0c3bb871746611d5aa9dce.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "In the context of Highly Pathogenic Avian Influenza (HPAI) in Spain, what is the minimum sanitary void period required after the second cleaning and disinfection?",
+                "answer": "42 giorni",
+                "contexts": [
+                    {
+                        "page": 42,
+                        "section_name": "Costi relativi alla positività in allevamento dovuta all'influenza aviaria ad alta patogenicità (HPAI) in Spagna"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "Which specific Belgian quality brand requires water quality control including a total bacterial count limit of 100,000 ufc/ml?",
+                "answer": "Belplume",
+                "contexts": [
+                    {
+                        "page": 48,
+                        "section_name": "Controllo della qualità dell'acqua da parte del marchio di qualità Belplume"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "Which change management model is utilized in the NetPoulSafe coaching methodology to evaluate attitudes and behaviors in animal husbandry?",
+                "answer": "Modello ADKAR",
+                "contexts": [
+                    {
+                        "page": 56,
+                        "section_name": "Coaching degli allevatori per il miglioramento della biosicurezza"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 7,
+                "question": "What is the maximum allowed limit for E. coli per 100 ml according to the Belplume water quality monitoring standards?",
+                "answer": "Max. 1000 ufc/100 ml",
+                "contexts": [
+                    {
+                        "page": 50,
+                        "section_name": "Controllo della qualità dell'acqua da parte del marchio di qualità Belplume"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "49a7319de14c9f5f6ecd12a7ba1f914a.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "Which four specific 'beasts' are used in the NetPoulSafe model to distinguish between different entrepreneurial characteristics and communication styles?",
+                "answer": "Owl, Rooster, Bee, and Butterfly",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "MAIN KEY POINTS"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": null
+                    },
+                    {
+                        "page": 3,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "What are the defined qualities of the 'Owl' personality type within the NetPoulSafe team collaboration framework?",
+                "answer": "Calm, thoughtful, analytical, facts, structure, a deal is a deal",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "According to the 'beast' model, how do individuals identified as 'Roosters' learn, and what happens to them under stress?",
+                "answer": "Roosters learn by doing and watching. Under stress, the rooster comes into his own.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "What are the listed pitfalls for the 'Bee' personality type in the context of group collaboration?",
+                "answer": "Fanaticism, perfectionism, submissiveness, meddlesome",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "When an individual identified as a 'Bee' is speaking to an 'Owl', what specific observation do they make regarding company appointments?",
+                "answer": "In my opinion, the appointments in the company are not kept very well.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "I’m a bee and I’m talking to a…"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "How does the 'Butterfly' type approach the concept of learning according to the NetPoulSafe guidelines?",
+                "answer": "Butterflies don't learn, they discover. Living and learning are the same for them.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "3f2161b2e4e495e4f30af39035a55955.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "Which two specific winter pea cultivars were used in the Germany (UKA & KÖN) intercropping experiments to monitor pollen beetle abundance?",
+                "answer": "leafless cv Kolinda or while leaf conventional cv EFB33",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "Legume intercropping"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "367f2ac11898e1fe6dfd94229752afb7.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Under which European Union Horizon 2020 grant agreement number was the Resilience 4 Dairy project funded?",
+                "answer": "101000770",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "94f2c67b4e00276fb342e9f6e448b4e6.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the grant agreement number for the European Union's Horizon 2020 research and innovation programme that funded the SmartProtect project?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "e93c4ed097dbfb105e040d4233a64a57.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What are the specific components and weights for the cereal-protein silage mixture identified as 'Seos 1' in the J.M. Burette farm case study?",
+                "answer": "70 kg ruista, 4 kg apilaa, 20 kg ruisvirnaa",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Käytäntö n°2: Vilja-valkuaiskasvi-seos säilörehuksi"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "According to the R4D practice guide, what is the composition of 'Seos 2' used for winter-sown cereal-protein silage?",
+                "answer": "80 kg härkäpapua, 30 kg syyskauraa, 20 kg apilaa, 25 kg rehunvirnaa",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Käytäntö n°2: Vilja-valkuaiskasvi-seos säilörehuksi"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "709959541cdd670057d125fb6232004a.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Under which European Union's Horizon 2020 grant agreement number did the SmartProtect project receive funding?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "2396365ab803fb8648e31ecb6306fbbc.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the specific grant agreement number for the MOVING project under the European Union’s Horizon 2020 research and innovation programme?",
+                "answer": "862739",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "c50f2e584fb00655ad0ab6dc99f36fbc.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Under which European Union Horizon 2020 grant agreement number is the COCOREADO project funded?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "About this abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "17766a4d0991811483bbec76c0c8392e.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What are the three possible status conclusions for a biosecurity category in the PULSE audit tool?",
+                "answer": "Soddisfacente (verde), Da migliorare (arancione), and Non conforme",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Strumento PULSE"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "c3b05f8ce8dec41bd44eded2bff3983b.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "According to the PLNT Business Model, what are the nationalities of the two seed suppliers used by the project?",
+                "answer": "Dutch and Spanish",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "PLNT BUSINESS MODEL AT A GLANCE!"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "baf3d568d011d9776bb1f1a422b807d8.pdf",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What is the European Union's Horizon 2020 grant agreement number under which the SmartProtect project received funding?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "10a03fba80d2099a6344305ad18d92de.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "According to the NetPoulSafe documentation, what specific infectious disease is cited as an example of increasing prevalence that necessitates enhanced biosecurity?",
+                "answer": "avian influenza",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Pourquoi ce guide est important ?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "04459bc5f27ae2953a0b4c7bcbec83b7.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "Under which grant agreement number did the COCOREADO project receive funding from the European Union’s Horizon 2020 research and innovation programme?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9c6fc93a3f6b82c13729aac35140d8d7.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "According to the NetPoulSafe guidelines for coaching in integrated poultry production, what do the letters in the SMART acronym stand for?",
+                "answer": "Smart Measurable Acceptable Realistic Time-bound",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Qui - Comment"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "Why is a representative of the production body considered necessary during discussions with a farmer in an integrated system?",
+                "answer": "il dispose d’un pouvoir de décision limité",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Pourquoi"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "c7b1d55d4f96e00d490f2823111bc152.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "In the hypothetical economic loss calculation for a Spanish poultry farm with 40,000 hens infected with Avian Influenza at 60 weeks, what is the calculated economic value of the 7,880,000 lost eggs?",
+                "answer": "€1,639,040",
+                "contexts": [
+                    {
+                        "page": 39,
+                        "section_name": "Costs related to an avian influenza (HPAI) positive farm in Spain"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "According to the Belplume quality label standards for water quality control in poultry farming, what is the normal value for Fecal Streptococci?",
+                "answer": "Absent in 100 ml",
+                "contexts": [
+                    {
+                        "page": 47,
+                        "section_name": "WATER QUALITY CONTROL BY BELPLUME QUALITY LABEL"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "What is the recommended minimum duration for a poultry-free period that hunters (including farmers or farm workers) must observe after a hunt according to the NetPoulSafe biosecurity procedures?",
+                "answer": "at least 72 hours",
+                "contexts": [
+                    {
+                        "page": 145,
+                        "section_name": "PRINCIPLES OF BIOSECURITY FOR HUNTERS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "In the NetPoulSafe methodology for online farm health team meetings using Paint 3D, what do the green, orange, and red colors signify during farm zoning?",
+                "answer": "green zone (clean area), orange zone (transition road), red zone (dirty area)",
+                "contexts": [
+                    {
+                        "page": 32,
+                        "section_name": "ONLINE FARM HEALTH TEAM MEETING USING PAINT 3D AND GOOGLE MAPS TO IMPROVE FARM ZONING"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "de71ec0a983c6a3396c2d7a6cc693c56.pdf",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "According to the MOVING project findings, what are the five main consequences of climate change perceived to affect the quality of bee grazing?",
+                "answer": "drought, rising average temperature, abnormal temperature fluctuations, and extremes in heavy rains and heat waves",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS FOUR MAIN CONSEQUENCES OF CLIMATE"
+            }
+        ]
+    },
+    {
+        "document_id": "a0ad77c1b6c46d8489e7b0abf186b3ac.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "According to the expert evaluation spider chart, which category achieved the highest score of 5 for the LEAN method?",
+                "answer": "Economic resilience",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Ocena metody"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "ce7e458644fac6ac3f6d804183ed7cd0.pdf",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "How does the LIAISON project define 'functional capacities' in the context of interactive innovation?",
+                "answer": "'soft skills' such as the ability to listen, reflect and learn",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "EXECUTIVE SUMMARY"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "250365c195ac6ef86aaa314230101d68.pdf",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the outcome of a second biosecurity audit in Italy if the poultry farm still does not respect the required rules?",
+                "answer": "Penalties (pénalités!)",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Audit biosécurité"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d2f01df56b708ef40707431c051f0be0.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the specific grant agreement number for the Horizon 2020 research and innovation programme that funded the SmartProtect project?",
+                "answer": "No. 862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "75317b518baa2e55ae4b45750f89e344.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the European Union's Horizon 2020 grant agreement number for the MOVING project?",
+                "answer": "No. 862739",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b9ff56f89be2677d4e36b9bd9459b917.pdf",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "In the FAIRshare eye-level knowledge exchange model, what specific type of knowledge is attributed to the creation and exchange activities of scientists?",
+                "answer": "system knowledge",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "Model knowledge exchange: On Eye-level"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "In the FAIRshare eye-level knowledge exchange model, what specific type of knowledge is attributed to the creation and exchange activities of farmers?",
+                "answer": "transformation knowledge",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "Model knowledge exchange: On Eye-level"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "Within the FAIRshare framework, what result is associated with 'Information transfer' when applied to accepted problems with simple solutions?",
+                "answer": "Friction loss due to competition",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "Information transfer"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 5"
+            },
+            {
+                "id": 5,
+                "question": "Which interaction model is identified as useful for complex and controversial problems where no simple solutions are known, according to the FAIRshare Module 2 materials?",
+                "answer": "Co-Creation",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "Co-Creation"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 5"
+            }
+        ]
+    },
+    {
+        "document_id": "0229f96f4aa2a9d022d8f22e09cb9b15.pdf",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Under what Grant Agreement number did the SmartProtect project receive funding from the European Union's Horizon 2020 programme?",
+                "answer": "862563",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9f7700be2dc0c15a1b62877622b381cc.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What are the recommended sowing rates for Lucerne or trefoil when used as a perennial cover crop in winter rapeseed?",
+                "answer": "6 to 8 kg/ha",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Practical recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 1,
+                "question": "According to Figure 1, what is the specific sowing rate for White clover when used as a living mulch?",
+                "answer": "3 kg/ha",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Practical recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d74ef003103cd8914fa2be05e7ece904.pdf",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the specific grant agreement number for the COCREADO H2020 project that funded the research into Farmer Steven's fair food supply chain roadmap?",
+                "answer": "101000573",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "Which two social media platforms are explicitly listed as channels in the Farmer Steven Business Model canvas?",
+                "answer": "Facebook and Instagram",
+                "contexts": [
+                    {
+                        "page": 6,
+                        "section_name": "FARMER STEVEN BUSINESS MODEL AT A GLANCE"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "184c350ce6f69a19cde2d9e331c91f2d.pdf",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "Which specific software tool is mentioned for carrying out carbon diagnostics in the Beef Carbon project?",
+                "answer": "CAP'2ER",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    }
+]

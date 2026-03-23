@@ -1,0 +1,19 @@
+--- Stats for silver EUFB dataset (invalid=False): data/filtered_silver_dataset_QA.json ---
+Total documents: 199
+Total QA pairs: 1187
+Avg QA pairs per KO: 5.96
+Max QA pairs in a KO: 11
+Min QA pairs in a KO: 1
+
+
+--- Stats for silver EUFB dataset (invalid=True): data/filtered_silver_dataset_QA.invalid.json ---
+Total documents: 56
+Total QA pairs: 85
+Avg QA pairs per KO: 1.52
+Max QA pairs in a KO: 6
+Min QA pairs in a KO: 1
+
+--- FAILURE REASONS ---
+- Model rejected: FALSE >>> 82 (96.5%)
+- Empty text extraction on page 5 >>> 2 (2.4%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS FOUR MAIN CONSEQUENCES OF CLIMATE >>> 1 (1.2%)

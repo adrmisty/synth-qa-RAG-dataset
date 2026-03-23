@@ -30,7 +30,7 @@ class SilverDatasetGenerator:
 
     # --- generation logic -------------------------------------------------------------------
 
-    def generate_QA_sample(self, sample_size: int, output_file: str = "data/silver_dataset.json"):
+    def generate_QA_sample(self, sample_size: int, output_file: str = "data/silver_dataset_QA.json"):
         """Generates QA pairs for evaluation of a RAG system."""
         valid_docs = []
         

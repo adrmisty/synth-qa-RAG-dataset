@@ -14,6 +14,8 @@ from pathlib import Path
 from tqdm import tqdm
 import config
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from collections import Counter
+import numpy as np
 
 logging.basicConfig(level=logging.INFO, format="INFO: %(message)s")
 
@@ -30,6 +32,8 @@ class SilverDatasetFilter:
     # --- filtering logic -------------------------------------------------------------------------
 
     def filter_dataset(self, prompt: str, input_json: str, output_json: str):
+        output_path = Path(output_json)
+        
         with open(input_json, "r", encoding="utf-8") as f:
             dataset = json.load(f)
 
@@ -39,20 +43,28 @@ class SilverDatasetFilter:
         logging.info("> Starting QA validation and filtering...")
         for doc in tqdm(dataset):
             doc_id = doc["document_id"]
-            pdf_path = self.docs_dir / f"{doc_id}.pdf"
+            pdf_path = self.docs_dir / f"{doc_id}"
             
             if not pdf_path.exists():
+                logging.warning(f"Missing PDF: {doc_id}")
                 continue
 
             valid_qa_pairs = []
             invalid_qa_pairs = []
             
-            for qa in doc["qa_pairs"]:
-                # context extraction
-                page_num = qa["contexts"]["page"] 
+            for qa in doc.get("qa_pairs", []):
+                try:
+                    page_num = qa["contexts"][0]["page"] 
+                except (KeyError, IndexError):
+                    qa["fail_reason"] = "malformed contexts"
+                    invalid_qa_pairs.append(qa)
+                    continue
+                
                 context_text = self._extract_page_text(pdf_path, page_num)
                 
                 if not context_text:
+                    qa["fail_reason"] = f"Empty text extraction on page {page_num}"
+                    invalid_qa_pairs.append(qa)
                     continue
 
                 user_prompt = (
@@ -63,27 +75,30 @@ class SilverDatasetFilter:
                 
                 decision = self._generate(prompt, user_prompt)
                 
-                # only retrieve the validated ones
-                if "True" in decision:
+                if "TRUE" in decision:
                     valid_qa_pairs.append(qa)
                 else:
+                    qa["fail_reason"] = f"Model rejected: {decision}"
                     invalid_qa_pairs.append(qa)
                     
             if valid_qa_pairs:
-                doc["qa_pairs"] = valid_qa_pairs
-                filtered_dataset.append(doc)
+                valid_doc = doc.copy()
+                valid_doc["qa_pairs"] = valid_qa_pairs
+                filtered_dataset.append(valid_doc)
+                
             if invalid_qa_pairs:
-                doc["qa_pairs_invalid"] = invalid_qa_pairs
-                invalid_dataset.append(doc)
+                invalid_doc = doc.copy()
+                invalid_doc["qa_pairs"] = invalid_qa_pairs
+                invalid_dataset.append(invalid_doc)
                 
         # ** dump both valid and invalid QA pairs **
-        with open(output_json, "w", encoding="utf-8") as f:
+        with open(output_path, "w", encoding="utf-8") as f:
             json.dump(filtered_dataset, f, ensure_ascii=False, indent=4)
-        with open(output_json.with_suffix(".invalid.json"), "w", encoding="utf-8") as f:
+            
+        with open(output_path.with_suffix(".invalid.json"), "w", encoding="utf-8") as f:
             json.dump(invalid_dataset, f, ensure_ascii=False, indent=4)
             
-        logging.info(f">>> Filtering complete, results saved to {output_json}!")
-
+        logging.info(f">>> Filtering complete, results saved to {output_path}!")
 
     # --- model init -------------------------------------------------------------------------
 
@@ -122,8 +137,9 @@ class SilverDatasetFilter:
         generated_ids = [
             output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
         ]
-        return self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True).strip().upper()
-
+        
+        return self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0].strip().upper()
+    
     # --- dataset processing -----------------------------------------------------------------
 
     def _extract_page_text(self, pdf_path: Path, page_num: int) -> str:
@@ -138,8 +154,42 @@ class SilverDatasetFilter:
                 text = page.extract_text()
                 return text.strip() if text else ""
             else:
-                logging.warning(f"Page {page_num} is out of bounds for {pdf_path.name}")
+                logging.warning(f"> (!) Page {page_num} is out of bounds for {pdf_path.name}")
                 return ""
         except Exception as e:
-            logging.error(f"Error reading {pdf_path.name} page {page_num}: {e}")
+            logging.error(f"> (!) Error reading {pdf_path.name} page {page_num}: {e}")
             return ""
+
+# *** AUX: stats after running the filter ***
+
+def get_filter_stats(filepath: Path, invalid: bool = False):
+    """Shows the statistics for the filtered silver standard dataset."""
+    if invalid:
+        filepath = filepath.with_suffix(".invalid.json")
+    with open(filepath, "r", encoding="utf-8") as f:
+        dataset = json.load(f)
+
+    num_docs = len(dataset)
+    qa_counts = [len(doc.get("qa_pairs", [])) for doc in dataset]
+    total_qas = sum(qa_counts)
+
+    print(f"--- Stats for silver EUFB dataset (invalid={invalid}): {filepath} ---")
+    print(f"Total documents: {num_docs}")
+    print(f"Total QA pairs: {total_qas}")
+    
+    if num_docs > 0:
+        print(f"Avg QA pairs per KO: {np.mean(qa_counts):.2f}")
+        print(f"Max QA pairs in a KO: {np.max(qa_counts)}")
+        print(f"Min QA pairs in a KO: {np.min(qa_counts)}")
+
+    if invalid and total_qas > 0:
+        print("\n--- FAILURE REASONS ---")
+        reasons = []
+        for doc in dataset:
+            for qa in doc.get("qa_pairs", []):
+                reasons.append(qa.get("fail_reason", "Unknown").replace("\n\n",". "))
+        
+        reason_counts = Counter(reasons)
+        for reason, count in reason_counts.most_common():
+            print(f"- {reason} >>> {count} ({count/total_qas*100:.1f}%)")
+    print("\n")
