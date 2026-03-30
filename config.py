@@ -22,8 +22,8 @@ DATASET_JSON: Path = BASE_DATA_DIR / "silver_dataset_QA.json"
 FILTER_DATASET_JSON: Path = BASE_DATA_DIR / "filtered_silver_dataset_QA.json"
 
 # prompts
-PROMPT_MD: Path = PROMPT_DIR /  "prompt.md"
-PROMPT_TXT: Path = PROMPT_DIR / "prompt.txt"
+PROMPT_MD: Path = PROMPT_DIR /  "prompt_ADVICE.md"
+PROMPT_TXT: Path = PROMPT_DIR / "prompt_ADVICE.txt"
 FILTER_PROMPT_TXT: str = (
     "You are an impartial evaluator. Given a context within a PDF document, a question, and an answer, "
     "verify if the context fully supports the answer to the question. "

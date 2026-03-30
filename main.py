@@ -30,7 +30,7 @@ def main():
             metadata_dir=config.METADATA_DIR, 
             docs_dir=config.DOCS_DIR,
             prompt_path=config.PROMPT_MD,
-            model_name=config.GEN_MODEL_NAME # Make sure this is in config.py
+            model_name=config.GEN_MODEL_NAME
         )
         sample_size = random.randint(args.min, args.max)
         generator.generate_QA_sample(sample_size=sample_size, output_file=config.DATASET_JSON)

@@ -12,6 +12,8 @@ from pathlib import Path
 from tqdm import tqdm
 from google import genai
 from google.genai import types
+from langdetect import detect
+from pypdf import PdfReader
 
 logging.basicConfig(level=logging.INFO, format="INFO: %(message)s")
 
@@ -53,9 +55,14 @@ class SilverDatasetGenerator:
             meta_path = self.metadata_dir / f"{doc_id}.json"
             
             if not pdf_path.exists():
-                logging.warning(f"File not found: {pdf_path}")
+                logging.warning(f"\t> (!) File not found: {pdf_path}")
                 continue
 
+            """ ** langdetect not so good **
+            if not self._is_english(pdf_path):
+                logging.info(f"\t> (!) File not in English: {pdf_path}")
+                continue
+            """ 
             try:
                 with open(pdf_path, "rb") as f:
                     pdf_bytes = f.read()
@@ -63,15 +70,15 @@ class SilverDatasetGenerator:
                 with open(meta_path, "r", encoding="utf-8") as f:
                     doc_metadata = json.load(f)
 
-                # ** dynamic topic, theme and keywords ** > inyectar en la prompt
+                # ** dynamic topic, theme and keywords ** > inject in prompt
                 topic = doc_metadata.get("topic", "N/A")
                 theme = doc_metadata.get("theme", "N/A")
                 keywords = ", ".join(doc_metadata.get("keywords", []))
                 context_injection = (
-                    f"Contexto adicional del documento:\n"
-                    f"- Tema (Topic): {topic}\n"
-                    f"- Temática (Theme): {theme}\n"
-                    f"- Palabras clave: {keywords}\n\n"
+                    f"Additional document context:\n"
+                    f"- Topic: {topic}\n"
+                    f"- Theme: {theme}\n"
+                    f"- Keywords: {keywords}\n\n"
                     f"Generate the JSON strictly matching the requested format."
                 )
 
@@ -89,9 +96,12 @@ class SilverDatasetGenerator:
                 )
 
                 qa_content = json.loads(response.text)
+                if not qa_content:
+                    continue
                 
                 dataset.append({
-                    "document_id": doc_id,
+                    "document_id": doc_id, # metadata-extracted
+                    "category": topic,     # metadata-extracted [required action point]
                     #"metadata": doc_metadata, do not include metadata for now, only the QA pairs
                     "qa_pairs": qa_content
                 })
@@ -103,3 +113,17 @@ class SilverDatasetGenerator:
             json.dump(dataset, f, ensure_ascii=False, indent=4)
         
         logging.info(f">>> QA dataset saved to {output_file}!")
+
+    # --- english filter-out -------------------------------------------------------------------
+
+    def _is_english(self, pdf_path: Path) -> bool:
+            """Ensures the document is English before making API calls."""
+            try:
+                reader = PdfReader(pdf_path)
+                if reader.pages:
+                    text = reader.pages.extract_text()
+                    if text and detect(text) == 'en':
+                        return True
+            except Exception:
+                pass
+            return False

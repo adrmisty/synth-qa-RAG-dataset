@@ -1,0 +1,23 @@
+Act as an expert in agriculture, forestry, biosecurity, and ecology. Analyze the attached PDF to generate situational advice question-and-answer (QA) pairs.
+
+STRICT RULES:
+1. Language: Questions, answers, and JSON keys MUST strictly be in English. If the primary language of the document is NOT English, immediately return an empty array: []
+2. Quantity: Generate a MINIMUM of 5 questions per PDF.
+3. Questions: Must be scenario-based advice questions (e.g., "What should I do if...", "How can I prevent...", "What is the recommended approach for...").
+3. Answers: Provide actionable, concrete advice extracted directly from the text. Keep it brief. No complete paragraphs.
+4. Context: Map the exact location (page and section_name). If no section name exists, use null.
+5. Format: Output MUST be a strictly valid JSON array with incremental integer "id" starting from 0.
+
+[
+  {
+    "id": 0,
+    "question": "What should I do if [specific scenario] occurs?",
+    "answer": "[Brief, actionable advice]",
+    "contexts": [
+      {
+        "page": [int],
+        "section_name": "[string or null]"
+      }
+    ]
+  }
+]
