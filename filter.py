@@ -53,10 +53,15 @@ class SilverDatasetFilter:
             invalid_qa_pairs = []
             
             for qa in doc.get("qa_pairs", []):
+                if "question" not in qa or "answer" not in qa:
+                    qa["fail_reason"] = "Missing 'question' or 'answer' key in QA pair"
+                    invalid_qa_pairs.append(qa)
+                    continue
+
                 try:
-                    page_num = qa["contexts"][0]["page"] 
-                except (KeyError, IndexError):
-                    qa["fail_reason"] = "malformed contexts"
+                    page_num = qa["contexts"]["page"] 
+                except (KeyError, IndexError, TypeError):
+                    qa["fail_reason"] = "Malformed 'contexts' in QA pair"
                     invalid_qa_pairs.append(qa)
                     continue
                 
