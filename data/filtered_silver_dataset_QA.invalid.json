@@ -1,0 +1,688 @@
+[
+    {
+        "document_id": "5c7230c3980fbce8f7c0be2a1b3f4c75.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach to learn about specific farm innovations and real-world farmer experiences?",
+                "answer": "Browse the 'Farmer portraits' and 'Case studies' in the Inno4Grass catalog, which provide factsheets, videos of presentations, and image galleries for 171 farmers and 85 case studies.",
+                "contexts": [
+                    {
+                        "page": 10,
+                        "section_name": "Farmer portraits"
+                    },
+                    {
+                        "page": 12,
+                        "section_name": "Case studies"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "What should I do if I want to view practical applications of grassland innovations via video?",
+                "answer": "Visit the 'Media' page on Encyclopedia pratensis or check the sidebar of specific products for direct access to the 104 available technical videos.",
+                "contexts": [
+                    {
+                        "page": 19,
+                        "section_name": "Videos"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4b9dbc740015e3163d176ce273d02486.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I better understand the effects of my farming decisions when managing crops?",
+                "answer": "Combine data from sensors, drones, and satellites to monitor the entire management cycle, from land preparation to measuring yields.",
+                "contexts": [
+                    {
+                        "page": 9,
+                        "section_name": "Case 5: Precision Agriculture (PA), potato farmer – Process innovation – Jacob van den Borne"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "09fa3e65af5b64176f8e1cd5b56a8032.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What approach should be taken if a district heating project faces hurdles regarding community consensus?",
+                "answer": "Focus on proving the reliability of the power plant as a partner over time to demonstrate the benefits of hassle-free heating at a competitive price.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "389c15d24d456416158bcf1e0daa9229.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I calculate the management intensity score (Sm) for my grassland?",
+                "answer": "Calculate Sm as the average of the utilisation (Su) and fertilisation (Sf) intensity scores: Sm = (Su + Sf) / 2.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "69c31c227162fc60c87f56c6535d5f89.pdf",
+        "category": "forestry",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do if I want to engage private forest owners in cost-effective biodiversity protection on their lands?",
+                "Answer": "Implement a reverse auction where forest owners respond to an open call by offering self-designed conservation measures and setting their own price for implementation.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Objective"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 1,
+                "question": "How can I ensure that forest owners provide high-quality bids in a reverse auction for biodiversity?",
+                "Answer": "Provide a detailed description of the information required in the bid and offer access to research-based recommendations about different types of conservation measures.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Implementation"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 2,
+                "question": "What details should be included in a biodiversity conservation offer for a reverse auction?",
+                "Answer": "The offer should describe the specific actions to be taken, the management restrictions to be imposed, and the requested price for implementing the measure.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Objective"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 3,
+                "question": "What is the recommended approach for setting compensation when forest owners set aside mature forest for biodiversity?",
+                "Answer": "Provide compensation in the range of 5,000 to 15,000 € per hectare for the permanent revocation of production rights.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Outcomes"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 4,
+                "question": "What conditions should be met before attempting to upscale reverse auction mechanisms to other countries?",
+                "Answer": "Ensure national regulations allow forest owners to decide on management and that private owners possess a significant portion of biologically valuable forestland.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Upscaling potential"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 5,
+                "question": "How can I maximize the reach and competition of a reverse auction for forest ecosystem services?",
+                "Answer": "Hold information campaigns to reach relevant target groups during the bidding period to ensure the number of bids exceeds the available budget.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Outputs"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            }
+        ]
+    },
+    {
+        "document_id": "b5073eabcbbfe2b2f67ee95eeb58a6f1.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the recommended approach for improving the environmental performance of producing microbial proteins from biowaste?",
+                "answer": "Reduce energy use and invest in renewable sources to obtain green energy.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Abstract"
+                    },
+                    {
+                        "page": 10,
+                        "section_name": "3.1. Production of Proteins from Single Cells"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "0ee22bbe2dabdf10e85595b089c878f5.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Which phytobiotics should I use to regulate digestive functions and stimulate appetite?",
+                "answer": "Use Thymus vulgaris L. (thyme) or Carum carvi L. (caraway). Menthol (from Mentha) can also be used to increase appetite and stimulate digestion.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Background & challenges"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "Table 1. Biological properties of selected phytobiotics."
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "08f3affc1f95275ea19507d7f3d95379.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What is the recommended method for the neutralization of surfactants by Free Fatty Acids (FFAs)?",
+                "answer": "Use an enzymatic neutralization process specifically developed for deodorant distillates.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b9ff56f89be2677d4e36b9bd9459b917.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "How should I choose between information transfer and co-creation when dealing with a complex agricultural problem?",
+                "answer": "Use co-creation when the problem is complex and controversial, no simple solutions are known, and multiple stakeholders with different languages are involved.",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "Co-Creation"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 5"
+            },
+            {
+                "id": 1,
+                "question": "What methods should I use to facilitate knowledge exchange between scientists, advisors, and farmers?",
+                "answer": "Use brainstorming, round tables, storytelling, testimonials, feedback, opinion corners, and small case studies.",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "Model knowledge exchange: On Eye-level"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "How should I approach the role of participants during a knowledge exchange session?",
+                "answer": "Treat all actors as both senders and receivers of knowledge to activate their existing experiences rather than just transferring information.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Reflection of own attitude"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "When is simple information transfer appropriate instead of more interactive exchange methods?",
+                "answer": "It is suitable for accepted problems with simple solutions where participants share the same language and thought collective.",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "Information transfer"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 5"
+            }
+        ]
+    },
+    {
+        "document_id": "bfe2ac5ad021f1ff2af77299ed7dd1c7.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What should be done to prevent soil loss in low-productivity grasslands with sparse vegetation cover?",
+                "answer": "Limit livestock treading to prevent damage and subsequent soil loss through wind or after heavy rain.",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": "LOW-INTENSITY PG IN MARGINAL CLIMATE, MOSTLY GRAZED (LM_G)"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "8412c8ba94ea2c0185a1b20be2cbd149.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I prevent oak trees in a wooded pasture from being harmed by excessive shade?",
+                "answer": "Avoid the abandonment of grazing to prevent pasture overgrowth.",
+                "contexts": [
+                    {
+                        "page": 10,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS THAT ABANDONMENT OF GRAZING LEADS"
+            }
+        ]
+    },
+    {
+        "document_id": "241a70ffd91bf99b48e9d2ea1e5f0e12.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What should be done to reduce the excessive burden of direct selling on small-scale farmers located far from urban areas?",
+                "answer": "Utilize specific advisory support encompassing skilled and trusted facilitators to manage organizational and marketing tasks.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Challenges of direct marketing for farmers at some distance from consumers living in large cities"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d1957d33927580fee74b24dc3a1cc4f3.pdf",
+        "category": "forestry",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do if I am a farmer or forester looking to adopt Bio-Based Technologies (BBTs)?",
+                "answer": "Attend regional info-days, knowledge transfer activities, and mentoring programs, or use the provided BBTs assessment tool to receive customized knowledge and solutions.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "BBioNets goals"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "How"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 1,
+                "question": "How can I improve the management and processing of agricultural and forest biomass sustainably?",
+                "answer": "Implement Bio-Based Technologies (BBTs) that utilize non-food feedstock and circularity principles to deliver diverse products and mitigate greenhouse gas emissions.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Bio-Based Technologies – what are they?"
+                    },
+                    {
+                        "page": 1,
+                        "section_name": "Our vision"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b37a807437c7c5cd617292f8965b40ea.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do first when deciding on the most appropriate agri-environmental contract type for a specific region?",
+                "answer": "Answer critical questions regarding the targeted public goods, decision context, technical feasibility, actors involved, funding sources, and legal framework.",
+                "contexts": [
+                    {
+                        "page": 10,
+                        "section_name": "5 Step by step choice of contract types"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT SUGGESTS A STEP-BY-STEP PROCESS"
+            }
+        ]
+    },
+    {
+        "document_id": "369a682e570f39e5b7eed103901aad18.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I determine if a permanent grassland is classified as 'mostly grazed' or 'mostly cut'?",
+                "answer": "Compare the grazing intensity score (Sg) and the cutting intensity score (Sc); if Sg is greater than Sc, the grassland is mostly grazed.",
+                "contexts": [
+                    {
+                        "page": 17,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "6c66f79a01a9d88b35d2cf31f6870a38.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What should I do if my cooperative lacks the technical know-how to proceed with specialized projects like a biomass power station?",
+                "answer": "Postpone the complex construction and prioritize building the supply chain while developing collaborations with research institutes and universities to solve technical issues like calorific value and ash content.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "Case 2: Energy Cooperative of Karditsa (ESEK)"
+                    },
+                    {
+                        "page": 9,
+                        "section_name": "Case 2: Energy Cooperative of Karditsa (ESEK)"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "What should be done to strengthen a new cooperative's market position when dealing with both conventional and organic products?",
+                "answer": "Focus on vertical integration of the production chain to produce high added value final products and manage the transition period for organic certification carefully over the required timeframe.",
+                "contexts": [
+                    {
+                        "page": 14,
+                        "section_name": "Case 4: Efkarpon-Hellenic Super foods"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "26502cc5126f2b72f90cd1b87724fa03.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What is the recommended approach for managing abandoned land in the Mediterranean region to prevent environmental hazards?",
+                "answer": "Engage in active management to mitigate the increased risk of wildfires and comply with national environmental legislation that may impose punitive measures against complete abandonment.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "2 LAND ABANDONMENT"
+                    },
+                    {
+                        "page": 36,
+                        "section_name": "5.3 National policies regarding LA"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "How can I prevent land abandonment on a small farm where income has dropped below the minimum standard of living?",
+                "answer": "Utilize CAP Pillar II support for 'Basic services and revitalisation of villages' and seek 'Transfer of knowledge and information measures' to improve farm management and viability.",
+                "contexts": [
+                    {
+                        "page": 23,
+                        "section_name": "4.5 Effectiveness of EU-level policy in combating agricultural LA"
+                    },
+                    {
+                        "page": 24,
+                        "section_name": "4.5 Effectiveness of EU-level policy in combating agricultural LA"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "What should I do if I want to use abandoned agricultural land for biodiversity restoration and climate regulation?",
+                "answer": "Implement preservation of farming practices that benefit the environment and apply for payments related to forest, environmental, and climate services or forest conservation.",
+                "contexts": [
+                    {
+                        "page": 23,
+                        "section_name": "4.5 Effectiveness of EU-level policy in combating agricultural LA"
+                    },
+                    {
+                        "page": 24,
+                        "section_name": "4.5 Effectiveness of EU-level policy in combating agricultural LA"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What is the recommended approach for combating the proliferation of invasive species on abandoned agricultural land?",
+                "answer": "Utilize environmental legislation measures specifically aimed at tackling invasive species proliferation and maintain active oversight of land parcels to prevent ecological degradation.",
+                "contexts": [
+                    {
+                        "page": 36,
+                        "section_name": "5.3 National policies regarding LA"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "dd2b197bbf5bf81c9a1a6c3cc5ca3d5a.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What should I do if a grassland has not been managed by grazing or mowing for at least two years?",
+                "answer": "Classify it as unmanaged grassland (U_GL or U_NGL) depending on whether there is risk of shrub and tree encroachment.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "APPENDIX 1. IDENTIFICATION KEY FOR PG TYPES"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b2959d3d3c9e2a9f69882076f96401b4.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the recommended approach for maintaining feed silo hygiene between production cycles?",
+                "answer": "Clean and disinfect the feed silo after each production round.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Cleaning and disinfection"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "cbcd831c3314f724b56a04b2dc8ef8ef.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "Where should I place carcass containers to minimize biosecurity risks from rendering trucks?",
+                "answer": "Place the carcass container far from the poultry houses and near the road, ideally outside the perimeter fence.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    },
+                    {
+                        "page": 3,
+                        "section_name": "Vehicle-associated biosecurity risk assessment guide"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "6abceb015e855fbb037ec11174236fdc.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for analyzing the current stage of an innovation process and identifying which actors to involve next?",
+                "answer": "Utilize the 'Spiral of Initiatives' tool to analyze the development phases and determine which actors and actions are required for the next stage.",
+                "contexts": [
+                    {
+                        "page": 28,
+                        "section_name": "Annex 8: Spiral of Initiatives"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What should be done by participants as a preparation task before attending an innovation methods workshop?",
+                "answer": "Write a short innovation story using provided guidelines to enable the training to address individual needs and specific cases.",
+                "contexts": [
+                    {
+                        "page": 21,
+                        "section_name": "Annex 5: Agenda/Program (Sample for an Innovation Methods Training)"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "e8e2e03d415020ddd03ca3c180df5ed7.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "How should I address the lack of qualified staff in mountain cereal processing stages like milling and brewing?",
+                "answer": "Invest in training and capacity building for stakeholders to improve their skills in business management, marketing, and quality control.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nWHILE THE CONTEXT DOES RECOMMEND INVESTING IN TRAINING"
+            }
+        ]
+    },
+    {
+        "document_id": "d8150ec5f1f3e890c70dd746568c7849.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 6,
+                "question": "How should I handle the timing of invitations for a policy-oriented workshop?",
+                "answer": "Plan the event 3 months in advance and promote it in three phases: a 'save the date' at 3 months, an invitation at 2 months, and a final reminder 1 month before the event.",
+                "contexts": [
+                    {
+                        "page": 55,
+                        "section_name": "Policy workshop preparation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "dbff7fbf45d6b55d48a0ab58d4114dc2.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "How can I find the specific geographical locations of small farms that sell local products?",
+                "answer": "Consult the interactive map provided on the initiative's web page.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Practical recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "feb17ef0a6867cc1c7a962a293838807.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do if my farm is located in a designated Nitrate Vulnerable Zone (NVZ)?",
+                "answer": "Follow mandatory action programmes, test nitrate concentration in ground and surface water monthly, and adopt codes of good agricultural practice.",
+                "contexts": [
+                    {
+                        "page": 13,
+                        "section_name": "Nitrate Directive"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "What should be done to prevent nitrate leaching in maize fields during the winter?",
+                "answer": "Implement ground cover during the winter when fields are otherwise barren and improve the management of animal waste.",
+                "contexts": [
+                    {
+                        "page": 45,
+                        "section_name": "Vittel"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    }
+]

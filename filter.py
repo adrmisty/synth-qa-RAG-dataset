@@ -59,7 +59,7 @@ class SilverDatasetFilter:
                     continue
 
                 try:
-                    page_num = qa["contexts"]["page"] 
+                    page_num = qa["contexts"][0]["page"] 
                 except (KeyError, IndexError, TypeError):
                     qa["fail_reason"] = "Malformed 'contexts' in QA pair"
                     invalid_qa_pairs.append(qa)
