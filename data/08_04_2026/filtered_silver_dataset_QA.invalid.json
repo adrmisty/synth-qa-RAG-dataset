@@ -1,0 +1,2650 @@
+[
+    {
+        "document_id": "932fd198597f5de08a7320d04f606fdf.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach if farmers are struggling with the adoption of co-designed or interactive tools?",
+                "answer": "Consider the farmers' age and educational background when designing tools to ensure they are accessible and suitable for the target group.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Living labs for supporting part-time farmers"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "299b4c86c3d90c719f77d9a17cebe762.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "How can I ensure the goals in my farm health action plan are practical and effective?",
+                "answer": "Define actions using SMART criteria: ensure they are Specific, Measurable, Acceptable for all parties, Realistic for your resources, and Time-bound.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Step 3: Design of the action plan (plan)"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "1537507acbf9e9e6f616bf69967fe600.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What species should I plant if I have shallow acidic soil?",
+                "answer": "Bird's-foot trefoil is the well-adapted choice for shallow acidic soils.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Table 1: Adaptation of different species to the soil type"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "ddc36432bdb60203352ed9da54d0a19c.pdf",
+        "category": "forestry",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for utilizing the warm water produced as a by-product?",
+                "answer": "Use it for floor heating, industrial drying processes, or heating public facilities like foot baths.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Energy from miniature power plants"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "CASE ASHIYU: TRADITIONAL JAPANESE FOOT BATH"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "05a2cca91cb4d1ec946acd5f8f2e2d47.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "How can I improve crop production and protection sustainability based on the EcoStack approach?",
+                "answer": "Implement 'ecostacking' by synergistically stacking ecosystem services and using bioinspired pest control tools.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Bioinspired crop protection measures leveraging ecostacking"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 1,
+                "question": "Which biological agents should I leverage as ecosystem service providers for pest control and soil health?",
+                "answer": "Leverage natural antagonists of pests and diseases, insect pollinators, soil microbiota, soil fauna, and plant microbiota.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Enhancing the contributions of ecosystem service providers"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "What methods can I use for highly specific pest control with minimal impact on non-target species?",
+                "answer": "Use pest suppression mechanisms from plants' natural antagonists or the induction of plant defence barriers.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Co-design of empirical interventions and new models"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "How can I ensure the intervention measures I choose are appropriate for my specific farm landscape?",
+                "answer": "Utilize detailed landscape modelling to define the most effective and sustainable ecostacking of complementary interventions for your specific context.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Co-design of empirical interventions and new models"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "Where can farmers and practitioners access specific in-crop and off-crop intervention strategies and manuals?",
+                "answer": "Access the EcoStack Knowledge Bank or the website’s Resource Hub for informative videos and manuals.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Co-design of empirical interventions and new models"
+                    },
+                    {
+                        "page": 3,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4f870ff21cb8865d1e79e9ec3ec9eb90.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 6,
+                "question": "How can I prevent falling into the trap of overgeneralizing in my decision-making as a new agricultural entrepreneur?",
+                "answer": "Transition from an entrepreneurial mindset to a management approach as the business matures, focusing on planning, resource allocation, and establishing formal procedures.",
+                "contexts": [
+                    {
+                        "page": 11,
+                        "section_name": "Mission and Vision"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE PROVIDED CONTEXT DISCUSSES THE DIFFERENCES BETWEEN ENTREPRENEURIAL"
+            }
+        ]
+    },
+    {
+        "document_id": "2631cac4255646db0a7746e6fafc5483.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What should I do if I want to significantly reduce methane consumption for heating in my broiler sheds?",
+                "answer": "Install improved roof insulation, such as corrugated sandwich panels with a polystyrene layer.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Intro to Good Practice"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "Additional information"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9075421c24906d10a03eeddba21508aa.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for farmers to handle water deficiency in the Maleshevski region?",
+                "answer": "Establish systems for the reuse of rainwater and provide subsidies for organic production.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "2. Respond to climate change"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS \"ESTABLISHING SYSTEMS FOR"
+            }
+        ]
+    },
+    {
+        "document_id": "d1957d33927580fee74b24dc3a1cc4f3.pdf",
+        "category": "forestry",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I ensure my biomass processing practices align with Bio-Based Technology (BBT) principles?",
+                "answer": "Utilize non-food feedstock and apply circularity principles to deliver diverse products while mitigating greenhouse gas emissions.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Our vision"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "Bio-Based Technologies – what are they?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "8d061b41c986c807d618714b35a112b5.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What should I analyze if the current agricultural knowledge and innovation system (AKIS) components are not working together well?",
+                "answer": "Investigate who and what are playing a role in knowledge exchange and innovation, and determine how the behavior of these elements is influenced.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "How farmers assemble knowledge for innovation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED DISCUSSES THE LIMITATIONS OF AK"
+            }
+        ]
+    },
+    {
+        "document_id": "0d0e9a5c775433340babf97dbb6d83b9.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for young people (aged 18-30) to start a business in rural areas?",
+                "answer": "Participate in a business incubator program to learn idea identification, business plan writing, and marketing, then enter a business plan competition to secure start-up funding.",
+                "contexts": [
+                    {
+                        "page": 12,
+                        "section_name": "PROMOTION OF YOUTH ENTREPRENEUERSHIP IN RURAL AREAS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "3684fb7ca5ec1033bd91822b5d731240.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach to reduce production costs and synthetic fertilizer use simultaneously?",
+                "answer": "Incorporate circular economy principles by using by-products and reusing agricultural biomass, which can reduce inorganic fertilizer needs by up to 100% in specific crops like tomatoes.",
+                "contexts": [
+                    {
+                        "page": 11,
+                        "section_name": "DISCUSSION"
+                    },
+                    {
+                        "page": 12,
+                        "section_name": "CONCLUSIONS, LIMITATIONS AND FUTURE LINES OF RESEARCH"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "784e872dce6f2f56b95f78753d8ef719.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do to attract more farmers and increase the impact of my on-farm demonstration?",
+                "answer": "Take regional agricultural developments and challenges into account and send personal invitations to the whole family where appropriate.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "WHY DO YOU WANT TO ORGANISE THE DEMO EVENT?"
+                    },
+                    {
+                        "page": 18,
+                        "section_name": "CLEAR INVITATION ADAPTED TO THE TARGET GROUPS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "How can I improve the accessibility of a demonstration located on a remote host farm?",
+                "answer": "Organise group transport, provide transportation facilities to visit multiple sites, and ensure the location is clearly marked with road signs and banners.",
+                "contexts": [
+                    {
+                        "page": 12,
+                        "section_name": "TIPS"
+                    },
+                    {
+                        "page": 15,
+                        "section_name": "FACILITIES & EQUIPMENT"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "ab307083365002324dd91101504092a3.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for determining when to start monitoring crops for infestations?",
+                "answer": "Use a Decision Support System (DSS) to identify the start of emergence, typically after 500 day-degrees.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Control with help of DSS on platform.ipmdecisions.net"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "DSS output"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "618733fa696950e75daf5efeabcb263a.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What is the recommended approach to reduce nitrogen and phosphate emissions in cattle excrement?",
+                "answer": "Utilize small-scale biorefineries to produce improved fodder press-cake fibre, which directly reduces these emissions.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Project Aims & Ojectives"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4ce554ce568c6063807d3246c2b0a11c.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I better tackle environmental threats like extreme weather events and late frost in mountain viticulture?",
+                "answer": "Increase the market value of the product to support the implementation of resilient agronomic practices and variety selection.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "bde1efcea4bd0abc4ef6f34e9e1b118c.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How do I determine the management intensity (Sm) of a permanent grassland?",
+                "answer": "Calculate the average of the utilisation intensity score (Su), which combines cutting and grazing intensity, and the fertilisation intensity score (Sf).",
+                "contexts": [
+                    {
+                        "page": 19,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "97f218591f758540263b173e801bb9f1.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 6,
+                "question": "What action is taken automatically if plant table temperatures fall outside the 15-26°C range?",
+                "answer": "The system automatically switches off and transfers climate control back to the conventional RAM climate computer.",
+                "contexts": [
+                    {
+                        "page": 23,
+                        "section_name": "2.4 Safety chain"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "3611f04fc335c2f86edff5baa0cbe724.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What approach should I take if I want my innovation to impact policy, laws, and research?",
+                "answer": "Implement 'Upscaling' to specifically target and impact the enabling environment such as legislation and the research sector.",
+                "contexts": [
+                    {
+                        "page": 9,
+                        "section_name": "What is Scaling?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "How can I tell if my innovation has reached the 'Deployment' stage (IRL 8 or 9)?",
+                "answer": "The innovation must work well in an operational environment (IRL 8) or be fully displayed and acting as a catalyst for change in the market (IRL 9).",
+                "contexts": [
+                    {
+                        "page": 11,
+                        "section_name": "Annex: Innovation Readiness Levels"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "5c7230c3980fbce8f7c0be2a1b3f4c75.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I evaluate the economic prerequisites and strengths of a specific grassland innovation?",
+                "answer": "Review the 'Innovation analysis' products in the Inno4Grass catalog for detailed descriptions of strengths, weaknesses, and economic factors.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "Innovation analysis"
+                    },
+                    {
+                        "page": 17,
+                        "section_name": "Innovation analysis"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE PROVIDED CONTEXT DOES NOT SPECIFICALLY MENTION THAT"
+            },
+            {
+                "id": 5,
+                "question": "What should I do if I want to see a practical demonstration of an innovation like a pivot irrigation system?",
+                "answer": "Access the 'Videos' or 'Media' page on Encyclopedia Pratensis to watch video clips on innovative practices and link to corresponding farmer portraits.",
+                "contexts": [
+                    {
+                        "page": 18,
+                        "section_name": "Videos"
+                    },
+                    {
+                        "page": 19,
+                        "section_name": "Videos"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "26502cc5126f2b72f90cd1b87724fa03.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What should I do to mitigate the increased risk of wildfires in Mediterranean regions where land abandonment is occurring?",
+                "answer": "Implement punitive measures against land abandonment and adhere to direct or indirect environmental legislation aimed at fire risk reduction.",
+                "contexts": [
+                    {
+                        "page": 36,
+                        "section_name": "5.3 National policies regarding LA"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b2959d3d3c9e2a9f69882076f96401b4.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What is the recommended frequency for cleaning and disinfecting feed silos on a poultry farm?",
+                "answer": "Apply cleaning and disinfecting to the feed silo after each production round.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Cleaning and disinfection"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9da813ca520c1cc63c1495bf1a688468.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "How can I increase the structural stability and aggregation of my soil through mechanical practices?",
+                "answer": "Apply minimum soil disturbance techniques to reduce the mineralization of soil organic matter and stimulate functional biodiversity.",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "1. Minimum soil disturbance"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What technical steps should be taken to transform livestock effluent into a more efficient fertilizing resource?",
+                "answer": "Implement a treatment process including solid-liquid separation, microfiltration, and ammonia stripping/stabilization to produce ammonium sulfate.",
+                "contexts": [
+                    {
+                        "page": 12,
+                        "section_name": "Renewable fertilizers: SOS_AQUAE innovations"
+                    },
+                    {
+                        "page": 15,
+                        "section_name": "Ammonia stripping and reduction phase for salification"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "6abceb015e855fbb037ec11174236fdc.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What should an advisor do to stimulate energy and drive action within a farming network?",
+                "answer": "Act as a 'Free Actor' to connect participants with resources and stimulate the enthusiasm needed for taking action.",
+                "contexts": [
+                    {
+                        "page": 22,
+                        "section_name": "The Advisor’s role in innovation networks"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "36cf054c883d166efe7807a3b0eaad2d.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What are the best practices for managing poultry carcasses to prevent the spread of disease?",
+                "answer": "Perform daily checks for carcasses in barns, store them in a cooled place, and ensure the rendering cart is cleaned and disinfected after each collection.",
+                "contexts": [
+                    {
+                        "page": 55,
+                        "section_name": "Analysis of poultry biosecurity databases"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "b51a973e8c0111018a82a1d3eea6f644.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the recommended way to replicate a fair-price cooperation model like Faircoop in other regions?",
+                "answer": "Collaborate with organizations like the European Milk Board (EMB) to implement the model across different countries.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Practical recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "c7b1d55d4f96e00d490f2823111bc152.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What should I do if the drinking water quality tests exceed the permitted bacterial deviation?",
+                "answer": "The drinking water system should be cleaned and disinfected as soon as possible.",
+                "contexts": [
+                    {
+                        "page": 47,
+                        "section_name": "3.12 Water quality control by belplume quality label"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "How can I prevent cross-contamination between different species on a multi-species livestock farm?",
+                "answer": "Use closed pens, keep separate pastures for each species, and avoid sharing material used to handle manure between species.",
+                "contexts": [
+                    {
+                        "page": 111,
+                        "section_name": "6.4 Preventing cross-contamination in multi-species livestock farms"
+                    },
+                    {
+                        "page": 112,
+                        "section_name": "6.4 Preventing cross-contamination in multi-species livestock farms"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "What is the recommended approach for safely storing disinfectants on a poultry farm?",
+                "answer": "Store them in original containers in a dedicated, locked, dry, and cooled storage room that is not exposed to direct sunlight.",
+                "contexts": [
+                    {
+                        "page": 116,
+                        "section_name": "6.6 how to safely store disinfectants on a poultry farm?"
+                    },
+                    {
+                        "page": 117,
+                        "section_name": "6.6 how to safely store disinfectants on a poultry farm?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What should I do if a poultry house has multiple units during a catching or vaccination operation?",
+                "answer": "Decontaminate by changing or disinfecting footwear every time you move between the animal area and the poultry house entrance.",
+                "contexts": [
+                    {
+                        "page": 103,
+                        "section_name": "6.1 Biosecurity for catching/vaccination crews"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "604ba153dbc77ca9a01a7ec60993ea6e.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do from the outset when initiating a collective farming project with other people?",
+                "Answer": "Set aside time to bring the project to life by establishing clear rules of operation and governance.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "General principles of co-operation"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 1,
+                "question": "What is the recommended approach to limit individual expenses for expensive farm machinery?",
+                "Answer": "Pool purchases, buy equipment on a joint-ownership basis, or set up a Cooperative for the Use of Equipment.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "General principles of co-operation"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 2,
+                "question": "What should I do if my farm buildings prevent large shared equipment from operating efficiently?",
+                "Answer": "Adapt buildings and silos to make it easier for the machine to pass through.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Zoom ① Equipment coop with vehicle & driver"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 3,
+                "question": "How can I find a suitable employee if I only have a need for part-time labor on my farm?",
+                "Answer": "Set up an employers' group to share one or more employees between several partners' farms by pooling financial resources and skills.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Zoom ② Group of employers"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 4,
+                "question": "How can I ensure that work is shared fairly within a mutual aid bank cooperative?",
+                "Answer": "Count everyone's time using defined units for each task and perform a year-end assessment to rebalance activities.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Zoom ③ Mutual aid bank to share labour"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            },
+            {
+                "id": 5,
+                "question": "What is the recommended approach for calculating the cost of labor and equipment use in a mutual aid bank?",
+                "Answer": "Measure and express assessment for labor and equipment use in points using a mutual aid scale.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Calculate the cost using mutual aid scales and units"
+                    }
+                ],
+                "fail_reason": "Missing 'question' or 'answer' key in QA pair"
+            }
+        ]
+    },
+    {
+        "document_id": "2befa2ff86d167250a9d2229e27040d7.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do if the economic cost and bureaucratic burden of third-party certification are too high for a small-scale mountain value chain?",
+                "answer": "Utilize Participatory Guarantee Systems (PGS) as a lighter bureaucratic tool for guaranteeing quality, or adopt collective/group certification methodologies to reduce individual burdens.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "Policy recommendations"
+                    },
+                    {
+                        "page": 9,
+                        "section_name": "Policy recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "271ca89680208bbab32f5ee0f19e698a.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What measures should I take if water runs out of my fist when testing compost moisture?",
+                "answer": "Cover the compost to prevent it from becoming too wet and to avoid anaerobic conditions and bad smells.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "COMPOST MOISTURE"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "What is the maximum limit for Ammonium (N-NH4) in compost intended for general use?",
+                "answer": "The Ammonium content should be less than 600 mg/kg DM.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "QUALITY TESTS AND THEIR INTERPRETATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "15c8a464cd3d20eb0fa8b64657f41786.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 6,
+                "question": "According to the identification key, how frequently must a grassland be managed to be considered 'Managed'?",
+                "answer": "The grassland must be managed by livestock grazing or mowing at least every two years.",
+                "contexts": [
+                    {
+                        "page": 15,
+                        "section_name": "APPENDIX 1. IDENTIFICATION KEY FOR PG TYPES"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "79c94c302d6370d330a04730f7301eca.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I assess a farmer's motivation and willingness to implement new biosecurity measures?",
+                "answer": "Use the Livestock-adapted ADKAR change management model to evaluate the farmer's awareness, desire, knowledge, ability, and reinforcement.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Figure 1. ADKAR change management model"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "eede3cee13d0ca1de0c8749be556900c.pdf",
+        "category": "forestry",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should designers do when planning new timber buildings to ensure the materials can be reused at the end of the building's life?",
+                "answer": "Create detailed deconstruction plans and material passports with recycling information to enable circular use and reconstruction in the future.",
+                "contexts": [
+                    {
+                        "page": 11,
+                        "section_name": "2.9 Recommendations: InFutUReWood"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "How can forest operators improve workplace safety and environmental impact when using mechanised forest machinery?",
+                "answer": "Equip machines with sensors and scanners for detailed localization, implement operator assistance systems, and establish feedback systems for skill development.",
+                "contexts": [
+                    {
+                        "page": 13,
+                        "section_name": "2.12 Recommendations: AVATAR"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "49a7319de14c9f5f6ecd12a7ba1f914a.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for an 'Owl' type to discuss more efficient working methods with a 'Rooster'?",
+                "answer": "Present the figures to demonstrate that the new way of working produces more results and ask for their agreement on the arrangements.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "I’m an owl and I’m talking to a…"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "How should a 'Bee' type address poor company atmosphere with another 'Bee'?",
+                "answer": "Express how you feel about the atmosphere and ask the other person what they think should be done about it together.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "I’m a bee and I’m talking to a…"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED DOES NOT SPECIFY HOW A"
+            }
+        ]
+    },
+    {
+        "document_id": "0f0273ff10dc1dd7ca8f29f5021917a6.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "How should I determine if a grassland is classified as 'Unmanaged Grassland'?",
+                "answer": "Check if the grassland is managed by livestock grazing or mowing at least every two years; if it is not managed, it is classified as either U_NGL (succession to non-PG) or U_GL (remaining grassland).",
+                "contexts": [
+                    {
+                        "page": 15,
+                        "section_name": "APPENDIX 1. IDENTIFICATION KEY FOR PG TYPES"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "How should I calculate the management intensity score (Sm) for a grassland?",
+                "answer": "Calculate the average of the utilisation intensity score (Su) and the fertilisation intensity score (Sf) using the formula Sm = (Su + Sf) / 2.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What should be done if the difference between the utilisation (Su) and fertilisation (Sf) intensity scores is greater than 1/3?",
+                "answer": "Adjust the values: if Su - Sf > 0.33, set adjusted Sf = Su - 1/3; if Sf - Su > 0.33, set adjusted Su = Sf - 1/3.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "2e1f31edf402ae32495d280e9c5578a3.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What is the most effective way to reduce the environmental impact of an olive leaf biorefinery process?",
+                "answer": "Use energy wisely and switch to cleaner energy sources, as energy consumption is the largest factor impacting the environment in this process.",
+                "contexts": [
+                    {
+                        "page": 11,
+                        "section_name": "Sustainability"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 11"
+            },
+            {
+                "id": 2,
+                "question": "How can olive leaf derivatives be applied to improve health in salmon aquaculture?",
+                "answer": "Use these compounds as feed additives to combat viruses and enhance overall fish health.",
+                "contexts": [
+                    {
+                        "page": 9,
+                        "section_name": "TOWARDS APPLICATIONS"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 9"
+            },
+            {
+                "id": 3,
+                "question": "What technology is recommended for extracting specific minor phytochemicals like oleuropein and luteolin from olive byproducts?",
+                "answer": "Use Molecularly Imprinted Polymers (MIPs) to create custom polymers that target and isolate these specific molecules more efficiently than traditional methods.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "POST-EXTRACTION TECHNOLOGIES"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 8"
+            },
+            {
+                "id": 4,
+                "question": "What is a recommended natural approach for extending the shelf life of food or cosmetics?",
+                "answer": "Apply olive leaf bioproducts, such as oleanolic acid-taurine, which act as natural preservatives by preventing oxidation and spoilage from microorganisms.",
+                "contexts": [
+                    {
+                        "page": 9,
+                        "section_name": "OUTCOMES"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 9"
+            },
+            {
+                "id": 5,
+                "question": "How can I improve the bioavailability of olive leaf nutraceuticals for oral delivery?",
+                "answer": "Utilize nanotechnology to develop galenic formulations such as microemulsions and micelles.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "POST-EXTRACTION TECHNOLOGIES"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 8"
+            },
+            {
+                "id": 6,
+                "question": "How can I ensure cost-effective processing for variable batches of olive leaf biomass?",
+                "answer": "Implement a Smart Dynamic Multi-Valorisation-Route Biorefinery (SAMBIO) system to determine the best processing flow based on the initial composition of each batch.",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": "SAMBIO"
+                    }
+                ],
+                "fail_reason": "Empty text extraction on page 7"
+            }
+        ]
+    },
+    {
+        "document_id": "d200d6eddd6452500463fc9bca5fdd2c.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "How should nitrogen fertilization be managed in a subsurface drip irrigation (SDI) system to improve efficiency?",
+                "answer": "Apply nitrogen via fertigation in split doses (e.g., every 7–10 days) directly near the rhizosphere to optimize spatial application and reduce losses.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "1. Introduction"
+                    },
+                    {
+                        "page": 3,
+                        "section_name": "2.2. Experimental design, treatments and crop management"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "When is the agronomic benefit of choosing subsurface drip irrigation (SDI) over sprinkler irrigation most significant for crop yield?",
+                "answer": "Benefits are most pronounced during dry years when irrigation must supply a high ratio (approximately 60%) of the crop's water requirements.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "ABSTRACT"
+                    },
+                    {
+                        "page": 10,
+                        "section_name": "4.3. Implications for sustainable and efficient management of water and N-supply"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "444e711d4a5da22104b75f52b9713399.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What should I do if I find weeds growing close to the walls of my poultry house?",
+                "answer": "Eliminate all weeds present less than one meter from the walls to prevent them from becoming vectors for pests.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Figure 2: Report model"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 2,
+                "question": "What is the recommended approach for managing debris found near poultry buildings?",
+                "answer": "Remove the debris immediately to prevent it from becoming a refuge for pests like rodents.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Figure 2: Report model"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "How can I prevent rodents from entering through gaps under the poultry house doors?",
+                "answer": "Cover the gap between the door and the ground to seal the entry point against pests.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Figure 2: Report model"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "3b7c93c5253d77aa1c5ceeff3ab635aa.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How do I determine if a permanent grassland is technically 'mostly grazed' or 'mostly cut' for classification?",
+                "answer": "Compare the grazing intensity score (Sg) and the cutting intensity score (Sc); if Sg > Sc, it is classified as mostly grazed, otherwise it is mostly cut.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "fd6704655e56e14209ed4b7c6f7ebd25.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How should I calculate the fertilization intensity score (Sf) for my nitrogen application?",
+                "answer": "Multiply the nitrogen from organic fertilizers by 0.8 and add it to the nitrogen from mineral fertilizers and animal excreta.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "6b0d8c1701c793364fa65715aef515b5.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What is the most effective way to reach vulnerable groups who may not have access to digital platforms or social media?",
+                "answer": "Use fieldworkers and streetworkers who have daily contact with these groups, and utilize non-scientific, easy-to-comprehend language to inform them of projects.",
+                "contexts": [
+                    {
+                        "page": 15,
+                        "section_name": "4-Reach the not so usual suspects"
+                    },
+                    {
+                        "page": 16,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS USING OFFLINE COMMUNICATION METHODS AND"
+            }
+        ]
+    },
+    {
+        "document_id": "79df6b193d82f769317daf8c881aa05d.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for older farmers in Jihocecký kraj who want to continue farming despite physical limitations?",
+                "answer": "Buy mechanization to facilitate physical work and implement a strategy of diversifying farm activities.",
+                "contexts": [
+                    {
+                        "page": 25,
+                        "section_name": "Small Farms Perspectives into the Future"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "ded66dbd054109daa61bb2cca97d32d6.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I improve the feed conversion ratio and reduce mortality by 40% in broiler sheds?",
+                "answer": "Equip the sheds with a mechanical ventilation system including extractor fans and vents to improve thermal comfort.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Benefits"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nWHILE THE CONTEXT MENTIONS THAT THERE WAS AN"
+            }
+        ]
+    },
+    {
+        "document_id": "a03e12d6427d32159e97c6635fa23880.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can consumers be involved in the management and decision-making of a supply association?",
+                "answer": "Implement participatory decision-making through a board of directors elected by a general assembly, utilize voluntary working committees, and allow members to suggest new products or suppliers via a mailbox.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "HOW THE PARTNERSHIP WORKS"
+                    },
+                    {
+                        "page": 4,
+                        "section_name": "GOOD PRACTICES THAT BRING BENEFITS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nWHILE THE CONTEXT MENTIONS PARTICIPATORY DECISION-MAKING"
+            }
+        ]
+    },
+    {
+        "document_id": "c261fc153a8290bbb27607e43af50bfb.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What is the recommended strategy for managing forage production if hay yields are decreasing due to climate-driven droughts?",
+                "answer": "Develop temporary meadows using drought-resistant species and optimize organic fertilization to improve farm food autonomy while maintaining a sustainable equilibrium.",
+                "contexts": [
+                    {
+                        "page": 46,
+                        "section_name": "3.3.3. Barriers and related drivers towards agroecology"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "cf98497969469a23ee45fc06c71c5ba3.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I prevent the erosion of social bonds between farmers and advisors after a project concludes?",
+                "answer": "Ensure the project improves professional networks and learning environments, as these bonds are likely to endure and ease future knowledge sharing.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "2. The interrelation of agricultural innovation projects and AIS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT DISCUSSES THE POTENTIAL FOR SOCIAL NETWORKS"
+            }
+        ]
+    },
+    {
+        "document_id": "fbb40f8a2c93a24d9558ca065d9962b2.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "Should I use ASD if my primary goal is to control weeds like Echinochloa crus-galli or Poa annua?",
+                "answer": "No, ASD has no effectivity against these specific seed-spreading weeds.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "993c054c5b80d68abcf5903562a55577.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How should I adapt my beef production business to mitigate the effects of global climate change in high-altitude regions?",
+                "answer": "Focus on the beef production value chain as a resilient method of traditional land use.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Beef production in Šumava mountains"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "97758950f760c84f06ef228211b69c58.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What approach should be taken to manage biowaste from large producers such as restaurants and hotels?",
+                "answer": "Set compulsory food waste prevention targets and practices, and establish specific door-to-door collection schemes for these commercial activities.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Biowaste prevention"
+                    },
+                    {
+                        "page": 4,
+                        "section_name": "Recycling targets and treatment plants"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "47f5cd4562a2471d3458f148d41d2e53.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "How should I handle sward destruction on peat-muck soils?",
+                "answer": "Avoid mechanical destruction as it causes the top soil layer to dry out; chemical destruction is more effective in these habitats.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "POTENTIAL FOR APPLYING THE MANAGEMENT OPTION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT SPECIFIES THAT MECHANICAL DESTRUCTION OF GRASS"
+            }
+        ]
+    },
+    {
+        "document_id": "16de0ca29ff5f3097957eb213c98eb48.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What should I do to enable automatic operation of the drone between two points?",
+                "answer": "Establish a willow plane between a starting point and a landing point.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Practice Abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "70f6474abfc7abfa11bec854bb7cc165.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What criteria must my agricultural products meet to be eligible for the 'Seasonality' label?",
+                "answer": "Products must be grown during their natural growing season without artificial heating or prolonged storage, and sourced from within the same country or neighbouring regions.",
+                "contexts": [
+                    {
+                        "page": 25,
+                        "section_name": "3.2.1 Seasonality"
+                    },
+                    {
+                        "page": 26,
+                        "section_name": "3.2.1 Seasonality"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "How can I prevent small-scale producers from being unfairly excluded from markets when mandatory certification is required?",
+                "answer": "Ensure that certification remains voluntary to keep the process equitable and supportive of all producers regardless of their size or resources.",
+                "contexts": [
+                    {
+                        "page": 32,
+                        "section_name": "4.1.2 Voluntary vs. Mandatory Certification Schemes"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "114a113766d75ce354df47fbc2f7229a.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How do I determine if a grassland should be classified as 'mostly cut' versus 'mostly grazed'?",
+                "answer": "Compare the grazing intensity score (Sg) and cutting intensity score (Sc); it is mostly cut if Sc > Sg.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d80768df0894a220d9d32d39ae3ad00b.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What is the recommended approach for using image-based selective mechanical weeding on non-transplanted crops?",
+                "answer": "Ensure the crops have regular plant and row spacing with clearly separated foliage.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Practice Abstract"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "bddcf2b16a294dbdb4c686f691eae041.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What is the recommended approach for setting up a vaccination area in a poultry house?",
+                "answer": "Dedicate a separate room or place in the anteroom equipped with a table, sink, paper towels, hand disinfection stations, a fridge, and storage cabinets.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    },
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "2a409b5a1f4598395655be9a0dd2ade8.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "Which variety of lucerne should I choose to ensure low competition during the winter months?",
+                "answer": "Select winter-dormant varieties, such as Flemish varieties, which exhibit very low growth during winter.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Practical recommendations"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "Practical testing/Farmers’ experiences"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "3475ca03f026431280678af6d7050179.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should I do if I need to confirm the presence of a plant pathogen in the field within minutes without a laboratory?",
+                "answer": "Use rapid one-step assays like BIOREBA AgriStrip or LOEWE FAST Lateral Flow Kits, which provide reliable assessment of suspicious plant material on-site in 10-15 minutes.",
+                "contexts": [
+                    {
+                        "page": 20,
+                        "section_name": "3.1.5 BIOREBA – Agristrip"
+                    },
+                    {
+                        "page": 21,
+                        "section_name": "3.1.7 LOEWE®FAST Lateral Flow Kits"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED MENTIONS BIOREBA AG"
+            }
+        ]
+    },
+    {
+        "document_id": "2396365ab803fb8648e31ecb6306fbbc.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can viticulture be integrated with other economic sectors like tourism?",
+                "answer": "Use sustainable agriculture as a foundational element for tourism, outdoor sports, and gastronomy services.",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "Recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "e791151c36144b6aff9e3a4d9af467f3.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How should chemical insecticides be used to control the psyllid vector under traditional treatment guidelines?",
+                "answer": "Apply 4 litres per hectare monthly, ensuring compliance with Integrated Pest Management (IPM) and EU health policies.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Potential impact on EU"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "41489b5b933620b1aaede8e92193e205.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should be done if a household's biowaste bin does not comply with quality standards?",
+                "answer": "Issue a warning card with sorting instructions; if the problem persists, remove the bin and apply the highest annual fee for mixed-waste collection.",
+                "contexts": [
+                    {
+                        "page": 8,
+                        "section_name": "7. The behavioural problem"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "66517256ffe207c453e593eeddd614e0.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What steps should be taken to improve public awareness and consumer participation in the Sustainable Knowledge Economy?",
+                "answer": "Launch dedicated awareness campaigns and incorporate SKE topics into educational curricula.",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "4. Recommendation for future policies"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "Key Policy Messages"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "69fa121ebb2749fe67ffc918c2ba294c.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 6,
+                "question": "How can I determine the management intensity score (Sm) for my grassland?",
+                "answer": "Calculate the average of the utilisation intensity score (cutting plus grazing scores) and the fertilisation intensity score.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "784521cabaf64ba75b39eea677c6bad9.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach if stakeholders are opting out of the engagement process too soon?",
+                "answer": "Use a ‘hop-on hop-off strategy’ where participation is not required all the time, and organize meetings on-location at places where stakeholders work, such as farms or community projects.",
+                "contexts": [
+                    {
+                        "page": 17,
+                        "section_name": "3.3 Engaging – Are you on board?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS THE 'HOP-ON HOP"
+            }
+        ]
+    },
+    {
+        "document_id": "12c3dc64ddbe934b514786355b19870d.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What temperature threshold and duration are needed during solarization to help eradicate TMV?",
+                "answer": "Achieve temperatures exceeding 40°C for 10 to 13 days.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Solarization Method"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "e0339cfb115005f4e31484f0299ef460.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What should I do if I find it difficult to manage green manure without a plough?",
+                "answer": "Seek advice on methods to destroy green manure without ploughing, as this is the biggest challenge in non-inverse tillage systems.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Advisory support for non-inverse tillage as soil improvement"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d6a848ada100c51436a47296d82589dc.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What is the recommended method for assessing the biodiversity levels of insects in a field?",
+                "answer": "Mark several 1x1 metre areas and count all flower-visiting insects observed for 10 minutes in each square.",
+                "contexts": [
+                    {
+                        "page": 35,
+                        "section_name": "ASSESS BIODIVERSITY LEVELS ON YOUR FARM"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9c67846c5e9f5b9c5acefd28646fd97b.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for having my farm's biosecurity verified by an advisor?",
+                "answer": "Undergo verification either through an online videochat or a personal farm visit where 47 questions will be scored.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "How to control?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9fc9fc6e2cb3866c5d73b8a3afce9055.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I create an environment that encourages active learning and reduces participant defense mechanisms?",
+                "answer": "Avoid a traditional classroom atmosphere, value every question and response, and create space for informal exchange and social interaction.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "Create a welcoming and positive environment to facilitate learning processes"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "84df55a662c0fcac273935ad6f99d46b.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What should I do if local actors are unable to participate in governance meetings due to work commitments?",
+                "answer": "Schedule meetings at times that suit local actors, provide sufficient notice, and create institutions that reflect different levels of participation (primary, secondary, and tertiary) to allow involvement in ways that suit their influence and availability.",
+                "contexts": [
+                    {
+                        "page": 6,
+                        "section_name": "2.1. Facilitating multi-level governance in mountain regions"
+                    },
+                    {
+                        "page": 7,
+                        "section_name": "2.1. Facilitating multi-level governance in mountain regions"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "How can I increase the sustainable use of local natural resources in a value chain with high water demands?",
+                "answer": "Adopt a participatory approach for developing local markets and encourage public discussion across different sectors of the value chain to align production and distribution with the region's long-term sustainability vision.",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "1.2. Sustainable Use of Local Assets"
+                    },
+                    {
+                        "page": 9,
+                        "section_name": "3.3. Adopt participatory approach in developing local markets"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "5dddde43fc693d142051344749bbfa97.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "How can I improve the health of pig lungs and increase daily growth rates?",
+                "answer": "Utilize air treated rooms to reduce ammonia concentration by 57-67%, which can lead to a 45% absence of lung injuries and higher average daily growth.",
+                "contexts": [
+                    {
+                        "page": 9,
+                        "section_name": "Animal welfare and productivity"
+                    },
+                    {
+                        "page": 11,
+                        "section_name": "Conclusions"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED DOES NOT EXPLICITLY MENTION THE"
+            }
+        ]
+    },
+    {
+        "document_id": "0bb998d1871f2c91bdde48259027c403.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How should I manage nitrogen fertilization in a durum wheat-legume intercrop to achieve high grain protein?",
+                "answer": "Limit nitrogen application, providing none unless wheat growth is significantly lower than the legume's growth.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What sowing pattern should I use to limit competition and frost risk in a durum wheat-faba bean intercrop?",
+                "answer": "Sow in two passes in alternate rows (e.g., 2 rows of wheat to 1 row of faba bean) at different depths.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 6,
+                "question": "What kind of cultivars should be selected for a durum wheat-pea intercrop to reduce the risk of lodging?",
+                "answer": "Select a wheat variety recognized for pasta quality and an afila pea variety because it is less sensitive to lodging.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "918d46c45048b43d6cfc5143ed687a3e.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What steps are necessary to obtain certified results for an environmental farm assessment?",
+                "answer": "Obtain a life-long license for €1250 per organization and pay a per-diagnosis fee (€27 for Level 1 or €50 for Level 2) to have results certified by Bureau Veritas.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Costs & Benefits"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "0f8e551786e7c621a1a9d0f88e2c950f.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach if the bureaucratic process of a public tender is too complex to navigate alone?",
+                "answer": "Hire specialist accountants or consultants to manage the documentation, or partner with companies that have dedicated teams for the procurement process.",
+                "contexts": [
+                    {
+                        "page": 10,
+                        "section_name": "4.2.3 Terms"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS THAT COSTLY SPECIALIST ACCOUNTANTS"
+            },
+            {
+                "id": 4,
+                "question": "What should I do if a public customer lacks flexible payment terms and has long delays in paying suppliers?",
+                "answer": "Ensure you have large financial reserves to cover the wait (up to six months) and look for tenders that include indexation clauses to mitigate economic risk.",
+                "contexts": [
+                    {
+                        "page": 12,
+                        "section_name": "4.4.2 Economy"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS THAT DELAYED AND INFLEXIBLE"
+            },
+            {
+                "id": 5,
+                "question": "How should I respond if the online procurement portal is not user-friendly and I lack the required computer literacy?",
+                "answer": "Seek assistance from consultant teams or the public authority's procurement office, and factor the cost of specialist administrative help into your bid.",
+                "contexts": [
+                    {
+                        "page": 12,
+                        "section_name": "4.4.3 Access"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4b600fb6df65f2fabddfac9351661942.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should I do with the excess heat generated that is not needed for drying biomass or the pyrolysis process?",
+                "answer": "Sell the excess heat to a local district heating company or use it for applications like cooling and desalination.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What is the recommended approach if I want to utilize variety of raw materials like nut shells, straw, or olive pits for biochar?",
+                "answer": "Use a controlled pyrolysis technique that allows for a variety of feedstocks, such as the Carbofex de-carbonizer.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "298c3de11002b8ebb75c4d6df64cec80.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should I do to improve the carbon sequestration capacity of agricultural soils?",
+                "answer": "Transition to environmentally sound, low-emission, and soil-friendly agricultural technologies.",
+                "contexts": [
+                    {
+                        "page": 11,
+                        "section_name": "AGROECOLOGY AND SUSTAINABLE YIELDS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "beab1ac0d9b65f1fe0c37589a13f8d99.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should I do if the farm has multiple poultry houses to visit?",
+                "answer": "Repeat the process of entering the poultry house and disinfecting footwear for each subsequent house.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Biosecurity for catching/vaccination crews"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d9db5fa312882748534322321f0e295e.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should I do if I want to transition my small farm to more environmentally friendly production methods?",
+                "answer": "Invest in modernization measures such as solar panels and fuel-efficient tractors while adopting agroecology or organic farming practices.",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": "Financial Support"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "6730c7ee66e248919bfc7d132125d31d.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "How should I handle stakeholders who have high influence but low interest in the project?",
+                "answer": "Monitor them closely and keep them captivated without exerting excessive effort, ensuring they are managed circumspectly to prevent negative influence.",
+                "contexts": [
+                    {
+                        "page": 13,
+                        "section_name": "TheGreefa Stakeholders Analysis"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "45b4b3260e958a3c102e072984918128.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "Which type of dairy cow is most appropriate to select as a foster cow?",
+                "answer": "Select a foster cow with a high somatic cell count.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Foster CCC system"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "698d1212dc14985f24c44d99a2355c62.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "How can I build or maintain a rich soil biodiversity to support a healthy ecosystem?",
+                "answer": "Provide a yearly and sufficiently high input of various organic matter sources to feed all organisms in the soil food web.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "SOIL BIODIVERSITY FOR SOIL HEALTH"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "4984664c77776fea144ec3787193e8df.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What is the recommended approach for managing soil fertility in mountain viticulture?",
+                "answer": "Focus on the management of organic matter.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "eb74c84756b422c729dae05b6653db09.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "How should I adapt the DSS parameters to my specific farm location?",
+                "answer": "Check and adapt the default parameters, specifically the start and end days of the control period based on your growing season and recorded fungicide applications.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "DSS parameters"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "aa485d73a61d32d17cda4e2165ade653.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What should be done to overcome the high administrative burden and complex IT interfaces of current public procurement systems?",
+                "answer": "Introduce a Dynamic Purchasing System (DPS) and provide education for both procurers and producers on how to use it.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Barriers"
+                    },
+                    {
+                        "page": 3,
+                        "section_name": "Recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "a6dd88e921c82586e6e0c901737cb786.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "How can I quantify the land footprint required to sustain the food demand of a specific urban population based on their diet?",
+                "answer": "Apply the Metropolitan Foodscape Planner (MFP) to measure the ecological footprint in 'local hectares,' distinguishing between plant-based and meat-based production zones.",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": "2.1. Metropolitan Foodscape Planner (MFP 2.0)"
+                    },
+                    {
+                        "page": 8,
+                        "section_name": "2.1. Metropolitan Foodscape Planner (MFP 2.0)"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS THAT THE METROPOLITAN FOODSCAPE"
+            }
+        ]
+    },
+    {
+        "document_id": "0e5cc2818e8d24834f098ae8f4e1b9e0.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "What is the consequence if a farm fails to meet biosecurity requirements after a second inspection?",
+                "answer": "The farm will face penalties for non-compliance.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Jak wygląda harmonogram kontroli bioasekuracji?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "23acca4c076065984736c3fd5320b01c.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What is the recommended approach for accelerating vegetable growth in early spring?",
+                "answer": "Use a compost-heated hotbed to warm the soil and air in the seedbed, which can accelerate yields, such as radishes, by 5 to 12 days.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Biological waste as a source of low-temperature heat for hotbeds"
+                    },
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "88e5ecaa662b3d4f95a2474fe63969a0.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "Which Life Cycle Impact Assessment (LCIA) method should I use to best evaluate food loss and waste prevention actions?",
+                "answer": "Use the Environmental Footprint v3.0 (EF v3.0) method, as it allows for midpoint assessment and provides weighting factors to aggregate results into a single score.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    },
+                    {
+                        "page": 9,
+                        "section_name": "3.2. LCIA selection"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED STATES THAT THE ENVIRONMENTAL FOOT"
+            },
+            {
+                "id": 4,
+                "question": "How can I effectively tackle the lack of knowledge among producers and consumers regarding the impacts of food loss?",
+                "answer": "Invest in technologies, infrastructure, education, and monitoring to implement data-driven policies.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "1. Introduction"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS INVESTING IN TECHNOLOGIES, INFRASTRUCTURE"
+            }
+        ]
+    },
+    {
+        "document_id": "a2e7bd2287a1cefe13f8233d940794b7.pdf",
+        "category": "forestry",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "What is the recommended approach for a small enterprise to start microchip production with low investment?",
+                "answer": "Use locally available raw materials, low-investment technology like tractor-powered chippers, and reach final users directly without intermediaries.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "8412c8ba94ea2c0185a1b20be2cbd149.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How should I manage a grassland to ensure it is classified as 'Managed' rather than 'Abandoned' according to the PG identification key?",
+                "answer": "Manage it by livestock grazing or mowing at least every two years.",
+                "contexts": [
+                    {
+                        "page": 15,
+                        "section_name": "APPENDIX 1. IDENTIFICATION KEY FOR PG TYPES"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "083934e7dcc9eb9bc47f7718da6ddbc9.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "How can I prevent soil damage and poaching when grazing in wet weather?",
+                "answer": "Implement on/off grazing for approximately six hours per day, use a back fence to protect regrowth, and utilize the most sheltered and driest paddocks.",
+                "contexts": [
+                    {
+                        "page": 52,
+                        "section_name": "How to grow more grass"
+                    },
+                    {
+                        "page": 69,
+                        "section_name": "Managing a wet autumn"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 3,
+                "question": "What is the recommended approach if pre-grazing yields exceed 1800 kg DM/ha during the summer?",
+                "answer": "Remove the excess grass as baled silage as soon as possible to prevent a decline in grass quality and ensure paddocks return to the rotation quickly.",
+                "contexts": [
+                    {
+                        "page": 66,
+                        "section_name": "Summer"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "How can I prevent damage to silage bale wraps from rodents and birds?",
+                "answer": "Use at least four layers of plastic, check bales for holes regularly, fix punctures quickly, and store them on a compacted or stony floor away from hedge bases.",
+                "contexts": [
+                    {
+                        "page": 83,
+                        "section_name": "Silage"
+                    },
+                    {
+                        "page": 89,
+                        "section_name": "Ensiling process"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "2e934c0b5ac8b41119941e70818be217.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I prevent flock infection risks when utilizing external teams for vaccination or litter removal?",
+                "answer": "Train and use internal teams rather than external ones, or establish appropriate dedicated procedures and rooms to ensure external visitors like veterinarians and vaccination teams enter and leave the farm safely.",
+                "contexts": [
+                    {
+                        "page": 20,
+                        "section_name": "4.1 Content of the First set EIP abstracts"
+                    },
+                    {
+                        "page": 21,
+                        "section_name": "4.1 Content of the First set EIP abstracts"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "acf52775f4b55921f8250a47d9b815e7.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What should be done to make mountain value chains more attractive for young workers?",
+                "answer": "Foster a sense of identity through the value chain, provide training and knowledge transfer via local cooperatives, and ensure adequate access to services.",
+                "contexts": [
+                    {
+                        "page": 6,
+                        "section_name": "2.2. Moderate attention for inclusiveness"
+                    },
+                    {
+                        "page": 8,
+                        "section_name": "3.1. Low-cost measures inspired by Italian strategy for inner areas"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What should territorial actors do to effectively address social challenges in mountain communities?",
+                "answer": "They should listen to local communities to identify socially agreed solutions and use methodologies based on the distance from service delivery points to identify areas in need of support.",
+                "contexts": [
+                    {
+                        "page": 5,
+                        "section_name": "Challenges addressed"
+                    },
+                    {
+                        "page": 8,
+                        "section_name": "3.1. Low-cost measures inspired by Italian strategy for inner areas"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "dbff7fbf45d6b55d48a0ab58d4114dc2.pdf",
+        "category": "society",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I find the exact geographical locations of small farms willing to sell local products?",
+                "answer": "Access the interactive map on the initiative's website (novadagarsa.lv) to browse by territory and product category.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": "Practical recommendations"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "dd2b197bbf5bf81c9a1a6c3cc5ca3d5a.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How should I calculate the grazing intensity score (Sg) to determine the yearly number of livestock unit grazing days per hectare?",
+                "answer": "Multiply the length of each stocking period by the stocking density (LU/ha) during that period and sum for all stocking periods of the year.",
+                "contexts": [
+                    {
+                        "page": 17,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What should I do if I am managing a grassland and want to identify its specific Permanent Grassland (PG) type?",
+                "answer": "Use the identification flowchart to check if management occurs at least every two years, determine the crown cover of woody plants, and then assess management intensity.",
+                "contexts": [
+                    {
+                        "page": 16,
+                        "section_name": "APPENDIX 1. IDENTIFICATION KEY FOR PG TYPES"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "9e868d9630e25b3a87ab02851158fe30.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I encourage birds to use the outdoor range more effectively?",
+                "answer": "Provide early access to the range, ensure popholes are large and inviting, and place shelters or trees close to the shed to attract birds out.",
+                "contexts": [
+                    {
+                        "page": 24,
+                        "section_name": "USE OF THE RANGE IN FREE-RANGE SYSTEMS"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "fa94903b13be7199fedf9aad6876a639.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What is the best way to recover water from air humidity in hot and dry climates without purification systems?",
+                "answer": "Use evapo-condensation strategies, such as sorptive drying and evaporative cooling with saline water.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "Why TheGreefa"
+                    },
+                    {
+                        "page": 3,
+                        "section_name": "Ways to achieve TheGreefa’s goals"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS \"WATER RECOVERY BY EV"
+            }
+        ]
+    },
+    {
+        "document_id": "e351e6dcd453f7539f8e727a9436fd40.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "How can I reduce production costs and improve efficiency in the organic olive value chain?",
+                "answer": "Implement circular strategies for by-product use and foster collaborative and short-circuit collaborations across the value chain.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "2. Value chain contribution to resilience and sustainability"
+                    },
+                    {
+                        "page": 3,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 5,
+                "question": "What should be done to empower young and women producers in the mountain olive sector?",
+                "answer": "Implement capacity building and training resources through CAP mechanisms and fund community-led environmental projects.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": null
+                    },
+                    {
+                        "page": 4,
+                        "section_name": "4. Recommendation for future policies"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS THAT EMPOWERING YOUNG AND WOMEN"
+            }
+        ]
+    },
+    {
+        "document_id": "09fa3e65af5b64176f8e1cd5b56a8032.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How can I improve the feasibility of a district heating network project that faces public resistance?",
+                "answer": "Establish the power plant as a reliable partner that offers hassle-free residential heating at competitive prices to build community trust.",
+                "contexts": [
+                    {
+                        "page": 2,
+                        "section_name": "ADDITIONAL INFORMATION"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "50b3caf0027b9be439598a1bff50885c.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can a group of small farmers increase their bargaining power and collaborate more effectively in the food chain?",
+                "answer": "Establish legal agri-food supply chain agreements that require actor collaboration, invest in a 'culture of cooperation' for collective marketing, and define minimum prices through sector-specific packages.",
+                "contexts": [
+                    {
+                        "page": 4,
+                        "section_name": "Regulation"
+                    },
+                    {
+                        "page": 5,
+                        "section_name": "Financial Support"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "e5f1319e1ef9ef2276fd462cfa9b97b7.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 4,
+                "question": "How can I prevent soil erosion and surface runoff during the renovation of permanent grasslands?",
+                "answer": "Minimize the period of bare soil and avoid intensive cutting or heavy traffic management after heavy rainfall.",
+                "contexts": [
+                    {
+                        "page": 7,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED DOES NOT EXPLICITLY MENTION METHODS"
+            }
+        ]
+    },
+    {
+        "document_id": "aab721bffa937b58d55bf75f84b8463a.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "What steps should I take if a demonstration involves a high risk of spreading pests or diseases?",
+                "answer": "Strictly implement and communicate (bio)security measures as part of the facility and equipment checklist.",
+                "contexts": [
+                    {
+                        "page": 15,
+                        "section_name": "FACILITIES & EQUIPMENT"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "fd40f08d58697e857a80976b15e518e3.pdf",
+        "category": "economics",
+        "qa_pairs": [
+            {
+                "id": 2,
+                "question": "What elements should be included in a story line to reflect the learning process during implementation?",
+                "answer": "Include the challenge, the starting AHA moment, the struggle with implementation ('valley of tears'), solution moments, and the final impact.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Story line includes learning processes during implementation (challenges, success)"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "1f9e7a3c1ddbb4f20f8318318a66803e.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 1,
+                "question": "What actions should be taken if orchard management and processing efforts have been halted by a pest infestation?",
+                "answer": "Rationalize management techniques, support operators, and focus on product diversification and qualification to address loss of knowledge.",
+                "contexts": [
+                    {
+                        "page": 1,
+                        "section_name": null
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT PROVIDED DOES NOT EXPLICITLY STATE THAT"
+            }
+        ]
+    },
+    {
+        "document_id": "88a08a3dbeed38aabd3456accdbe727a.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What are the requirements for maintaining a valid biosecurity certificate for my poultry farm?",
+                "answer": "Obtain a certificate from a BTT expert after an online video chat or personal visit; be aware that this certificate is valid for 1 year.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "Hogyan ellenőrzik?"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "e8865969d542f5fc5a0e646b0bce8f99.pdf",
+        "category": "livestock",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What should I do to ensure external visitors do not compromise my farm's biosecurity?",
+                "answer": "Provide specific farm equipment and footwear for visitors, install alcohol dispensers at entrance hygiene locks, and use disinfection gates for vehicle management.",
+                "contexts": [
+                    {
+                        "page": 19,
+                        "section_name": "Discussion & Conclusions"
+                    },
+                    {
+                        "page": 40,
+                        "section_name": "ANNEX"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            },
+            {
+                "id": 4,
+                "question": "How can I optimize the cleaning and disinfection protocol for my poultry housing?",
+                "answer": "Add detergent to the protocol, perform bacterial autocontrol after procedures, and use specific materials like different colored buckets and overalls for each house to prevent cross-contamination.",
+                "contexts": [
+                    {
+                        "page": 39,
+                        "section_name": "ANNEX"
+                    },
+                    {
+                        "page": 42,
+                        "section_name": "ANNEX"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "d6a8b2c7db5ed51efa38e1f0538d54a8.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 5,
+                "question": "How should I calculate the grazing intensity score (Sg) to determine the management type of my grassland?",
+                "answer": "Multiply the length of each stocking period by the stocking density (LU/ha) during that period and sum the results for all stocking periods in the year.",
+                "contexts": [
+                    {
+                        "page": 17,
+                        "section_name": "Calculating management intensity and type of utilisation"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "2383cbea93bea3df351f09b2ab8911ea.pdf",
+        "category": "environment",
+        "qa_pairs": [
+            {
+                "id": 0,
+                "question": "How can the viability of High Nature Value (HNV) farming be enhanced when facing social and institutional constraints like depopulation?",
+                "answer": "Adopt an innovative and integrated approach to foster profitability and socio-economic viability, including adding value to products and utilizing nature-friendly mechanization.",
+                "contexts": [
+                    {
+                        "page": 3,
+                        "section_name": "2. HNV farming’s contribution to resilience and sustainability"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE"
+            }
+        ]
+    },
+    {
+        "document_id": "f14d5a9fdb41e8fb28a022cb53339545.pdf",
+        "category": "crop farming",
+        "qa_pairs": [
+            {
+                "id": 3,
+                "question": "What strategy should be adopted to maximize the economic benefits of Cretan carob products in the market?",
+                "answer": "Focus on the quality rather than the quantity of products and seek PDO/PGI certifications.",
+                "contexts": [
+                    {
+                        "page": 6,
+                        "section_name": "4. Recommendation for future policies"
+                    }
+                ],
+                "fail_reason": "Model rejected: FALSE\n\nTHE CONTEXT MENTIONS FOCUSING ON THE QUALITY AND"
+            }
+        ]
+    }
+]

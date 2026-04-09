@@ -1,0 +1,44 @@
+--- Stats for silver EUFB dataset (invalid=False): data/filtered_silver_dataset_QA.json ---
+Total documents: 561
+Total QA pairs: 3174
+Avg QA pairs per KO: 5.66
+Max QA pairs in a KO: 8
+Min QA pairs in a KO: 1
+
+
+--- Stats for silver EUFB dataset (invalid=True): data/filtered_silver_dataset_QA.invalid.json ---
+Total documents: 108
+Total QA pairs: 151
+Avg QA pairs per KO: 1.40
+Max QA pairs in a KO: 6
+Min QA pairs in a KO: 1
+--- FAILURE REASONS ---
+- Model rejected: FALSE >>> 116 (76.8%)
+- Missing 'question' or 'answer' key in QA pair >>> 6 (4.0%)
+- Empty text extraction on page 9 >>> 2 (1.3%)
+- Empty text extraction on page 8 >>> 2 (1.3%)
+- Model rejected: FALSE. THE PROVIDED CONTEXT DISCUSSES THE DIFFERENCES BETWEEN ENTREPRENEURIAL >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS "ESTABLISHING SYSTEMS FOR >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED DISCUSSES THE LIMITATIONS OF AK >>> 1 (0.7%)
+- Model rejected: FALSE. THE PROVIDED CONTEXT DOES NOT SPECIFICALLY MENTION THAT >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED DOES NOT SPECIFY HOW A >>> 1 (0.7%)
+- Empty text extraction on page 11 >>> 1 (0.7%)
+- Empty text extraction on page 7 >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS USING OFFLINE COMMUNICATION METHODS AND >>> 1 (0.7%)
+- Model rejected: FALSE. WHILE THE CONTEXT MENTIONS THAT THERE WAS AN >>> 1 (0.7%)
+- Model rejected: FALSE. WHILE THE CONTEXT MENTIONS PARTICIPATORY DECISION-MAKING >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT DISCUSSES THE POTENTIAL FOR SOCIAL NETWORKS >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT SPECIFIES THAT MECHANICAL DESTRUCTION OF GRASS >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED MENTIONS BIOREBA AG >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS THE 'HOP-ON HOP >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED DOES NOT EXPLICITLY MENTION THE >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS THAT COSTLY SPECIALIST ACCOUNTANTS >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS THAT DELAYED AND INFLEXIBLE >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS THAT THE METROPOLITAN FOODSCAPE >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED STATES THAT THE ENVIRONMENTAL FOOT >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS INVESTING IN TECHNOLOGIES, INFRASTRUCTURE >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS "WATER RECOVERY BY EV >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS THAT EMPOWERING YOUNG AND WOMEN >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED DOES NOT EXPLICITLY MENTION METHODS >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT PROVIDED DOES NOT EXPLICITLY STATE THAT >>> 1 (0.7%)
+- Model rejected: FALSE. THE CONTEXT MENTIONS FOCUSING ON THE QUALITY AND >>> 1 (0.7%)
