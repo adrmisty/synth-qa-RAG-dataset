@@ -58,11 +58,6 @@ class SilverDatasetGenerator:
                 logging.warning(f"\t> (!) File not found: {pdf_path}")
                 continue
 
-            """ ** langdetect not so good **
-            if not self._is_english(pdf_path):
-                logging.info(f"\t> (!) File not in English: {pdf_path}")
-                continue
-            """ 
             try:
                 with open(pdf_path, "rb") as f:
                     pdf_bytes = f.read()
