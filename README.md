@@ -19,31 +19,7 @@ The pipeline consists of two phases:
 Ensure you have a GPU-enabled environment for the local filtering phase.
 
 ```bash
-pip install torch transformers pypdf tqdm langdetect accelerate google-genai```
-
-```python?code_reference&code_event_index=2
-content = """# Synthetic QA Dataset Generator (RAG Evaluation)
-
-This pipeline generates and validates a synthetic "silver standard" Question-Answering dataset from PDF documents to evaluate Retrieval-Augmented Generation (RAG) systems. It was designed for the EUFARMBOOK domain.
-
-The pipeline consists of two phases:
-1. **Generation:** Uses the Gemini API to extract context-grounded QA pairs (both factual and advice-based) from English PDFs.
-2. **Filtering:** Uses a local open-weights LLM (e.g., Qwen 2.5) to independently verify that the extracted contexts fully support the generated answers.
-
-## Project Structure
-
-* `main.py`: CLI entrypoint to execute the pipeline phases.
-* `config.py`: Centralized configuration for model names, paths, and API keys.
-* `generate.py`: Handles language filtering (`langdetect`), metadata integration, and Gemini API calls to generate the raw dataset.
-* `filter.py`: Handles zero-shot validation using a local Hugging Face causal LM, outputting valid and invalid JSON datasets.
-* `prompt.md` / `prompt_ADVICE.md`: System instructions for the Gemini generation phase.
-
-## Requirements
-
-Ensure you have a GPU-enabled environment for the local filtering phase, and the Google GenAI SDK.
-
-```bash
-pip install torch transformers pypdf tqdm langdetect accelerate
+pip install torch transformers pypdf tqdm langdetect accelerate google-genai
 ```
 
 ## Configuration
